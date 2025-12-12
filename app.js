@@ -4,6 +4,7 @@ import dotenv from "dotenv";
 import morgan from "morgan";
 
 import authRoutes from "./routes/auth.routes.js";
+import userRoutes from "./routes/user.routes.js";
 import errorHandler from "./middlewares/error.middleware.js";
 
 dotenv.config({ path: ".env.local" });
@@ -18,7 +19,7 @@ if (process.env.NODE_ENV === "development") {
 
 // Routes
 app.use("/api/v1/auth", authRoutes);
-// app.use("/api/v1/users", userRoutes);
+app.use("/api/v1/users", userRoutes);
 
 app.use(errorHandler);
 

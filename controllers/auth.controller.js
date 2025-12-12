@@ -57,7 +57,7 @@ export const login = catchAsync(async (req, res, next) => {
   // Check if all fields are provided
   if (!email || !password) throw new AppError(400, "All fields are required");
 
-  // Check if user exists
+  // Check if user exists and include password field (which is normally excluded)
   const user = await User.findOne({ email }).select("+password");
 
   if (!user || !(await user.correctPassword(password, user.password)))

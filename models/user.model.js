@@ -41,15 +41,23 @@ const userSchema = new mongoose.Schema(
     },
     confirmPassword: {
       type: String,
-      required: [true, "Confirm password is required"],
+      required: function () {
+        // Only required when password is being set/modified
+        return this.isNew || this.isModified("password");
+      },
       validate: {
         // This only work on SAVE & CREATE
         validator: function (el) {
-          return el === this.password;
+          // Only validate if password is being set/modified
+          if (this.isNew || this.isModified("password")) {
+            return el === this.password;
+          }
+          return true;
         },
         message: "Passwords are not the same",
       },
       trim: true,
+      select: false,
     },
     role: {
       type: String,
@@ -84,8 +92,8 @@ userSchema.pre("save", async function () {
   // Pass the password with cost of 12 (CPU intensive)
   this.password = await bcrypt.hash(this.password, 12);
 
-  // Delete the password confirm
-  this.passwordConfirm = undefined; // delete from DB
+  // Delete the password confirm (don't save to DB)
+  this.confirmPassword = undefined;
 });
 
 // INSTANCE METHOD: METHOD AVAILABLE TO ALL DOCS IN THE COLLECTION

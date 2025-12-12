@@ -32,8 +32,10 @@ export const protect = catchAsync(async (req, res, next) => {
     );
   }
 
-  // 4) Check if user change pwd after token was issued
-  freshUser.changedPasswordAfter(decoded.iat);
+  // // 4) Check if user change pwd after token was issued
+  // freshUser.changedPasswordAfter(decoded.iat);
 
+  // 5) Grant access to protected route
+  req.user = freshUser;
   next();
 });
