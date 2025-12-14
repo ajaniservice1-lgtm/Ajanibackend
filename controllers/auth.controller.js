@@ -1,21 +1,16 @@
-import supabase from "../config/supabase.js";
-import bcrypt from "bcryptjs";
-import crypto from "crypto";
 import { generateToken } from "../utils/generateToken.js";
 import User from "../models/user.model.js";
 import catchAsync from "../utils/catchAsync.js";
 import AppError from "../utils/errorHandler.js";
 import sendEmail from "../utils/sendEmail.js";
+import crypto from "crypto";
 
 export const register = catchAsync(async (req, res) => {
-  const { firstName, lastName, email, phone, password, confirmPassword, role } = req.body;
+  const { firstName, lastName, email, phone, password, role } = req.body;
 
   // Check if all fields are provided
   if (!firstName || !lastName || !email || !password)
     throw new AppError(400, "All fields are required");
-
-  const verificationToken = crypto.randomBytes(32).toString("hex");
-  const verificationTokenExpires = new Date(Date.now() + 24 * 60 * 60 * 1000); // 24 hours
 
   const user = await User.create({
     firstName,
@@ -23,34 +18,27 @@ export const register = catchAsync(async (req, res) => {
     email,
     phone,
     password,
-    confirmPassword,
     role,
-    verificationToken,
-    verificationTokenExpires,
   });
 
-  const verifyLink = `${req.protocol}://${req.get("host")}/api/v1/auth/verify?token=${verificationToken}`;
-
   await sendEmail({
-    from: "Ajani AI <noreply@ajani.com>",
     to: email,
-    subject: "Verify your account",
+    subject: "Welcome to Ajani! Registration Successful",
     html: `<p>Hi ${firstName || "there"},</p>
-           <p>Please verify your account by clicking the link below:</p>
-           <a href="${verifyLink}">Verify my account</a>
-           <p>This link will expire in 24 hours.</p>
-           <p>If button does not work, you can copy and paste the link below into your browser:</p>
-           <p>${verifyLink}</p>
-
-           <p>If you did not request this verification, please ignore this email.</p>
-           <p>Thank you for registering with us.</p>
+           <p>Congratulations! Your account has been successfully created.</p>
+           <p>You can now start using all the features of Ajani.</p>
+           <p>Thank you for joining us!</p>
            <p>Best regards,</p>
            <p>Ajani Team</p>`,
   });
 
-  res.status(201).json({ message: "Check your email to verify", data: user });
+  // Remove password from output
+  user.password = undefined;
+
+  res.status(201).json({ message: "Registration successful! Welcome email sent.", data: user });
 });
 
+// LOGIN USER
 export const login = catchAsync(async (req, res, next) => {
   const { email, password } = req.body;
 
@@ -63,34 +51,65 @@ export const login = catchAsync(async (req, res, next) => {
   if (!user || !(await user.correctPassword(password, user.password)))
     return next(new AppError("Incorrect email or password", 400));
 
-  // Check if user is verified
-  if (!user.isVerified) throw new AppError(400, "User is not verified");
-
-  // Check if user is active
-  if (!user.isActive) throw new AppError(400, "User is not active");
-
   // Generate token - When everything is correct
   const token = generateToken(user);
+
+  // Remove password from output
+  user.password = undefined;
 
   res.status(200).json({ message: "Login successful", data: user, token });
 });
 
-// Verify email
-export const verifyEmail = catchAsync(async (req, res) => {
-  const token = req.query.token || req.body.token;
-  if (!token) throw new AppError(400, "Verification token missing");
+// FORGOT PASSWORD
+export const forgotPassword = catchAsync(async (req, res) => {
+  const { email } = req.body;
 
-  const user = await User.findOne({
-    verificationToken: token,
-    verificationTokenExpires: { $gt: Date.now() },
+  // Check if email is provided
+  if (!email) throw new AppError(400, "Email is required");
+
+  // Check if user exists
+  const user = await User.findOne({ email });
+  if (!user) throw new AppError(400, "Reset link will be sent if it exists");
+
+  // Generate reset token
+  const resetToken = crypto.randomBytes(32).toString("hex");
+  const resetTokenExpires = new Date(Date.now() + 10 * 60 * 1000); // 10 minutes
+  const resetLink = `${process.env.FRONTEND_URL}/reset-password?token=${resetToken}`;
+
+  // Save reset token to user
+  user.resetToken = resetToken;
+  user.resetTokenExpires = resetTokenExpires;
+  await user.save();
+
+  // Send reset email
+  await sendEmail({
+    to: email,
+    subject: "Reset your password",
+    html: `<p>Hi ${user.firstName || "there"},</p>
+    <p>Click the link below to reset your password:</p>
+    <p>This link will expire in 10 minutes.</p>
+    <a href="${resetLink}">Reset my password</a>`,
   });
 
-  if (!user) throw new AppError(400, "Token invalid or expired");
+  res.status(200).json({
+    message: "Reset password email sent",
+  });
+});
 
-  user.isVerified = true;
-  user.verificationToken = null;
-  user.verificationTokenExpires = null;
-  await user.save({ validateBeforeSave: false });
+// RESET PASSWORD
+export const resetPassword = catchAsync(async (req, res) => {
+  const { token, password } = req.body;
+  if (!token || !password) throw new AppError(400, "All fields are required");
 
-  res.status(200).json({ message: "Email verified", data: user });
+  const user = await User.findOne({ resetToken: token, resetTokenExpires: { $gt: Date.now() } });
+  if (!user) throw new AppError(400, "Invalid or expired token");
+
+  user.resetToken = null;
+  user.resetTokenExpires = null;
+  await user.save();
+
+  // Remove password from output
+  user.password = undefined;
+
+  res.status(200).json({ message: "Password reset successful", data: user });
 });
