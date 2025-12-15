@@ -4,9 +4,12 @@ import dotenv from "dotenv";
 import morgan from "morgan";
 import rateLimit from "express-rate-limit";
 import helmet from "helmet";
+
+import errorHandler from "./middlewares/error.middleware.js";
+
 import authRoutes from "./routes/auth.routes.js";
 import userRoutes from "./routes/user.routes.js";
-import errorHandler from "./middlewares/error.middleware.js";
+import listingRoutes from "./routes/listing.routes.js";
 
 dotenv.config({ path: ".env.local" });
 const app = express();
@@ -15,7 +18,14 @@ const app = express();
 // Set security HTTP headers
 app.use(helmet());
 
-app.use(cors());
+app.use(
+  cors({
+    origin: [process.env.FRONTEND_URL, "http://localhost:5173"],
+    credentials: true,
+    methods: ["GET", "POST", "PUT", "DELETE"],
+    allowedHeaders: ["Content-Type", "Authorization"],
+  })
+);
 
 // Development logging
 if (process.env.NODE_ENV === "development") {
@@ -36,6 +46,7 @@ app.use("/api", limiter);
 // Routes
 app.use("/api/v1/auth", authRoutes);
 app.use("/api/v1/users", userRoutes);
+app.use("/api/v1/listings", listingRoutes);
 
 app.use(errorHandler);
 
