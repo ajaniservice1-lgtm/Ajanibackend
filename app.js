@@ -14,6 +14,9 @@ import listingRoutes from "./routes/listing.routes.js";
 dotenv.config({ path: ".env.local" });
 const app = express();
 
+// Tell Express it's behind a proxy (like Render) so rate limiting works correctly
+app.set("trust proxy", 1);
+
 // Global middlewares
 // Set security HTTP headers
 app.use(helmet());
