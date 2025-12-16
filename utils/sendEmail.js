@@ -1,6 +1,10 @@
 import nodemailer from "nodemailer";
 import dotenv from "dotenv";
-dotenv.config({ path: ".env.local" });
+
+// Load .env.local only in development
+if (process.env.NODE_ENV !== "production") {
+  dotenv.config({ path: ".env.local" });
+}
 
 // Check if email credentials are set
 if (!process.env.GOOGLE_EMAIL || !process.env.GOOGLE_APP_PASSWORD) {
@@ -16,8 +20,12 @@ const transporter = nodemailer.createTransport({
     pass: process.env.GOOGLE_APP_PASSWORD,
   },
   family: 4, // 👈 forces IPv4 (IMPORTANT)
-  connectionTimeout: 10000,
-  socketTimeout: 10000,
+  connectionTimeout: 60000, // Increased to 60 seconds for Render
+  socketTimeout: 60000, // Increased to 60 seconds for Render
+  greetingTimeout: 30000, // 30 seconds for greeting
+  tls: {
+    rejectUnauthorized: false, // Allow self-signed certificates if needed
+  },
 });
 
 const sendEmail = async ({ to, subject, html }) => {
