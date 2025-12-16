@@ -8,12 +8,27 @@ if (!process.env.GOOGLE_EMAIL || !process.env.GOOGLE_APP_PASSWORD) {
 }
 
 const transporter = nodemailer.createTransport({
-  service: "gmail",
+  host: "smtp.gmail.com",
+  port: 587,
+  secure: false, // STARTTLS
   auth: {
-    user: process.env.GOOGLE_EMAIL || "",
-    pass: process.env.GOOGLE_APP_PASSWORD || "",
+    user: process.env.GOOGLE_EMAIL,
+    pass: process.env.GOOGLE_APP_PASSWORD,
   },
+  family: 4, // 👈 forces IPv4 (IMPORTANT)
+  connectionTimeout: 10000,
+  socketTimeout: 10000,
 });
+
+// const transporter = nodemailer.createTransport({
+//   host: "mail.ajani.ai",
+//   port: 465, // secure SMTP port
+//   secure: true, // true for SSL/TLS
+//   auth: {
+//     user: "ajani@ajani.ai", // your internship email
+//     pass: "ajani@123", // actual email password
+//   },
+// });
 
 const sendEmail = async ({ to, subject, html }) => {
   // Skip sending if credentials are missing
@@ -26,7 +41,7 @@ const sendEmail = async ({ to, subject, html }) => {
 
   try {
     await transporter.sendMail({
-      from: `Ajani AI <${process.env.EMAIL_USER}>`,
+      from: `Ajani AI <${process.env.GOOGLE_EMAIL || process.env.EMAIL_USER}>`,
       to,
       subject,
       html,
@@ -34,7 +49,8 @@ const sendEmail = async ({ to, subject, html }) => {
 
     console.log("Email sent successfully");
   } catch (error) {
-    console.log("Email error:", error.message);
+    console.log("Email error:", error.message, error);
+    // Don't throw - email failures shouldn't break the app
   }
 };
 

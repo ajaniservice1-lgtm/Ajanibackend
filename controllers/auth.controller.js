@@ -21,21 +21,28 @@ export const register = catchAsync(async (req, res) => {
     role,
   });
 
-  await sendEmail({
+  // Send email in background (don't wait for it)
+  sendEmail({
     to: email,
     subject: "Welcome to Ajani! Registration Successful",
     html: `<p>Hi ${firstName || "there"},</p>
            <p>Congratulations! Your account has been successfully created.</p>
            <p>You can now start using all the features of Ajani.</p>
+            <a href="${process.env.FRONTEND_URL}" style="text-decoration: none; padding: 10px; border-radius: 5px; background-color: #007bff; display: inline-block; margin-top: 10px; color: white;">Explore Our Listings</a>
            <p>Thank you for joining us!</p>
            <p>Best regards,</p>
            <p>Ajani Team</p>`,
-  });
+  }).catch(err => console.error("Email sending failed:", err));
+
+  // Generate token - When everything is correct
+  const token = generateToken(user);
 
   // Remove password from output
   user.password = undefined;
 
-  res.status(201).json({ message: "Registration successful! Welcome email sent.", data: user });
+  res
+    .status(201)
+    .json({ message: "Registration successful! Welcome email sent.", data: user, token });
 });
 
 // LOGIN USER
@@ -81,15 +88,15 @@ export const forgotPassword = catchAsync(async (req, res) => {
   user.resetTokenExpires = resetTokenExpires;
   await user.save();
 
-  // Send reset email
-  await sendEmail({
+  // Send reset email in background (don't wait for it)
+  sendEmail({
     to: email,
     subject: "Reset your password",
     html: `<p>Hi ${user.firstName || "there"},</p>
     <p>Click the link below to reset your password:</p>
     <p>This link will expire in 10 minutes.</p>
     <a href="${resetLink}">Reset my password</a>`,
-  });
+  }).catch(err => console.error("Email sending failed:", err));
 
   res.status(200).json({
     message: "Reset password email sent",

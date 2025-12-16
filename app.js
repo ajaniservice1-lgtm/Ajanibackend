@@ -22,7 +22,13 @@ app.set("trust proxy", 1);
 app.use(
   cors({
     origin: (origin, callback) => {
-      const allowedOrigins = [process.env.FRONTEND_URL, "http://localhost:5173"].filter(Boolean); // Remove undefined values
+      const allowedOrigins = [
+        process.env.FRONTEND_URL,
+        "https://ajani.ai/",
+        "https://ajaniv3.vercel.app/",
+        "http://localhost:5173",
+        "http://localhost:3000",
+      ].filter(Boolean); // Remove undefined values
 
       if (!origin || allowedOrigins.includes(origin)) {
         callback(null, true);
@@ -35,9 +41,6 @@ app.use(
     allowedHeaders: ["Content-Type", "Authorization"],
   })
 );
-
-// 2. Place CORS middleware before other middleware
-app.options("*", cors()); // Handle preflight
 
 // Body parser, reading data from body into req.body
 app.use(express.json());
