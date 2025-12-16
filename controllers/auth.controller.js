@@ -4,7 +4,7 @@ import catchAsync from "../utils/catchAsync.js";
 import AppError from "../utils/errorHandler.js";
 // import sendEmail from "../utils/sendEmail.js";
 import crypto from "crypto";
-import sendEmailResend from "../utils/resend.js";
+// import sendEmailResend from "../utils/resend.js";
 import sendEmail from "../utils/sendEmail.js";
 import {
   userRegistrationEmailTemplate,
