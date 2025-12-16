@@ -2,6 +2,33 @@ import mongoose from "mongoose";
 import bcrypt from "bcryptjs";
 import validator from "validator";
 
+// Vendor Schema (for vendors - needs admin approval)
+const vendorSchema = new mongoose.Schema(
+  {
+    approvalStatus: {
+      type: String,
+      enum: ["pending", "approved", "rejected"],
+      default: "pending",
+    },
+    approvedAt: {
+      type: Date,
+      default: null,
+    },
+    businessName: {
+      type: String,
+      trim: true,
+      default: null,
+    },
+    businessAddress: {
+      type: String,
+      trim: true,
+      default: null,
+    },
+  },
+  { _id: false }
+);
+
+// User Schema (for regular users)
 const userSchema = new mongoose.Schema(
   {
     firstName: {
@@ -38,11 +65,9 @@ const userSchema = new mongoose.Schema(
       maxlength: [32, "Password must be less than 32 characters long"],
       trim: true,
     },
-
-    role: {
+    profilePicture: {
       type: String,
-      enum: ["user", "vendor", "admin"],
-      default: "user",
+      default: null,
     },
     verificationToken: {
       type: String,
@@ -68,22 +93,31 @@ const userSchema = new mongoose.Schema(
       type: Boolean,
       default: true,
     },
+    role: {
+      type: String,
+      enum: ["user", "admin", "vendor"],
+      default: "user",
+    },
+
+    vendor: {
+      type: vendorSchema,
+      default: null,
+    },
   },
   { timestamps: true }
 );
 
-// Hash password before saving
-userSchema.pre("save", async function () {
-  // Only run if password was actually modified
-  if (!this.isModified("password")) return;
+userSchema.index({ role: 1 });
+userSchema.index({ "vendor.approvalStatus": 1 });
 
-  // Pass the password with cost of 12 (CPU intensive)
+// Hash password before saving - for User
+userSchema.pre("save", async function () {
+  if (!this.isModified("password")) return;
   this.password = await bcrypt.hash(this.password, 12);
 });
 
-// INSTANCE METHOD: METHOD AVAILABLE TO ALL DOCS IN THE COLLECTION
+// INSTANCE METHOD: Check password for User
 userSchema.methods.correctPassword = async function (candidatePassword, userPassword) {
-  // NOTE: this.password will not work because in the schema password has {select: false}
   return await bcrypt.compare(candidatePassword, userPassword);
 };
 
