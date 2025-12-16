@@ -20,16 +20,6 @@ const transporter = nodemailer.createTransport({
   socketTimeout: 10000,
 });
 
-// const transporter = nodemailer.createTransport({
-//   host: "mail.ajani.ai",
-//   port: 465, // secure SMTP port
-//   secure: true, // true for SSL/TLS
-//   auth: {
-//     user: "ajani@ajani.ai", // your internship email
-//     pass: "ajani@123", // actual email password
-//   },
-// });
-
 const sendEmail = async ({ to, subject, html }) => {
   // Skip sending if credentials are missing
   if (!process.env.GOOGLE_EMAIL || !process.env.GOOGLE_APP_PASSWORD) {

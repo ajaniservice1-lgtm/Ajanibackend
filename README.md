@@ -1,210 +1,100 @@
-openapi: 3.0.0
+# Ajani Backend API
 
-info:
-title: Ajani API (Supabase MVP)
-version: 1.0.0
-description: API specification for Ajani MVP backend using Supabase.
+Backend API for Ajani service platform built with Node.js, Express, and MongoDB.
 
-servers:
+## Features
 
-- url: https://your-supabase-url.supabase.co
-  description: Production Supabase
+- 🔐 User authentication (register, login, password reset)
+- 👤 User management
+- 📋 Listings management
+- 📅 Booking requests
+- 📧 Email notifications
+- 🛡️ Security features (password hashing, JWT tokens, rate limiting)
 
-paths:
-/auth/register:
-post:
-summary: Register a new user
-requestBody:
-required: true
-content:
-application/json:
-schema:
-type: object
-properties:
-firstName:
-type: string
-lastName:
-type: string
-email:
-type: string
-phone:
-type: string
-password:
-type: string
-responses:
-'200':
-description: User registered successfully
+## Installation
 
-/auth/login:
-post:
-summary: Login user
-requestBody:
-required: true
-content:
-application/json:
-schema:
-type: object
-properties:
-email:
-type: string
-password:
-type: string
-responses:
-'200':
-description: Login successful
+1. Install dependencies:
 
-/listings:
-get:
-summary: Get all listings
-parameters: - in: query
-name: category
-schema:
-type: string - in: query
-name: district
-schema:
-type: string - in: query
-name: sort
-schema:
-type: string
-responses:
-'200':
-description: List of listings
+```bash
+npm install
+```
 
-/listings/{id}:
-get:
-summary: Get a single listing
-parameters: - name: id
-in: path
-required: true
-schema:
-type: string
-responses:
-'200':
-description: Listing details
+2. Create a `.env.local` file in the root directory with your environment variables (see below)
 
-/booking-requests:
-post:
-summary: Create a booking request
-requestBody:
-required: true
-content:
-application/json:
-schema:
-type: object
-properties:
-vendorId:
-type: string
-fullName:
-type: string
-phone:
-type: string
-email:
-type: string
-serviceType:
-type: string
-preferredDate:
-type: string
-preferredTime:
-type: string
-notes:
-type: string
-responses:
-'200':
-description: Booking request created
+3. Start the development server:
 
-/messages:
-post:
-summary: Send a chat message
-requestBody:
-required: true
-content:
-application/json:
-schema:
-type: object
-properties:
-senderId:
-type: string
-receiverId:
-type: string
-text:
-type: string
-responses:
-'200':
-description: Message sent
+```bash
+npm run dev
+```
 
-/chat/ajani:
-post:
-summary: Send user message to Ajani chatbot via n8n
-requestBody:
-required: true
-content:
-application/json:
-schema:
-type: object
-properties:
-message:
-type: string
-userId:
-type: string
-responses:
-'200':
-description: Chatbot response
+## Environment Variables
 
-components:
-schemas:
-User:
-type: object
-properties:
-id:
-type: string
-firstName:
-type: string
-lastName:
-type: string
-email:
-type: string
-phone:
-type: string
-createdAt:
-type: string
+Create a `.env.local` file with these variables:
 
-    Listing:
-      type: object
-      properties:
-        id:
-          type: string
-        vendorId:
-          type: string
-        name:
-          type: string
-        category:
-          type: string
-        priceMin:
-          type: number
-        priceMax:
-          type: number
-        description:
-          type: string
+```env
+# Server
+PORT=3000
 
-    BookingRequest:
-      type: object
-      properties:
-        id:
-          type: string
-        vendorId:
-          type: string
-        fullName:
-          type: string
-        phone:
-          type: string
-        serviceType:
-          type: string
-        createdAt:
-          type: string
+# Database
+MONGODB_URI=your_mongodb_connection_string
 
+# JWT Authentication
+JWT_SECRET=your_secret_key_here
+JWT_EXPIRES_IN=7d
 
+# Frontend
+FRONTEND_URL=http://localhost:3000
 
+# Email (Gmail)
+GOOGLE_EMAIL=your_email@gmail.com
+GOOGLE_APP_PASSWORD=your_app_password
+```
 
--------------------------
+**⚠️ Important:** Never commit your `.env.local` file to GitHub! It contains sensitive information.
 
-supabase DB password: SecurePass@2025
+## API Endpoints
+
+### Authentication
+
+- `POST /api/v1/auth/register` - Register a new user
+- `POST /api/v1/auth/login` - Login user
+- `POST /api/v1/auth/forgot-password` - Request password reset
+- `POST /api/v1/auth/reset-password` - Reset password with token
+
+### Users
+
+- `GET /api/v1/users` - Get all users (protected)
+- `GET /api/v1/users/:id` - Get user by ID (protected)
+- `PATCH /api/v1/users/:id` - Update user (protected)
+
+### Listings
+
+- `GET /api/v1/listings` - Get all listings
+- `GET /api/v1/listings/:id` - Get listing by ID
+- `POST /api/v1/listings` - Create listing (protected)
+- `PATCH /api/v1/listings/:id` - Update listing (protected)
+
+### Bookings
+
+- `GET /api/v1/bookings` - Get all bookings (protected)
+- `POST /api/v1/bookings` - Create booking request (protected)
+
+For detailed API documentation, see [docs/auth-api.md](./docs/auth-api.md)
+
+## Security
+
+- ✅ Passwords are hashed with bcrypt
+- ✅ JWT tokens for authentication
+- ✅ Rate limiting (100 requests/hour per IP)
+- ✅ Input validation and sanitization
+- ✅ Security headers with Helmet
+- ✅ CORS enabled
+
+## Scripts
+
+- `npm run dev` - Start development server with nodemon
+- `npm test` - Run tests
+
+## License
+
+ISC
