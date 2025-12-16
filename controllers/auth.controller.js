@@ -5,13 +5,18 @@ import AppError from "../utils/errorHandler.js";
 // import sendEmail from "../utils/sendEmail.js";
 import crypto from "crypto";
 import sendEmailResend from "../utils/resend.js";
+import sendEmail from "../utils/sendEmail.js";
+import {
+  userRegistrationEmailTemplate,
+  vendorRegistrationEmailTemplate,
+} from "../utils/emailTemplates.js";
 
-export const register = catchAsync(async (req, res) => {
+export const register = catchAsync(async (req, res, next) => {
   const { firstName, lastName, email, phone, password, role } = req.body;
 
   // Check if all fields are provided
   if (!firstName || !lastName || !email || !password)
-    throw new AppError(400, "All fields are required");
+    return next(new AppError(400, "All fields are required"));
 
   const user = await User.create({
     firstName,
@@ -23,43 +28,44 @@ export const register = catchAsync(async (req, res) => {
   });
 
   // Send email in background (don't wait for it)
-  // sendEmail({
-  //   to: email,
-  //   subject: "Welcome to Ajani! Registration Successful",
-  //   html: `<p>Hi ${firstName || "there"},</p>
+  sendEmail({
+    to: email,
+    subject: "Welcome to Ajani! Registration Successful",
+    html:
+      role === "user"
+        ? userRegistrationEmailTemplate(firstName)
+        : vendorRegistrationEmailTemplate(firstName),
+  }).catch(err => {
+    console.error("Email sending failed:", err);
+  });
+
+  // if (role === "user") {
+  //   sendEmailResend({
+  //     to: email,
+  //     subject: "Welcome to Ajani! Registration Successful",
+  //     html: `<p>Hi ${firstName || "there"},</p>
   //          <p>Congratulations! Your account has been successfully created.</p>
   //          <p>You can now start using all the features of Ajani.</p>
   //           <a href="${process.env.FRONTEND_URL}" style="text-decoration: none; padding: 10px; border-radius: 5px; background-color: #007bff; display: inline-block; margin-top: 10px; color: white;">Explore Our Listings</a>
   //          <p>Thank you for joining us!</p>
   //          <p>Best regards,</p>
   //          <p>Ajani Team</p>`,
-  // }).catch(err => console.error("Email sending failed:", err));
-  if (role === "user") {
-    sendEmailResend({
-      to: email,
-      subject: "Welcome to Ajani! Registration Successful",
-      html: `<p>Hi ${firstName || "there"},</p>
-           <p>Congratulations! Your account has been successfully created.</p>
-           <p>You can now start using all the features of Ajani.</p>
-            <a href="${process.env.FRONTEND_URL}" style="text-decoration: none; padding: 10px; border-radius: 5px; background-color: #007bff; display: inline-block; margin-top: 10px; color: white;">Explore Our Listings</a>
-           <p>Thank you for joining us!</p>
-           <p>Best regards,</p>
-           <p>Ajani Team</p>`,
-    });
-  } else if (role === "vendor") {
-    sendEmailResend({
-      to: email,
-      subject: "Welcome to Ajani! Registration Successful",
-      html: `<p>Hi ${firstName || "there"},</p>
-           <p>Congratulations! Your vendor account has been successfully created.</p>
-           <p>Please wait for your account to be approved by the admin as it currently under review. This may take up to 24 hours.</p>
-            <p>Once approved, you will receive an email with full access to your vendor account.</p>
-            <a href="${process.env.FRONTEND_URL}/vendor/login" style="text-decoration: none; padding: 10px; border-radius: 5px; background-color: #007bff; display: inline-block; margin-top: 10px; color: white;">Login to your vendor account</a>
-            <p>Thank you for joining us!</p>
-            <p>Best regards,</p>
-            <p>Ajani Team</p>`,
-    });
-  }
+  //   });
+  // } else if (role === "vendor") {
+  //   sendEmailResend({
+  //     to: email,
+  //     subject: "Welcome to Ajani! Registration Successful",
+  //     html: `<p>Hi ${firstName || "there"},</p>
+  //          <p>Congratulations! Your vendor account has been successfully created.</p>
+  //          <p>Please wait for your account to be approved by the admin as it currently under review. This may take up to 24 hours.</p>
+  //           <p>Once approved, you will receive an email with full access to your vendor account.</p>
+  //           <a href="${process.env.FRONTEND_URL}/vendor/login" style="text-decoration: none; padding: 10px; border-radius: 5px; background-color: #007bff; display: inline-block; margin-top: 10px; color: white;">Login to your vendor account</a>
+  //           <p>Thank you for joining us!</p>
+  //           <p>Best regards,</p>
+  //           <p>Ajani Team</p>`,
+  //   });
+  // }
+
   // Generate token - When everything is correct
   const token = generateToken(user);
 

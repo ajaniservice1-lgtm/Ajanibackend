@@ -13,16 +13,12 @@ if (!process.env.GOOGLE_EMAIL || !process.env.GOOGLE_APP_PASSWORD) {
 
 const transporter = nodemailer.createTransport({
   host: "smtp.gmail.com",
-  port: 587,
-  secure: false, // STARTTLS
+  port: 465,
+  secure: true,
   auth: {
     user: process.env.GOOGLE_EMAIL,
     pass: process.env.GOOGLE_APP_PASSWORD,
   },
-  family: 4, // 👈 forces IPv4 (IMPORTANT)
-  connectionTimeout: 60000, // Increased to 60 seconds for Render
-  socketTimeout: 60000, // Increased to 60 seconds for Render
-  greetingTimeout: 30000, // 30 seconds for greeting
   tls: {
     rejectUnauthorized: false, // Allow self-signed certificates if needed
   },
@@ -55,3 +51,16 @@ const sendEmail = async ({ to, subject, html }) => {
 export default sendEmail;
 
 // from: process.env.EMAIL_USER || process.env.GOOGLE_EMAIL,
+
+const vendorRegistrationEmailTemplate = async ({ to, subject, html }) => {
+  return `
+    <p>Hi ${firstName || "there"},</p>
+    <p>Congratulations! Your vendor account has been successfully created.</p>
+    <p>Please wait for your account to be approved by the admin as it currently under review. This may take up to 24 hours.</p>
+    <p>Once approved, you will receive an email with full access to your vendor account.</p>
+    <a href="${process.env.FRONTEND_URL}/vendor/login" style="text-decoration: none; padding: 10px; border-radius: 5px; background-color: #007bff; display: inline-block; margin-top: 10px; color: white;">Login to your vendor account</a>
+    <p>Thank you for joining us!</p>
+    <p>Best regards,</p>
+    <p>Ajani Team</p>
+  `;
+};
