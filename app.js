@@ -18,25 +18,37 @@ const app = express();
 app.set("trust proxy", 1);
 
 // Global middlewares
-// Set security HTTP headers
-app.use(helmet());
 
 app.use(
   cors({
-    origin: [process.env.FRONTEND_URL, "http://localhost:5173"],
+    origin: (origin, callback) => {
+      const allowedOrigins = [process.env.FRONTEND_URL, "http://localhost:5173"].filter(Boolean); // Remove undefined values
+
+      if (!origin || allowedOrigins.includes(origin)) {
+        callback(null, true);
+      } else {
+        callback(new Error("Not allowed by CORS"));
+      }
+    },
     credentials: true,
-    methods: ["GET", "POST", "PUT", "DELETE"],
+    methods: ["GET", "POST", "PUT", "PATCH", "DELETE", "OPTIONS"],
     allowedHeaders: ["Content-Type", "Authorization"],
   })
 );
+
+// 2. Place CORS middleware before other middleware
+app.options("*", cors()); // Handle preflight
+
+// Body parser, reading data from body into req.body
+app.use(express.json());
 
 // Development logging
 if (process.env.NODE_ENV === "development") {
   app.use(morgan("dev"));
 }
 
-// Body parser, reading data from body into req.body
-app.use(express.json());
+// Set security HTTP headers
+app.use(helmet());
 
 // Rate limiting
 const limiter = rateLimit({
