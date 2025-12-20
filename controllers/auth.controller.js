@@ -4,7 +4,7 @@ import catchAsync from "../utils/catchAsync.js";
 import AppError from "../utils/errorHandler.js";
 // import sendEmail from "../utils/sendEmail.js";
 import crypto from "crypto";
-// import sendEmailResend from "../utils/resend.js";
+import sendEmailResend from "../utils/resend.js";
 import sendEmail from "../utils/sendEmail.js";
 import {
   userRegistrationEmailTemplate,
@@ -28,7 +28,7 @@ export const register = catchAsync(async (req, res, next) => {
   });
 
   // Send email in background (don't wait for it)
-  sendEmail({
+  sendEmailResend({
     to: email,
     subject: "Welcome to Ajani! Registration Successful",
     html:
