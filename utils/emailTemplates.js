@@ -1,7 +1,6 @@
 // REGISTRATION EMAIL TEMPLATES
 
-
-const userRegistrationEmailTemplate = firstName => {
+export const userRegistrationEmailTemplate = firstName => {
   return `
     <p>Hi ${firstName || "there"},</p>
     <p>Congratulations! Your account has been successfully created.</p>
@@ -13,7 +12,7 @@ const userRegistrationEmailTemplate = firstName => {
   `;
 };
 
-const vendorRegistrationEmailTemplate = firstName => {
+export const vendorRegistrationEmailTemplate = firstName => {
   return `
     <p>Hi ${firstName || "there"},</p>
     <p>Congratulations! Your vendor account has been successfully created.</p>
@@ -26,4 +25,21 @@ const vendorRegistrationEmailTemplate = firstName => {
   `;
 };
 
-export { userRegistrationEmailTemplate, vendorRegistrationEmailTemplate };
+export const userConfirmOtpEmailTemplate = (firstName, otp, expiryMinutes) => {
+  return `
+   <p>Hi ${firstName || "there"},</p>
+   <p> Thank you for signing up. Please use the OTP below to confirm your email address and activate your account.</p> <p style="font-size: 24px; font-weight: bold; letter-spacing: 4px; text-align: center;"> ${otp} </p> 
+   <p> This code will expire in ${expiryMinutes} minutes. </p> 
+   <p> If you did not create this account, you can safely ignore this email.</p> 
+   <p>Regards,<br /> <strong>Ajani Team</strong> </p>
+  `;
+};
+
+export const vendorConfirmOtpEmailTemplate = (firstName, otp, expiryMinutes) => {
+  return `
+    <p>Hi ${firstName || "there"},</p>
+    <p> Thank you for registering as a vendor. Please confirm your email address using the OTP below. </p> <p style="font-size: 24px; font-weight: bold; letter-spacing: 4px; text-align: center;"> ${otp} </p> <p> <strong>Important:</strong> After email confirmation, your vendor account will be reviewed and approved by our admin before you can start using all features. </p> <p> This code will expire in ${expiryMinutes} minutes. </p> <p style="margin-top: 30px;"> Regards,<br /> <strong>Ajani Team</strong> </p>
+  `;
+};
+
+

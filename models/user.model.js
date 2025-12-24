@@ -1,10 +1,18 @@
 import mongoose from "mongoose";
 import bcrypt from "bcryptjs";
 import validator from "validator";
+import AppError from "../utils/errorHandler.js";
 
 // Vendor Schema (for vendors - needs admin approval)
 const vendorSchema = new mongoose.Schema(
   {
+    category: {
+      type: String,
+      enum: ["hotel", "restaurant", "shortlet", "service provider", "accommodation"],
+      required: [true, "Category is required"],
+      trim: true,
+      lowercase: true,
+    },
     approvalStatus: {
       type: String,
       enum: ["pending", "approved", "rejected"],
@@ -62,7 +70,6 @@ const userSchema = new mongoose.Schema(
       required: [true, "Password is required"],
       select: false,
       minlength: [8, "Password must be at least 8 characters long"],
-      maxlength: [32, "Password must be less than 32 characters long"],
       trim: true,
     },
     profilePicture: {
@@ -114,6 +121,15 @@ userSchema.index({ "vendor.approvalStatus": 1 });
 userSchema.pre("save", async function () {
   if (!this.isModified("password")) return;
   this.password = await bcrypt.hash(this.password, 12);
+});
+
+// Validate vendor category before saving
+userSchema.pre("save", async function () {
+  if (this.role === "vendor") {
+    if (!this.vendor || !this.vendor.category) {
+      throw new AppError(400, "Category is required for vendor accounts");
+    }
+  }
 });
 
 // INSTANCE METHOD: Check password for User

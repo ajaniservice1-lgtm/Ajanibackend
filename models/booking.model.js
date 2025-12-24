@@ -1,29 +1,34 @@
 import mongoose from "mongoose";
 
-const bookingSchema = new mongoose.Schema(
+const BookingRequestSchema = new mongoose.Schema(
   {
-    listing: {
-      type: mongoose.Schema.Types.ObjectId,
-      ref: "Listing",
-      required: [true, "Listing is required"],
+    userId: { type: mongoose.Schema.Types.ObjectId, ref: "User", required: true },
+    vendorId: { type: mongoose.Schema.Types.ObjectId, ref: "Vendor", required: true },
+
+    category: {
+      type: String,
+      enum: ["hotel", "restaurant", "shortlet", "service provider", "event"],
+      required: true,
     },
-    user: {
-      type: mongoose.Schema.Types.ObjectId,
-      ref: "User",
-      required: [true, "User is required"],
-    },
-    serviceType: { type: String, required: [true, "Service type is required"] },
-    preferredDate: { type: String, required: [true, "Preferred date is required"] },
-    preferredTime: { type: String, required: [true, "Preferred time is required"] },
+
     status: {
       type: String,
-      enum: ["pending", "confirmed", "rejected", "cancelled"],
+      enum: ["pending", "approved", "rejected", "cancelled"],
       default: "pending",
+    },
+
+    // Common fields
+    message: String,
+
+    // Dynamic payload
+    details: {
+      type: mongoose.Schema.Types.Mixed,
+      required: true,
     },
   },
   { timestamps: true }
 );
 
-const Booking = mongoose.model("Booking", bookingSchema);
+const Booking = mongoose.model("Booking", BookingRequestSchema);
 
 export default Booking;

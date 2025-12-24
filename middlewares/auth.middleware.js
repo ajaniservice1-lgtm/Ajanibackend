@@ -39,3 +39,11 @@ export const protect = catchAsync(async (req, res, next) => {
   req.user = freshUser;
   next();
 });
+
+// CHeck if user is admin
+export function isAdmin(req, res, next) {
+  if (!req.user || req.user.role !== "admin") {
+    return res.status(403).json({ message: "Admin access required" });
+  }
+  next();
+}

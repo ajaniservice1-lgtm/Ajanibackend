@@ -2,22 +2,27 @@ import { generateToken } from "../utils/generateToken.js";
 import User from "../models/user.model.js";
 import catchAsync from "../utils/catchAsync.js";
 import AppError from "../utils/errorHandler.js";
-// import sendEmail from "../utils/sendEmail.js";
 import crypto from "crypto";
 import sendEmailResend from "../utils/resend.js";
-import sendEmail from "../utils/sendEmail.js";
 import {
   userRegistrationEmailTemplate,
   vendorRegistrationEmailTemplate,
+  userConfirmOtpEmailTemplate,
+  vendorConfirmOtpEmailTemplate,
 } from "../utils/emailTemplates.js";
 
 export const register = catchAsync(async (req, res, next) => {
-  const { firstName, lastName, email, phone, password, role } = req.body;
+  const { firstName, lastName, email, phone, password, role, vendor } = req.body;
 
   // Check if all fields are provided
   if (!firstName || !lastName || !email || !password)
     return next(new AppError(400, "All fields are required"));
 
+  // Check if user already exists
+  const existingUser = await User.findOne({ email });
+  if (existingUser) return next(new AppError(400, "User with this email already exists"));
+
+  // CREATE USER
   const user = await User.create({
     firstName,
     lastName,
@@ -25,7 +30,19 @@ export const register = catchAsync(async (req, res, next) => {
     phone,
     password,
     role,
+    vendor,
   });
+
+  // CREATE 6 DIGIT OTP FOR USER OR VENDOR
+  const otp = Math.floor(100000 + Math.random() * 900000);
+  const expiryMinutes = 10;
+  const verificationToken = otp;
+  const verificationTokenExpires = new Date(Date.now() + expiryMinutes * 60 * 1000);
+  user.verificationToken = verificationToken;
+  user.verificationTokenExpires = verificationTokenExpires;
+
+  // SAVE USER
+  await user.save();
 
   // Send email in background (don't wait for it)
   sendEmailResend({
@@ -33,48 +50,13 @@ export const register = catchAsync(async (req, res, next) => {
     subject: "Welcome to Ajani! Registration Successful",
     html:
       role === "user"
-        ? userRegistrationEmailTemplate(firstName)
-        : vendorRegistrationEmailTemplate(firstName),
+        ? userConfirmOtpEmailTemplate(firstName, otp, expiryMinutes)
+        : vendorConfirmOtpEmailTemplate(firstName, otp, expiryMinutes),
   }).catch(err => {
     console.error("Email sending failed:", err);
   });
 
-  // if (role === "user") {
-  //   sendEmailResend({
-  //     to: email,
-  //     subject: "Welcome to Ajani! Registration Successful",
-  //     html: `<p>Hi ${firstName || "there"},</p>
-  //          <p>Congratulations! Your account has been successfully created.</p>
-  //          <p>You can now start using all the features of Ajani.</p>
-  //           <a href="${process.env.FRONTEND_URL}" style="text-decoration: none; padding: 10px; border-radius: 5px; background-color: #007bff; display: inline-block; margin-top: 10px; color: white;">Explore Our Listings</a>
-  //          <p>Thank you for joining us!</p>
-  //          <p>Best regards,</p>
-  //          <p>Ajani Team</p>`,
-  //   });
-  // } else if (role === "vendor") {
-  //   sendEmailResend({
-  //     to: email,
-  //     subject: "Welcome to Ajani! Registration Successful",
-  //     html: `<p>Hi ${firstName || "there"},</p>
-  //          <p>Congratulations! Your vendor account has been successfully created.</p>
-  //          <p>Please wait for your account to be approved by the admin as it currently under review. This may take up to 24 hours.</p>
-  //           <p>Once approved, you will receive an email with full access to your vendor account.</p>
-  //           <a href="${process.env.FRONTEND_URL}/vendor/login" style="text-decoration: none; padding: 10px; border-radius: 5px; background-color: #007bff; display: inline-block; margin-top: 10px; color: white;">Login to your vendor account</a>
-  //           <p>Thank you for joining us!</p>
-  //           <p>Best regards,</p>
-  //           <p>Ajani Team</p>`,
-  //   });
-  // }
-
-  // Generate token - When everything is correct
-  const token = generateToken(user);
-
-  // Remove password from output
-  user.password = undefined;
-
-  res
-    .status(201)
-    .json({ message: "Registration successful! Welcome email sent.", data: user, token });
+  res.status(201).json({ message: "Account created successfully! OTP email sent.", data: user });
 });
 
 // LOGIN USER
@@ -85,7 +67,7 @@ export const login = catchAsync(async (req, res, next) => {
   if (!email || !password) throw new AppError(400, "All fields are required");
 
   // Check if user exists and include password field (which is normally excluded)
-  const user = await User.findOne({ email }).select("+password");
+  const user = await User.findOne({ email }).select("-password");
 
   if (!user || !(await user.correctPassword(password, user.password)))
     return next(new AppError("Incorrect email or password", 400));
@@ -95,8 +77,12 @@ export const login = catchAsync(async (req, res, next) => {
 
   // Remove password from output
   user.password = undefined;
+  user.verificationToken = undefined;
+  user.verificationTokenExpires = undefined;
+  user.resetToken = undefined;
+  user.resetTokenExpires = undefined;
 
-  res.status(200).json({ message: "Login successful", data: user, token });
+  res.status(200).json({ message: "Login successful! Welcome to Ajani.", data: user, token });
 });
 
 // FORGOT PASSWORD
@@ -121,7 +107,7 @@ export const forgotPassword = catchAsync(async (req, res) => {
   await user.save();
 
   // Send reset email in background (don't wait for it)
-  sendEmail({
+  sendEmailResend({
     to: email,
     subject: "Reset your password",
     html: `<p>Hi ${user.firstName || "there"},</p>
@@ -147,8 +133,82 @@ export const resetPassword = catchAsync(async (req, res) => {
   user.resetTokenExpires = null;
   await user.save();
 
+  // Remove sensitive data from output
+  user.password = undefined;
+  user.verificationToken = undefined;
+  user.verificationTokenExpires = undefined;
+  user.resetToken = undefined;
+  user.resetTokenExpires = undefined;
+
+  res.status(200).json({ message: "Password reset successful! Welcome to Ajani.", data: user });
+});
+
+// VERIFY OTP
+export const verifyOtp = catchAsync(async (req, res) => {
+  const { email, otp } = req.body;
+  if (!email || !otp) throw new AppError(400, "All fields are required");
+
+  const user = await User.findOne({
+    email,
+    verificationToken: otp,
+    verificationTokenExpires: { $gt: Date.now() },
+  });
+  if (!user) throw new AppError(400, "Invalid or expired OTP");
+
+  user.verificationToken = null;
+  user.verificationTokenExpires = null;
+  user.isVerified = true;
+  user.isActive = true;
+
+  await user.save();
+
+  // Send welcome email
+  sendEmailResend({
+    to: email,
+    subject: "Welcome to Ajani! Registration Successful",
+    html:
+      user.role === "user"
+        ? userRegistrationEmailTemplate(user.firstName)
+        : vendorRegistrationEmailTemplate(user.firstName),
+  }).catch(err => console.error("Email sending failed:", err));
+
+  // Generate token - When everything is correct
+  const token = generateToken(user);
+
   // Remove password from output
   user.password = undefined;
+  user.verificationToken = undefined;
+  user.verificationTokenExpires = undefined;
+  user.resetToken = undefined;
+  user.resetTokenExpires = undefined;
 
-  res.status(200).json({ message: "Password reset successful", data: user });
+  res.status(200).json({ message: "OTP verified successfully", data: user, token });
+});
+
+// RESEND OTP
+export const resendOtp = catchAsync(async (req, res) => {
+  const { email } = req.body;
+  if (!email) throw new AppError(400, "Email is required");
+
+  const user = await User.findOne({ email });
+  if (!user) throw new AppError(400, "User not found");
+
+  const otp = Math.floor(100000 + Math.random() * 900000);
+  const expiryMinutes = 10;
+  const verificationToken = otp;
+  const verificationTokenExpires = new Date(Date.now() + expiryMinutes * 60 * 1000);
+  user.verificationToken = verificationToken;
+  user.verificationTokenExpires = verificationTokenExpires;
+  await user.save();
+
+  sendEmailResend({
+    to: email,
+    subject: "Resend OTP",
+    html:
+      user.role === "user"
+        ? userConfirmOtpEmailTemplate(user.firstName, otp, expiryMinutes)
+        : vendorConfirmOtpEmailTemplate(user.firstName, otp, expiryMinutes),
+  }).catch(err => console.error("Email sending failed:", err));
+
+  res.status(200).json({ message: "OTP resent successfully" });
 });

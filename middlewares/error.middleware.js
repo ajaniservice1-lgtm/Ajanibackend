@@ -1,5 +1,17 @@
+import AppError from "../utils/errorHandler.js";
+
+const handleDuplicateFieldsDB = err => {
+  const value = err.errorResponse.errmsg.match(/(["'])(\\?.)*?\1/)[0];
+  console.log(value);
+
+  const message = `Duplicate field value: ${value}. Please use another value!`;
+  return new AppError(400, message);
+};
+
 // Send error in development
 const sendErrorDev = (err, res) => {
+  console.log(err);
+
   res.status(err.statusCode).json({
     status: err.status,
     message: err.message,
@@ -32,10 +44,15 @@ const errorHandler = (err, req, res, next) => {
 
   // Different error responses for development and production
   if (process.env.NODE_ENV === "development") {
-    sendErrorDev(err, res);
+    let error = { ...err, message: err.message };
+
+    if (error.code === 11000) error = handleDuplicateFieldsDB(error);
+
+    sendErrorDev(error, res);
   } else if (process.env.NODE_ENV === "production") {
-    // sendErrorProd(err, res);
-    sendErrorDev(err, res);
+    let error = { ...err, message: err.message };
+    if (error.code === 11000) error = handleDuplicateFieldsDB(error);
+    sendErrorProd(error, res);
   }
 };
 
