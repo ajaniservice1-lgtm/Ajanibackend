@@ -61,7 +61,6 @@ const userSchema = new mongoose.Schema(
       type: String,
       required: [true, "Phone number is required"],
       validate: [validator.isMobilePhone, "Please provide a valid phone number"],
-      lowercase: true,
       trim: true,
       default: null,
     },

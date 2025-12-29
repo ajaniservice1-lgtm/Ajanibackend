@@ -1,56 +1,63 @@
 import mongoose from "mongoose";
 import validator from "validator";
 
-const HotelListingSchema = new mongoose.Schema({
-  vendorId: { type: mongoose.Schema.Types.ObjectId, ref: "Vendor", required: true },
-  name: String, // Deluxe, Standard
-  description: String,
-  roomTypes: [
-    {
-      name: String,
-      pricePerNight: Number,
-      capacity: Number,
-      amenities: [String],
+const HotelDetailsSchema = new mongoose.Schema(
+  {
+    roomTypes: [
+      {
+        name: { type: String, required: true },
+        pricePerNight: { type: Number, required: true },
+        capacity: { type: Number, required: true },
+        amenities: [String],
+      },
+    ],
+    checkInTime: String,
+    checkOutTime: String,
+  },
+  { _id: false }
+);
+
+const ShortletDetailsSchema = new mongoose.Schema(
+  {
+    pricePerNight: { type: Number, required: true },
+    maxGuests: Number,
+    amenities: [String],
+  },
+  { _id: false }
+);
+
+const RestaurantDetailsSchema = new mongoose.Schema(
+  {
+    cuisines: [String],
+    openingHours: String,
+    acceptsReservations: { type: Boolean, default: false },
+    maxGuestsPerReservation: Number,
+  },
+  { _id: false }
+);
+
+const ServiceDetailsSchema = new mongoose.Schema(
+  {
+    priceType: {
+      type: String,
+      enum: ["fixed", "hourly", "negotiable"],
+      required: true,
     },
-  ],
-  checkInTime: String,
-  checkOutTime: String,
-});
-const ShortletListingSchema = new mongoose.Schema({
-  vendorId: { type: mongoose.Schema.Types.ObjectId, ref: "Vendor", required: true },
-  title: String,
-  description: String,
-  pricePerNight: Number,
-  maxGuests: Number,
-  amenities: [String],
-  location: String,
-});
-const RestaurantListingSchema = new mongoose.Schema({
-  vendorId: { type: mongoose.Schema.Types.ObjectId, ref: "Vendor", required: true },
-  name: String,
-  description: String,
-  cuisines: [String],
-  openingHours: String,
-  acceptsReservations: { type: Boolean, default: false },
-  maxGuestsPerReservation: Number,
-});
-const ServiceListingSchema = new mongoose.Schema({
-  vendorId: { type: mongoose.Schema.Types.ObjectId, ref: "Vendor", required: true },
-  serviceName: String,
-  description: String,
-  priceType: { type: String, enum: ["fixed", "hourly", "negotiable"] },
-  price: Number,
-  availability: [String],
-});
-const EventListingSchema = new mongoose.Schema({
-  vendorId: { type: mongoose.Schema.Types.ObjectId, ref: "Vendor", required: true },
-  eventName: String,
-  description: String,
-  eventDate: Date,
-  venue: String,
-  ticketPrice: Number,
-  capacity: Number,
-});
+    price: Number,
+    availability: [String],
+  },
+  { _id: false }
+);
+
+const EventDetailsSchema = new mongoose.Schema(
+  {
+    eventDate: { type: Date, required: true },
+    venue: String,
+    ticketPrice: Number,
+    capacity: Number,
+  },
+  { _id: false }
+);
 
 // Helper function to validate details based on category
 function validateDetails() {
@@ -112,7 +119,7 @@ const listingSchema = new mongoose.Schema(
 
     category: {
       type: String,
-      enum: ["hotel", "restaurant", "shortlet", "service provider", "event"],
+      enum: ["hotel", "restaurant", "shortlet", "services", "event"],
       required: [true, "Category is required"],
       lowercase: true,
     },
@@ -137,16 +144,26 @@ const listingSchema = new mongoose.Schema(
         required: [true, "Address is required"],
         trim: true,
       },
-      city: {
+      area: {
         type: String,
-        required: [true, "City is required"],
+        required: [true, "Area is required"],
         trim: true,
       },
-      state: String,
-      country: {
+      geolocation: {
+        lat: { type: Number, default: null },
+        lng: { type: Number, default: null },
+      },
+    },
+
+    contactInformation: {
+      phone: {
         type: String,
-        required: [true, "Country is required"],
-        lowercase: true,
+        validate: [validator.isMobilePhone, "Please provide a valid phone number"],
+        trim: true,
+      },
+      whatsapp: {
+        type: String,
+        validate: [validator.isMobilePhone, "Please provide a valid phone number"],
         trim: true,
       },
     },
@@ -154,7 +171,12 @@ const listingSchema = new mongoose.Schema(
     images: {
       type: [String],
       required: [true, "Images are required"],
-      validate: [validator.isURL, "Please provide a valid image URL"],
+      validate: {
+        validator: function (arr) {
+          return arr.every(url => validator.isURL(url));
+        },
+        message: "Please provide valid image URLs",
+      },
       lowercase: true,
       trim: true,
       minlength: [1, "At least one image is required"],
@@ -179,16 +201,80 @@ const listingSchema = new mongoose.Schema(
     },
 
     details: {
-      type: mongoose.Schema.Types.Mixed, // category-specific
-      required: [true, "Details are required"],
-      validate: {
-        validator: validateDetails(),
-        message: "Details do not match the category requirements",
-      },
+      type: mongoose.Schema.Types.Mixed,
+      required: true,
     },
   },
   { timestamps: true }
 );
+
+// listingSchema.pre("validate", function (next) {
+//   const categorySchemas = {
+//     hotel: HotelDetailsSchema,
+//     shortlet: ShortletDetailsSchema,
+//     restaurant: RestaurantDetailsSchema,
+//     service: ServiceDetailsSchema,
+//     event: EventDetailsSchema,
+//   };
+
+//   const schema = categorySchemas[this.category];
+
+//   if (!schema) {
+//     return next(new Error("Invalid listing category"));
+//   }
+
+//   const isValid = mongoose.Document.prototype.validateSync.call(
+//     new mongoose.Document(this.details, schema)
+//   );
+
+//   if (isValid) {
+//     return next(new Error(`Invalid details for category: ${this.category}`));
+//   }
+
+//   next();
+// });
+
+listingSchema.pre("validate", function () {
+  const categorySchemas = {
+    hotel: HotelDetailsSchema,
+    shortlet: ShortletDetailsSchema,
+    restaurant: RestaurantDetailsSchema,
+    services: ServiceDetailsSchema,
+    event: EventDetailsSchema,
+  };
+
+  const schema = categorySchemas[this.category];
+
+  if (!schema) {
+    this.invalidate("category", "Invalid listing category");
+    return;
+  }
+
+  if (!this.details) {
+    this.invalidate("details", "Details are required for this category");
+    return;
+  }
+
+  // Validate details against the correct schema
+  // const DetailsModel = mongoose.model("__DetailsValidation", schema);
+
+  // const validationDoc = new DetailsModel(this.details);
+  // const validationError = validationDoc.validateSync();
+
+  // if (validationError) {
+  //   this.invalidate("details", `Invalid details for category: ${this.category}`);
+  // }
+
+  // Create a temporary document WITHOUT registering a model
+  const tempDoc = new mongoose.Document(this.details, schema);
+  const validationError = tempDoc.validateSync();
+
+  if (validationError) {
+    Object.values(validationError.errors).forEach(err => {
+      this.invalidate(`details.${err.path}`, err.message);
+    });
+  }
+});
 
 const Listing = mongoose.model("Listing", listingSchema);
 
