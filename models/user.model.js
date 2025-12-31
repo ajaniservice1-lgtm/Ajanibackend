@@ -6,12 +6,16 @@ import AppError from "../utils/errorHandler.js";
 // Vendor Schema (for vendors - needs admin approval)
 const vendorSchema = new mongoose.Schema(
   {
-    category: {
-      type: String,
-      enum: ["hotel", "restaurant", "shortlet", "service provider", "accommodation"],
-      required: [true, "Category is required"],
-      trim: true,
-      lowercase: true,
+    categories: {
+      type: [String],
+      enum: ["hotel", "restaurant", "shortlet", "services", "event"],
+      required: [true, "At least one category is required"],
+      validate: {
+        validator: function (arr) {
+          return arr && arr.length > 0;
+        },
+        message: "At least one category is required",
+      },
     },
     approvalStatus: {
       type: String,
@@ -122,11 +126,15 @@ userSchema.pre("save", async function () {
   this.password = await bcrypt.hash(this.password, 12);
 });
 
-// Validate vendor category before saving
+// Validate vendor categories before saving
 userSchema.pre("save", async function () {
   if (this.role === "vendor") {
-    if (!this.vendor || !this.vendor.category) {
-      throw new AppError(400, "Category is required for vendor accounts");
+    if (!this.vendor || !this.vendor.categories || this.vendor.categories.length === 0) {
+      throw new AppError(400, "At least one category is required for vendor accounts");
+    }
+    // Normalize categories: trim and lowercase each category
+    if (this.vendor.categories && Array.isArray(this.vendor.categories)) {
+      this.vendor.categories = this.vendor.categories.map(cat => cat.trim().toLowerCase());
     }
   }
 });

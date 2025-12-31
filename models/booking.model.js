@@ -7,7 +7,7 @@ const BookingRequestSchema = new mongoose.Schema(
 
     category: {
       type: String,
-      enum: ["hotel", "restaurant", "shortlet", "service provider", "event"],
+      enum: ["hotel", "restaurant", "shortlet", "services", "event"],
       required: true,
     },
 

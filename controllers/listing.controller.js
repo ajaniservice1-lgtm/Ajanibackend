@@ -57,7 +57,7 @@ const getListings = catchAsync(async (req, res) => {
 });
 
 // GET LISTING BY ID
-const getListingById = catchAsync(async (req, res) => {
+const getListingById = catchAsync(async (req, res, next) => {
   const listing = await Listing.findById(req.params.id).populate("vendorId");
 
   if (!listing) {
@@ -72,20 +72,8 @@ const getListingById = catchAsync(async (req, res) => {
 
 // GET LISTINGS BY VENDOR ID
 const getListingsByVendorId = catchAsync(async (req, res) => {
-  let listings;
-  let countQuery;
-
-  if (req.params.id === "vendorajani") {
-    // Find imported listings
-    countQuery = { vendorId: "vendorajani" };
-    listings = await Listing.find(countQuery);
-  } else {
-    // Find listings for a real vendor
-    countQuery = { vendorId: new mongoose.Types.ObjectId(req.params.id) };
-    listings = await Listing.find(countQuery).populate("vendorId");
-  }
-
-  const totalListings = await Listing.countDocuments(countQuery);
+  const listings = await Listing.find({ vendorId: req.params.id }).populate("vendorId");
+  const totalListings = await Listing.countDocuments({ vendorId: req.params.id });
 
   res.status(200).json({
     message: "Listings retrieved successfully",

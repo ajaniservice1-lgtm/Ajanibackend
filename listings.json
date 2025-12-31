@@ -1,0 +1,5256 @@
+[
+  {
+    "vendorId": "69558890c263664d295678ab",
+    "category": "shortlet",
+    "title": "1 Bedroom mini flat ",
+    "description": "One bedroom apartment with gym facility, WiFi, and uninterrupted electricity 24/7 at Aare New Bodija 70k per day. Plus 50k caution deposit\n\n",
+    "location": {
+      "address": "Aare, New Bodija, Ibadan",
+      "area": "Ibadan",
+      "geolocation": {
+        "lat": 3.9147,
+        "lng": 7.4762
+      }
+    },
+    "contactInformation": {
+      "phone": "2348143789707",
+      "whatsapp": "2348143789707"
+    },
+    "images": [
+      "https://res.cloudinary.com/debpabo0a/image/upload/v1761828191/wzpfaj1eijplrfcgnsof.jpg"
+    ],
+    "price": 75000,
+    "details": {
+      "pricePerNight": 75000,
+      "maxGuests": 2,
+      "amenities": []
+    }
+  },
+  {
+    "vendorId": "69558890c263664d295678ab",
+    "category": "shortlet",
+    "title": "1 bedroom mini flat (room and parlour) short let",
+    "description": "Wifi, Netflix, YouTube..Fantastic modern, comfortable self contained one bedroom apartment ( No AC) apartment in central Ibadan for the budget conscious travellers.\n\nSpacious unit with bathroom /toilet, kitchen area with cooking facilities, very private.\n",
+    "location": {
+      "address": "Felele Raab, Ibadan",
+      "area": "Felele",
+      "geolocation": {
+        "lat": 3.9147,
+        "lng": 7.4762
+      }
+    },
+    "contactInformation": {
+      "phone": "8062329981",
+      "whatsapp": "8062329981"
+    },
+    "images": [
+      "https://res.cloudinary.com/debpabo0a/image/upload/v1761827750/yyg569mzlihvdkys0lhn.jpg"
+    ],
+    "price": 30000,
+    "details": {
+      "pricePerNight": 30000,
+      "maxGuests": 2,
+      "amenities": []
+    }
+  },
+  {
+    "vendorId": "69558890c263664d295678ab",
+    "category": "shortlet",
+    "title": "1 bedroom mini flat (room and parlour) short let ",
+    "description": "One bedroom apartment now available for bookings at Oba Akinyele, Awosika Avenue, Old Bodija.\n\nOne bedroom apartment - 65k per day\n\nFacilities ---\n\nSmart TVs\nBalcony View\n24/7 power supply\nFree Wi-Fi connection\n",
+    "location": {
+      "address": "Awosika Avenue, Old Bodija, Ibadan",
+      "area": "Bodija",
+      "geolocation": {
+        "lat": 3.9147,
+        "lng": 7.4762
+      }
+    },
+    "contactInformation": {
+      "phone": "2348143789707",
+      "whatsapp": "2348143789707"
+    },
+    "images": [
+      "https://res.cloudinary.com/debpabo0a/image/upload/v1761827259/xh84oerzcxgl4egvdkyo.jpg"
+    ],
+    "price": 65000,
+    "details": {
+      "pricePerNight": 65000,
+      "maxGuests": 2,
+      "amenities": []
+    }
+  },
+  {
+    "vendorId": "69558890c263664d295678ab",
+    "category": "shortlet",
+    "title": "1 bedroom mini flat (room and parlour) short let ",
+    "description": "One bedroom shortlet apartment at Old Bodija, Along sluggers.\n\n- 24/7 power supply\n- ⁠Top notch security\n- ⁠Maximum privacy\n- ⁠Cleaning services\n- ⁠Comfy chairs\n- ⁠Ps5 games\n- ⁠Starlink WiFi\n\n\n100k per day\n50k caution deposit\n",
+    "location": {
+      "address": "Sluggers, Old Bodija, Ibadan",
+      "area": "Bodija",
+      "geolocation": {
+        "lat": 3.9147,
+        "lng": 7.4762
+      }
+    },
+    "contactInformation": {
+      "phone": "2348143789707",
+      "whatsapp": "2348143789707"
+    },
+    "images": [
+      "https://res.cloudinary.com/debpabo0a/image/upload/v1761827684/s4kksye1ev0kkqobuklr.jpg"
+    ],
+    "price": 100000,
+    "details": {
+      "pricePerNight": 100000,
+      "maxGuests": 2,
+      "amenities": []
+    }
+  },
+  {
+    "vendorId": "69558890c263664d295678ab",
+    "category": "shortlet",
+    "title": "3G GARDENS AND APARTMENTS",
+    "location": {
+      "address": "yidi road, Agodi",
+      "area": "Agodi",
+      "geolocation": {
+        "lat": null,
+        "lng": null
+      }
+    },
+    "contactInformation": {
+      "phone": "9133666056",
+      "whatsapp": "9133666056"
+    },
+    "images": [
+      "https://res.cloudinary.com/debpabo0a/image/upload/v1765456419/izlgu0h6z49xcu151zxb.jpg",
+      "https://res.cloudinary.com/debpabo0a/image/upload/v1765457410/j9ldhphxkixi69ymtngn.jpg",
+      "https://res.cloudinary.com/debpabo0a/image/upload/v1765457410/b4c9fzlhpvoj7kedap9s.jpg",
+      "https://res.cloudinary.com/debpabo0a/image/upload/v1765457410/qyj0rir0rfvyzpxvzi6b.jpg"
+    ],
+    "details": {
+      "maxGuests": 2,
+      "amenities": []
+    }
+  },
+  {
+    "vendorId": "69558890c263664d295678ab",
+    "category": "shortlet",
+    "title": "4 Bedroom Shortlet",
+    "description": "4 Bedroom bungalow",
+    "location": {
+      "address": "Akobo",
+      "area": "Akobo",
+      "geolocation": {
+        "lat": 3.9147,
+        "lng": 7.4762
+      }
+    },
+    "contactInformation": {
+      "phone": "2349167499130",
+      "whatsapp": "2349167499130"
+    },
+    "images": [
+      "https://res.cloudinary.com/debpabo0a/image/upload/v1761829645/zbpznot0qrqzkrs43rll.jpg"
+    ],
+    "price": 160000,
+    "details": {
+      "pricePerNight": 160000,
+      "maxGuests": 2,
+      "amenities": []
+    }
+  },
+  {
+    "vendorId": "69558890c263664d295678ab",
+    "category": "hotel",
+    "title": "4 BRASS HOTEL",
+    "location": {
+      "address": "27A Ajeigbe street, MKO Abiola Way,\n Ibadan 200253, Oyo",
+      "area": "Ringroad",
+      "geolocation": {
+        "lat": null,
+        "lng": null
+      }
+    },
+    "contactInformation": {
+      "phone": "2349075180431",
+      "whatsapp": "2349075180431"
+    },
+    "images": [],
+    "price": 25500,
+    "details": {
+      "roomTypes": [
+        {
+          "name": "Standard Room",
+          "pricePerNight": 25500,
+          "capacity": 2,
+          "amenities": []
+        }
+      ],
+      "checkInTime": "14:00",
+      "checkOutTime": "12:00"
+    }
+  },
+  {
+    "vendorId": "69558890c263664d295678ab",
+    "category": "hotel",
+    "title": "A3 HOTEL & SUITE",
+    "location": {
+      "address": "Express Address: 9, Road C, MFM Church Power House Bus-Stop, Ojo, Iwo- Road,\n Expressway, Ibadan, Oyo State.",
+      "area": "Sango, Ojoo, Eleyele",
+      "geolocation": {
+        "lat": null,
+        "lng": null
+      }
+    },
+    "contactInformation": {
+      "phone": "07014714717",
+      "whatsapp": "07014714717"
+    },
+    "images": [],
+    "price": 13000,
+    "details": {
+      "roomTypes": [
+        {
+          "name": "Standard Room",
+          "pricePerNight": 13000,
+          "capacity": 2,
+          "amenities": []
+        }
+      ],
+      "checkInTime": "14:00",
+      "checkOutTime": "12:00"
+    }
+  },
+  {
+    "vendorId": "69558890c263664d295678ab",
+    "category": "hotel",
+    "title": "ACADEMY SUITES",
+    "location": {
+      "address": "74, Ososami road, Oke Ado, Ibadan, Oyo\n State",
+      "area": "Oke Ado",
+      "geolocation": {
+        "lat": null,
+        "lng": null
+      }
+    },
+    "contactInformation": {
+      "phone": "8092930000",
+      "whatsapp": "8092930000"
+    },
+    "images": [
+      "https://res.cloudinary.com/debpabo0a/image/upload/v1765458018/ig3yitazghmqempvnfea.jpg",
+      "https://res.cloudinary.com/debpabo0a/image/upload/v1765458019/zkhsyrz81gg7mecvgcxr.jpg",
+      "https://res.cloudinary.com/debpabo0a/image/upload/v1765458019/fhr6jt4sknzlto2nxjiu.jpg",
+      "https://res.cloudinary.com/debpabo0a/image/upload/v1765458019/dxrh2dkmphz5flulv2wo.jpg"
+    ],
+    "price": 20000,
+    "details": {
+      "roomTypes": [
+        {
+          "name": "Standard Room",
+          "pricePerNight": 20000,
+          "capacity": 2,
+          "amenities": []
+        }
+      ],
+      "checkInTime": "14:00",
+      "checkOutTime": "12:00"
+    }
+  },
+  {
+    "vendorId": "69558890c263664d295678ab",
+    "category": "hotel",
+    "title": "ACADEMY SUITES",
+    "location": {
+      "address": "Old Ife Road, Ibadan,",
+      "area": "Old-Ife Road",
+      "geolocation": {
+        "lat": null,
+        "lng": null
+      }
+    },
+    "contactInformation": {
+      "phone": "8176666602",
+      "whatsapp": "8176666602"
+    },
+    "images": [
+      "https://res.cloudinary.com/debpabo0a/image/upload/v1765458018/ig3yitazghmqempvnfea.jpg",
+      "https://res.cloudinary.com/debpabo0a/image/upload/v1765458019/zkhsyrz81gg7mecvgcxr.jpg",
+      "https://res.cloudinary.com/debpabo0a/image/upload/v1765458019/fhr6jt4sknzlto2nxjiu.jpg",
+      "https://res.cloudinary.com/debpabo0a/image/upload/v1765458019/dxrh2dkmphz5flulv2wo.jpg"
+    ],
+    "price": 20000,
+    "details": {
+      "roomTypes": [
+        {
+          "name": "Standard Room",
+          "pricePerNight": 20000,
+          "capacity": 2,
+          "amenities": []
+        }
+      ],
+      "checkInTime": "14:00",
+      "checkOutTime": "12:00"
+    }
+  },
+  {
+    "vendorId": "69558890c263664d295678ab",
+    "category": "hotel",
+    "title": "ADIS HOTELS IBADAN",
+    "location": {
+      "address": "1 Akinsehiwa street, oluyole way",
+      "area": "Oluyole",
+      "geolocation": {
+        "lat": null,
+        "lng": null
+      }
+    },
+    "contactInformation": {
+      "phone": "8169339395",
+      "whatsapp": "8169339395"
+    },
+    "images": [],
+    "price": 25000,
+    "details": {
+      "roomTypes": [
+        {
+          "name": "Standard Room",
+          "pricePerNight": 25000,
+          "capacity": 2,
+          "amenities": []
+        }
+      ],
+      "checkInTime": "14:00",
+      "checkOutTime": "12:00"
+    }
+  },
+  {
+    "vendorId": "69558890c263664d295678ab",
+    "category": "hotel",
+    "title": "Adis Hotels Prime",
+    "description": "Excellent breakfast included, Free cancellation, No prepayment needed – pay at the property, No credit card needed",
+    "location": {
+      "address": "5, Ibrahim Taiwo Avenue, Off Favos Junction, New Bodija",
+      "area": "New Bodija",
+      "geolocation": {
+        "lat": 3.9147,
+        "lng": 3.4762
+      }
+    },
+    "contactInformation": {
+      "phone": "2348108732743",
+      "whatsapp": "2348108732743"
+    },
+    "images": [
+      "https://res.cloudinary.com/debpabo0a/image/upload/v1760704725/ceelkdwjbvczfbib0pcl.jpg",
+      "https://res.cloudinary.com/debpabo0a/image/upload/v1765458211/y6n02glz8rsxi5hpslwi.jpg",
+      "https://res.cloudinary.com/debpabo0a/image/upload/v1765458211/xhowm1hltlcfhlilo4x2.jpg",
+      "https://res.cloudinary.com/debpabo0a/image/upload/v1765458211/i3txh0oebbenbvgxume7.jpg",
+      "https://res.cloudinary.com/debpabo0a/image/upload/v1765458211/tceqrhxeyu9jdbjovg59.jpg"
+    ],
+    "price": 50000,
+    "details": {
+      "roomTypes": [
+        {
+          "name": "Standard Room",
+          "pricePerNight": 50000,
+          "capacity": 2,
+          "amenities": []
+        }
+      ],
+      "checkInTime": "14:00",
+      "checkOutTime": "12:00"
+    }
+  },
+  {
+    "vendorId": "69558890c263664d295678ab",
+    "category": "hotel",
+    "title": "AKINLAF HOTEL",
+    "location": {
+      "address": "Old Lagos road, Podo",
+      "area": "Podo",
+      "geolocation": {
+        "lat": null,
+        "lng": null
+      }
+    },
+    "contactInformation": {
+      "phone": null,
+      "whatsapp": null
+    },
+    "images": [],
+    "price": 15000,
+    "details": {
+      "roomTypes": [
+        {
+          "name": "Standard Room",
+          "pricePerNight": 15000,
+          "capacity": 2,
+          "amenities": []
+        }
+      ],
+      "checkInTime": "14:00",
+      "checkOutTime": "12:00"
+    }
+  },
+  {
+    "vendorId": "69558890c263664d295678ab",
+    "category": "hotel",
+    "title": "ALIVIAR HOTEL",
+    "location": {
+      "address": "11 oluwo kekere road, ibadan",
+      "area": "Bashorun",
+      "geolocation": {
+        "lat": null,
+        "lng": null
+      }
+    },
+    "contactInformation": {
+      "phone": "7047981039",
+      "whatsapp": "7047981039"
+    },
+    "images": [
+      "https://res.cloudinary.com/debpabo0a/image/upload/v1765458434/hcbpflg89juih5wkq4ar.jpg",
+      "https://res.cloudinary.com/debpabo0a/image/upload/v1765458460/ioabrdd5upea9dvnkj3e.jpg",
+      "https://res.cloudinary.com/debpabo0a/image/upload/v1765458461/reah9a2mlaveeuwitnep.jpg",
+      "https://res.cloudinary.com/debpabo0a/image/upload/v1765458460/vjiloouzhhmsqv1j66xt.jpg"
+    ],
+    "price": 20000,
+    "details": {
+      "roomTypes": [
+        {
+          "name": "Standard Room",
+          "pricePerNight": 20000,
+          "capacity": 2,
+          "amenities": []
+        }
+      ],
+      "checkInTime": "14:00",
+      "checkOutTime": "12:00"
+    }
+  },
+  {
+    "vendorId": "69558890c263664d295678ab",
+    "category": "restaurant",
+    "title": "Amala Skye",
+    "description": "Skye Bank Amala Spot A.K.A Ose Olohun is arguably one of the most popular and most visit places in Ibadan to enjoy a delicious meal of Amala and Abula. Located beside Skye Bank in Bodija market, this joint is frequented by locals and tourists alike for its real and authentic Yoruba dishes. THis spot is Known for its rich, flavorful Gbegiri and well-made Amala, so this spot is perfect for you seeking an authentic taste of Ibadan’s street food.",
+    "location": {
+      "address": "Beside Skye Bank, Bodija Market",
+      "area": "Bodija",
+      "geolocation": {
+        "lat": 3.9147,
+        "lng": 7.4762
+      }
+    },
+    "contactInformation": {
+      "phone": "2349093965346",
+      "whatsapp": "2349093965346"
+    },
+    "images": [
+      "https://res.cloudinary.com/debpabo0a/image/upload/v1761314257/huds0o0tlbgdjvfmtoiz.jpg"
+    ],
+    "price": 2500,
+    "details": {
+      "cuisines": [],
+      "openingHours": "09:00-21:00",
+      "acceptsReservations": false,
+      "maxGuestsPerReservation": 10
+    }
+  },
+  {
+    "vendorId": "69558890c263664d295678ab",
+    "category": "shortlet",
+    "title": "AMAZING GRACE HOSTEL AND INTERNATIONAL SERVICED APARTMENTS",
+    "location": {
+      "address": "Asiri abo street, agbowo,",
+      "area": "Agbowo",
+      "geolocation": {
+        "lat": null,
+        "lng": null
+      }
+    },
+    "contactInformation": {
+      "phone": "8059071891",
+      "whatsapp": "8059071891"
+    },
+    "images": [
+      "https://res.cloudinary.com/debpabo0a/image/upload/v1765458558/mbayzbddj7cgfyi8pdvv.jpg",
+      "https://res.cloudinary.com/debpabo0a/image/upload/v1765458558/tyufvvge8wzuedohumgd.jpg",
+      "https://res.cloudinary.com/debpabo0a/image/upload/v1765458558/ihbffsambvtkqglxwpps.jpg",
+      "https://res.cloudinary.com/debpabo0a/image/upload/v1765458559/pqccaej48rb2kohkazlh.jpg"
+    ],
+    "details": {
+      "maxGuests": 2,
+      "amenities": []
+    }
+  },
+  {
+    "vendorId": "69558890c263664d295678ab",
+    "category": "hotel",
+    "title": "AMIGOS HOTEL",
+    "location": {
+      "address": "6, Fadeyi street, Agbowo, ibadan",
+      "area": "Agbowo",
+      "geolocation": {
+        "lat": null,
+        "lng": null
+      }
+    },
+    "contactInformation": {
+      "phone": "8141352464",
+      "whatsapp": "8141352464"
+    },
+    "images": [
+      "https://res.cloudinary.com/debpabo0a/image/upload/v1765458782/vbnn2rznr23rkhefvcxq.jpg"
+    ],
+    "price": 18000,
+    "details": {
+      "roomTypes": [
+        {
+          "name": "Standard Room",
+          "pricePerNight": 18000,
+          "capacity": 2,
+          "amenities": []
+        }
+      ],
+      "checkInTime": "14:00",
+      "checkOutTime": "12:00"
+    }
+  },
+  {
+    "vendorId": "69558890c263664d295678ab",
+    "category": "hotel",
+    "title": "AYOTOZ HOTEL",
+    "location": {
+      "address": "Ojokondo avenue, oduduwa road",
+      "area": "UI",
+      "geolocation": {
+        "lat": null,
+        "lng": null
+      }
+    },
+    "contactInformation": {
+      "phone": "9063684603",
+      "whatsapp": "9063684603"
+    },
+    "images": [
+      "https://res.cloudinary.com/debpabo0a/image/upload/v1765458640/e4zkm3ffdurmnaomhgjl.jpg",
+      "https://res.cloudinary.com/debpabo0a/image/upload/v1765458640/iaionjj7ekybskhiw8y1.jpg",
+      "https://res.cloudinary.com/debpabo0a/image/upload/v1765458640/d4iwtyv3wchxf7cgbom4.jpg",
+      "https://res.cloudinary.com/debpabo0a/image/upload/v1765458641/yfoovtynv6qx0o2d87bm.jpg"
+    ],
+    "price": 10000,
+    "details": {
+      "roomTypes": [
+        {
+          "name": "Standard Room",
+          "pricePerNight": 10000,
+          "capacity": 2,
+          "amenities": []
+        }
+      ],
+      "checkInTime": "14:00",
+      "checkOutTime": "12:00"
+    }
+  },
+  {
+    "vendorId": "69558890c263664d295678ab",
+    "category": "hotel",
+    "title": "BAYSEONE ONE PREMIUM",
+    "location": {
+      "address": "No 8, Chief Remi Alabi Street, Off All Saint\n Church, Jericho, Ibadan",
+      "area": "Jericho",
+      "geolocation": {
+        "lat": null,
+        "lng": null
+      }
+    },
+    "contactInformation": {
+      "phone": "07076948259",
+      "whatsapp": "07076948259"
+    },
+    "images": [],
+    "price": 35000,
+    "details": {
+      "roomTypes": [
+        {
+          "name": "Standard Room",
+          "pricePerNight": 35000,
+          "capacity": 2,
+          "amenities": []
+        }
+      ],
+      "checkInTime": "14:00",
+      "checkOutTime": "12:00"
+    }
+  },
+  {
+    "vendorId": "69558890c263664d295678ab",
+    "category": "hotel",
+    "title": "BEST WESTERN PLUS",
+    "location": {
+      "address": "25, JIBOWU CRESCENT, IYAGANKU \n QUARTERS, IBADAN",
+      "area": "Iyaganku",
+      "geolocation": {
+        "lat": null,
+        "lng": null
+      }
+    },
+    "contactInformation": {
+      "phone": "8150402025",
+      "whatsapp": "8150402025"
+    },
+    "images": [
+      "https://res.cloudinary.com/debpabo0a/image/upload/v1765458901/o9vvginysdwqdszzi2tm.jpg",
+      "https://res.cloudinary.com/debpabo0a/image/upload/v1765458917/luhgllhcsn93x4loxs4y.jpg",
+      "https://res.cloudinary.com/debpabo0a/image/upload/v1765458917/j0mtkelxxhtqz6yhhu6w.jpg",
+      "https://res.cloudinary.com/debpabo0a/image/upload/v1765458917/sakxlspzufdcbrveffmd.jpg"
+    ],
+    "price": 70000,
+    "details": {
+      "roomTypes": [
+        {
+          "name": "Standard Room",
+          "pricePerNight": 70000,
+          "capacity": 2,
+          "amenities": []
+        }
+      ],
+      "checkInTime": "14:00",
+      "checkOutTime": "12:00"
+    }
+  },
+  {
+    "vendorId": "69558890c263664d295678ab",
+    "category": "hotel",
+    "title": "BILLIONAIRE HOTEL",
+    "location": {
+      "address": "Old Lagos Road Roundabout, Oluyole,\n Ibadan",
+      "area": "Oluyole",
+      "geolocation": {
+        "lat": null,
+        "lng": null
+      }
+    },
+    "contactInformation": {
+      "phone": "9165751129",
+      "whatsapp": "9165751129"
+    },
+    "images": [
+      "https://res.cloudinary.com/debpabo0a/image/upload/v1765459050/sug2sdmegfdf6qwua20s.jpg",
+      "https://res.cloudinary.com/debpabo0a/image/upload/v1765459077/q0lya6uz5cc1ryclppou.jpg",
+      "https://res.cloudinary.com/debpabo0a/image/upload/v1765459076/j04ng3vyoypt5hplnoh1.jpg",
+      "https://res.cloudinary.com/debpabo0a/image/upload/v1765459076/wc5n0xmdlqmjec1gkegt.jpg"
+    ],
+    "price": 30000,
+    "details": {
+      "roomTypes": [
+        {
+          "name": "Standard Room",
+          "pricePerNight": 30000,
+          "capacity": 2,
+          "amenities": []
+        }
+      ],
+      "checkInTime": "14:00",
+      "checkOutTime": "12:00"
+    }
+  },
+  {
+    "vendorId": "69558890c263664d295678ab",
+    "category": "hotel",
+    "title": "BINO HOTEL",
+    "location": {
+      "address": "IKOLABA GRA, IBADAN",
+      "area": "Ikolaba",
+      "geolocation": {
+        "lat": null,
+        "lng": null
+      }
+    },
+    "contactInformation": {
+      "phone": "8033935014",
+      "whatsapp": "8033935014"
+    },
+    "images": [],
+    "price": 12000,
+    "details": {
+      "roomTypes": [
+        {
+          "name": "Standard Room",
+          "pricePerNight": 12000,
+          "capacity": 2,
+          "amenities": []
+        }
+      ],
+      "checkInTime": "14:00",
+      "checkOutTime": "12:00"
+    }
+  },
+  {
+    "vendorId": "69558890c263664d295678ab",
+    "category": "hotel",
+    "title": "BLACK GOLD GUESTHOUSE",
+    "location": {
+      "address": "No 2 prince odediran street, Felele",
+      "area": "Felele",
+      "geolocation": {
+        "lat": null,
+        "lng": null
+      }
+    },
+    "contactInformation": {
+      "phone": "8039271152",
+      "whatsapp": "8039271152"
+    },
+    "images": [
+      "https://res.cloudinary.com/debpabo0a/image/upload/v1765459208/ol8xi6pvz5zyl5sgtus4.jpg",
+      "https://res.cloudinary.com/debpabo0a/image/upload/v1765459208/z04dnjybjmxo3auklrkv.jpg"
+    ],
+    "price": 15000,
+    "details": {
+      "roomTypes": [
+        {
+          "name": "Standard Room",
+          "pricePerNight": 15000,
+          "capacity": 2,
+          "amenities": []
+        }
+      ],
+      "checkInTime": "14:00",
+      "checkOutTime": "12:00"
+    }
+  },
+  {
+    "vendorId": "69558890c263664d295678ab",
+    "category": "hotel",
+    "title": "BON HOTELS IBADAN",
+    "location": {
+      "address": "Plot A, Oduduwa Street, Off Adeyi, Old\n Bodija, Ibadan, Oyo State",
+      "area": "Bodija",
+      "geolocation": {
+        "lat": null,
+        "lng": null
+      }
+    },
+    "contactInformation": {
+      "phone": "08022666235",
+      "whatsapp": "08022666235"
+    },
+    "images": [],
+    "price": 65000,
+    "details": {
+      "roomTypes": [
+        {
+          "name": "Standard Room",
+          "pricePerNight": 65000,
+          "capacity": 2,
+          "amenities": []
+        }
+      ],
+      "checkInTime": "14:00",
+      "checkOutTime": "12:00"
+    }
+  },
+  {
+    "vendorId": "69558890c263664d295678ab",
+    "category": "hotel",
+    "title": "BON Nest Hotel",
+    "description": "The quaint BON Hotel Nest Bodija Ibadan serves as the ideal meeting place for locals and travellers. The hotel has an array of exceptional amenities for guests, including a restaurant, lobby bar, pool bar, fitness centre, a swimming pool and conference rooms.",
+    "location": {
+      "address": "Plot A, Oduduwa street off Adeyi street Off Awolowo Road, Old Bodija, Ibadan",
+      "area": "Bodija",
+      "geolocation": {
+        "lat": 3.9147,
+        "lng": 7.4762
+      }
+    },
+    "contactInformation": {
+      "phone": "2348022666235",
+      "whatsapp": "2348022666235"
+    },
+    "images": [
+      "https://res.cloudinary.com/debpabo0a/image/upload/v1760706969/bvu3yc2znvk4ggpxk7ir.jpg",
+      "https://res.cloudinary.com/debpabo0a/image/upload/v1765459298/rywauwh8amdwqiv3pumr.jpg",
+      "https://res.cloudinary.com/debpabo0a/image/upload/v1765459298/vcvqanrfxsxfhjjyy8al.jpg",
+      "https://res.cloudinary.com/debpabo0a/image/upload/v1765459298/xbzjdqoqwdhmzcnntygp.jpg",
+      "https://res.cloudinary.com/debpabo0a/image/upload/v1765459298/eso1sluxumsfbecekfzp.jpg"
+    ],
+    "price": 60000,
+    "details": {
+      "roomTypes": [
+        {
+          "name": "Standard Room",
+          "pricePerNight": 60000,
+          "capacity": 2,
+          "amenities": []
+        }
+      ],
+      "checkInTime": "14:00",
+      "checkOutTime": "12:00"
+    }
+  },
+  {
+    "vendorId": "69558890c263664d295678ab",
+    "category": "hotel",
+    "title": "BRAVA HOTEL",
+    "location": {
+      "address": "Mountain of Fire and Miracle Ministry, Samonda",
+      "area": "Samonda",
+      "geolocation": {
+        "lat": null,
+        "lng": null
+      }
+    },
+    "contactInformation": {
+      "phone": "7047000608",
+      "whatsapp": "7047000608"
+    },
+    "images": [],
+    "price": 60000,
+    "details": {
+      "roomTypes": [
+        {
+          "name": "Standard Room",
+          "pricePerNight": 60000,
+          "capacity": 2,
+          "amenities": []
+        }
+      ],
+      "checkInTime": "14:00",
+      "checkOutTime": "12:00"
+    }
+  },
+  {
+    "vendorId": "69558890c263664d295678ab",
+    "category": "hotel",
+    "title": "BRIGHTON HOTEL & SUITES",
+    "location": {
+      "address": "No 24, Adeniji Street, off Liberty Road,\n Oke Ado, Ibadan.",
+      "area": "Oke Ado",
+      "geolocation": {
+        "lat": null,
+        "lng": null
+      }
+    },
+    "contactInformation": {
+      "phone": "09167641873",
+      "whatsapp": "09167641873"
+    },
+    "images": [
+      "https://res.cloudinary.com/debpabo0a/image/upload/v1765459452/agd93vhfvsgtc8a2ucwo.jpg",
+      "https://res.cloudinary.com/debpabo0a/image/upload/v1765459452/fpjkmvxcdekjuz2y1u7k.jpg",
+      "https://res.cloudinary.com/debpabo0a/image/upload/v1765459452/pavlavqpepaghbrnbfya.jpg",
+      "https://res.cloudinary.com/debpabo0a/image/upload/v1765459470/uxgvqjqecettf4aksazl.jpg"
+    ],
+    "price": 28000,
+    "details": {
+      "roomTypes": [
+        {
+          "name": "Standard Room",
+          "pricePerNight": 28000,
+          "capacity": 2,
+          "amenities": []
+        }
+      ],
+      "checkInTime": "14:00",
+      "checkOutTime": "12:00"
+    }
+  },
+  {
+    "vendorId": "69558890c263664d295678ab",
+    "category": "restaurant",
+    "title": "Café Chrysalis",
+    "description": "African, International, Fusion",
+    "location": {
+      "address": "23 Ilaro Street, off Alabiyamo Street, Old Bodija ",
+      "area": "Bodija",
+      "geolocation": {
+        "lat": 3.9147,
+        "lng": 7.4762
+      }
+    },
+    "contactInformation": {
+      "phone": "2348099903274",
+      "whatsapp": "2348099903274"
+    },
+    "images": [
+      "https://res.cloudinary.com/debpabo0a/image/upload/v1761051348/fnluud3v5qeqratt2vqz.jpg",
+      "https://res.cloudinary.com/debpabo0a/image/upload/v1765462728/d8jzgj7ecs03fs4pgd4c.jpg",
+      "https://res.cloudinary.com/debpabo0a/image/upload/v1765462728/fokreguvcth8dpfsj84r.jpg"
+    ],
+    "price": 5000,
+    "details": {
+      "cuisines": [],
+      "openingHours": "09:00-21:00",
+      "acceptsReservations": false,
+      "maxGuestsPerReservation": 10
+    }
+  },
+  {
+    "vendorId": "69558890c263664d295678ab",
+    "category": "hotel",
+    "title": "CAPITAL HOTELS",
+    "location": {
+      "address": "ELEYELE-SANGO ROAD, IBADAN",
+      "area": "Eleyele",
+      "geolocation": {
+        "lat": null,
+        "lng": null
+      }
+    },
+    "contactInformation": {
+      "phone": "8069957931",
+      "whatsapp": "8069957931"
+    },
+    "images": [],
+    "price": 11000,
+    "details": {
+      "roomTypes": [
+        {
+          "name": "Standard Room",
+          "pricePerNight": 11000,
+          "capacity": 2,
+          "amenities": []
+        }
+      ],
+      "checkInTime": "14:00",
+      "checkOutTime": "12:00"
+    }
+  },
+  {
+    "vendorId": "69558890c263664d295678ab",
+    "category": "event",
+    "title": "CAPPO-OLOGURO AND GAARI YO-YO",
+    "description": "CAPPO- OLOGURO is an original African Man dat luv African culture and always willing to promote it, we give u pure PALMWINE direct from de source 🌴🌴🌴",
+    "location": {
+      "address": "Omolayo Estate Akobo Ibadan",
+      "area": "Akobo",
+      "geolocation": {
+        "lat": 3.9147,
+        "lng": 9.4762
+      }
+    },
+    "contactInformation": {
+      "phone": "2348033775152",
+      "whatsapp": "2348033775152"
+    },
+    "images": [
+      "https://res.cloudinary.com/debpabo0a/image/upload/v1761050288/vk6ba8oofhjs9pd66q5n.jpg"
+    ],
+    "price": 1000,
+    "details": {
+      "eventDate": "2025-12-29T15:13:50.599Z",
+      "venue": "Omolayo Estate Akobo Ibadan",
+      "capacity": 50
+    }
+  },
+  {
+    "vendorId": "69558890c263664d295678ab",
+    "category": "hotel",
+    "title": "CHECKINN PRIME SUITES AND RESORTS",
+    "location": {
+      "address": "SECRETARIAT ROAD, AGODI GRA, IBADAN",
+      "area": "Agodi",
+      "geolocation": {
+        "lat": null,
+        "lng": null
+      }
+    },
+    "contactInformation": {
+      "phone": null,
+      "whatsapp": null
+    },
+    "images": [],
+    "price": 60000,
+    "details": {
+      "roomTypes": [
+        {
+          "name": "Standard Room",
+          "pricePerNight": 60000,
+          "capacity": 2,
+          "amenities": []
+        }
+      ],
+      "checkInTime": "14:00",
+      "checkOutTime": "12:00"
+    }
+  },
+  {
+    "vendorId": "69558890c263664d295678ab",
+    "category": "hotel",
+    "title": "CK",
+    "description": "CK Paradise Hotel in Ibadan offers a 3-star experience with air-conditioning, private bathrooms, and free toiletries. Each room includes a dining table, work desk, microwave, shower, TV, and electric kettle.\n\nGuests enjoy free on-site private parking, a dining area, and a wardrobe. Additional amenities include bathrobes and a ground-floor unit.\n\nLocated 8.7 mi from Ibadan Airport, the hotel is 7.5 mi from IITA Forest Reserve. Reception staff speak English.",
+    "location": {
+      "address": "36, Adeyi Street, Bodija, Ibadan",
+      "area": "Bodija",
+      "geolocation": {
+        "lat": 3.9147,
+        "lng": 7.4762
+      }
+    },
+    "contactInformation": {
+      "phone": "2348123298591",
+      "whatsapp": "2348123298591"
+    },
+    "images": [
+      "https://res.cloudinary.com/debpabo0a/image/upload/v1761308892/g5xgo1gj890i9w6nicj0.jpg",
+      "https://res.cloudinary.com/debpabo0a/image/upload/v1765462828/gm6b7sewwtpxmggn5pnj.jpg"
+    ],
+    "price": 50000,
+    "details": {
+      "roomTypes": [
+        {
+          "name": "Standard Room",
+          "pricePerNight": 50000,
+          "capacity": 2,
+          "amenities": []
+        }
+      ],
+      "checkInTime": "14:00",
+      "checkOutTime": "12:00"
+    }
+  },
+  {
+    "vendorId": "69558890c263664d295678ab",
+    "category": "shortlet",
+    "title": "CLARUS APARTMENT",
+    "location": {
+      "address": "Olive court estate, oba biladu street, Agodi, Ibadan",
+      "area": "Agodi",
+      "geolocation": {
+        "lat": null,
+        "lng": null
+      }
+    },
+    "contactInformation": {
+      "phone": "8034836279",
+      "whatsapp": "8034836279"
+    },
+    "images": [
+      "https://res.cloudinary.com/debpabo0a/image/upload/v1765463013/h2s48frxhliv4yqf5czq.jpg",
+      "https://res.cloudinary.com/debpabo0a/image/upload/v1765463013/q9n2q2aidos1axh382ek.jpg",
+      "https://res.cloudinary.com/debpabo0a/image/upload/v1765463013/exu7eq6q82penfiyuuqd.jpg",
+      "https://res.cloudinary.com/debpabo0a/image/upload/v1765463044/ktgvi7aqn6dxk5xrm9bh.jpg"
+    ],
+    "details": {
+      "maxGuests": 2,
+      "amenities": []
+    }
+  },
+  {
+    "vendorId": "69558890c263664d295678ab",
+    "category": "hotel",
+    "title": "CLASSICUS INN",
+    "location": {
+      "address": "1-3 Ifelodun street, orogun junction, adjacent u.i second gate, ibadan",
+      "area": "UI",
+      "geolocation": {
+        "lat": null,
+        "lng": null
+      }
+    },
+    "contactInformation": {
+      "phone": "9039591450",
+      "whatsapp": "9039591450"
+    },
+    "images": [
+      "https://res.cloudinary.com/debpabo0a/image/upload/v1765463117/x5hnxjyn3h2nbznlv9ul.jpg",
+      "https://res.cloudinary.com/debpabo0a/image/upload/v1765463117/fzlh9tff7n8nsgaexbw0.jpg",
+      "https://res.cloudinary.com/debpabo0a/image/upload/v1765463162/xo2wx4u3unchcy3jxmcf.jpg",
+      "https://res.cloudinary.com/debpabo0a/image/upload/v1765463162/amqiyqpcqc5tmmtzypqz.jpg"
+    ],
+    "price": 25000,
+    "details": {
+      "roomTypes": [
+        {
+          "name": "Standard Room",
+          "pricePerNight": 25000,
+          "capacity": 2,
+          "amenities": []
+        }
+      ],
+      "checkInTime": "14:00",
+      "checkOutTime": "12:00"
+    }
+  },
+  {
+    "vendorId": "69558890c263664d295678ab",
+    "category": "hotel",
+    "title": "CLINCLIA HOTEL",
+    "location": {
+      "address": "1A/1B Kebba close off Abayomi, Akinmosa, jericho,idi-isin,Ibadan",
+      "area": "Jericho",
+      "geolocation": {
+        "lat": null,
+        "lng": null
+      }
+    },
+    "contactInformation": {
+      "phone": "07030962950",
+      "whatsapp": "07030962950"
+    },
+    "images": [
+      "https://res.cloudinary.com/debpabo0a/image/upload/v1765463273/qe7bpw4dnvvoifxnf0ii.jpg",
+      "https://res.cloudinary.com/debpabo0a/image/upload/v1765463273/ctuhyffnxrutpnq2rh7m.jpg",
+      "https://res.cloudinary.com/debpabo0a/image/upload/v1765463273/duhhbbdir5ncd4tsopid.jpg",
+      "https://res.cloudinary.com/debpabo0a/image/upload/v1765463273/ifv30wolsibcjirkrl7y.jpg"
+    ],
+    "price": 15000,
+    "details": {
+      "roomTypes": [
+        {
+          "name": "Standard Room",
+          "pricePerNight": 15000,
+          "capacity": 2,
+          "amenities": []
+        }
+      ],
+      "checkInTime": "14:00",
+      "checkOutTime": "12:00"
+    }
+  },
+  {
+    "vendorId": "69558890c263664d295678ab",
+    "category": "hotel",
+    "title": "Damjay Hotel and Suites",
+    "description": "Damjay Hotels and Suites is a 3-Star lodging facility located at Ikolaba-Agodi GRA, Ibadan. Oyo State. If you’re looking for a comfortable, well secured hotel with latest facilities in Ibadan and major cities in Nigeria, then consider making Damjay Hotel and Suites your first choice\n\nDamjay Hotels are carefully designed with state of the art amenities to suit all forms of leisure and resort experience. We understand the essence of hospitality and we are proud to be your best choice when it comes to classic and luxurious hospitable facilities around the country. We provide our guests with the best experience possible. You can’t know it until you’re there.",
+    "location": {
+      "address": "19 Osungbekun Avenue, Agodi, GRA, Ibadan.",
+      "area": "Ikolaba",
+      "geolocation": {
+        "lat": 3.9147,
+        "lng": 7.4762
+      }
+    },
+    "contactInformation": {
+      "phone": "2348039900400",
+      "whatsapp": "2348039900400"
+    },
+    "images": [
+      "https://res.cloudinary.com/debpabo0a/image/upload/v1761734182/gysb6soxziqoi7mwqddr.jpg",
+      "https://res.cloudinary.com/debpabo0a/image/upload/v1765463381/f7avveplmcqjr007pjei.jpg",
+      "https://res.cloudinary.com/debpabo0a/image/upload/v1765463381/as9mqc3dgpoprspjc5zo.jpg",
+      "https://res.cloudinary.com/debpabo0a/image/upload/v1765463382/woy9saubeitjavwsydrw.jpg",
+      "https://res.cloudinary.com/debpabo0a/image/upload/v1765463381/aumue4fpoukegtry4g3w.jpg"
+    ],
+    "price": 26000,
+    "details": {
+      "roomTypes": [
+        {
+          "name": "Standard Room",
+          "pricePerNight": 26000,
+          "capacity": 2,
+          "amenities": []
+        }
+      ],
+      "checkInTime": "14:00",
+      "checkOutTime": "12:00"
+    }
+  },
+  {
+    "vendorId": "69558890c263664d295678ab",
+    "category": "hotel",
+    "title": "DANEST HOTEL AND SUITES",
+    "location": {
+      "address": "4 Beckley street/47 Adeyi street, Old bodija ibadan",
+      "area": "Bodija",
+      "geolocation": {
+        "lat": null,
+        "lng": null
+      }
+    },
+    "contactInformation": {
+      "phone": "8165920792",
+      "whatsapp": "8165920792"
+    },
+    "images": [
+      "https://res.cloudinary.com/debpabo0a/image/upload/v1765463527/jyui0rhx059s1p3u8pgq.jpg",
+      "https://res.cloudinary.com/debpabo0a/image/upload/v1765463528/zefsz0enjoptqzzfeykg.jpg",
+      "https://res.cloudinary.com/debpabo0a/image/upload/v1765463629/imchtko4fqbpkidlhjbm.jpg"
+    ],
+    "price": 35000,
+    "details": {
+      "roomTypes": [
+        {
+          "name": "Standard Room",
+          "pricePerNight": 35000,
+          "capacity": 2,
+          "amenities": []
+        }
+      ],
+      "checkInTime": "14:00",
+      "checkOutTime": "12:00"
+    }
+  },
+  {
+    "vendorId": "69558890c263664d295678ab",
+    "category": "hotel",
+    "title": "DARLINGTON PALACE HOTEL NIG.LTD",
+    "location": {
+      "address": "17 darlington street, mokola hill, ibadan",
+      "area": "Mokola",
+      "geolocation": {
+        "lat": null,
+        "lng": null
+      }
+    },
+    "contactInformation": {
+      "phone": "7038305301",
+      "whatsapp": "7038305301"
+    },
+    "images": [],
+    "price": 25000,
+    "details": {
+      "roomTypes": [
+        {
+          "name": "Standard Room",
+          "pricePerNight": 25000,
+          "capacity": 2,
+          "amenities": []
+        }
+      ],
+      "checkInTime": "14:00",
+      "checkOutTime": "12:00"
+    }
+  },
+  {
+    "vendorId": "69558890c263664d295678ab",
+    "category": "hotel",
+    "title": "DAVIES HOTEL",
+    "location": {
+      "address": "Old Bodija Estate, 7/8 Adeyi Ave, Off\n Awolowo, Mokola Hill, Ibadan",
+      "area": "Bodija",
+      "geolocation": {
+        "lat": null,
+        "lng": null
+      }
+    },
+    "contactInformation": {
+      "phone": "9120032156",
+      "whatsapp": "9120032156"
+    },
+    "images": [
+      "https://res.cloudinary.com/debpabo0a/image/upload/v1765463697/dtb5zlciubl5dcksq1w7.jpg",
+      "https://res.cloudinary.com/debpabo0a/image/upload/v1765463697/armxbf0ae5dlinfckebt.jpg",
+      "https://res.cloudinary.com/debpabo0a/image/upload/v1765463698/psndokt53o7vs7dqnlec.jpg",
+      "https://res.cloudinary.com/debpabo0a/image/upload/v1765463698/oukoxswecb0jo5um7ddj.jpg"
+    ],
+    "price": 40000,
+    "details": {
+      "roomTypes": [
+        {
+          "name": "Standard Room",
+          "pricePerNight": 40000,
+          "capacity": 2,
+          "amenities": []
+        }
+      ],
+      "checkInTime": "14:00",
+      "checkOutTime": "12:00"
+    }
+  },
+  {
+    "vendorId": "69558890c263664d295678ab",
+    "category": "hotel",
+    "title": "DE SIGNATURE TOWER",
+    "location": {
+      "address": "Plot 153, Jericho GRA, Ibadan, Oyo State",
+      "area": "Jericho",
+      "geolocation": {
+        "lat": null,
+        "lng": null
+      }
+    },
+    "contactInformation": {
+      "phone": "07047300026",
+      "whatsapp": "07047300026"
+    },
+    "images": [
+      "https://res.cloudinary.com/debpabo0a/image/upload/v1765463792/vuzagim3pmvibthlbsfs.jpg",
+      "https://res.cloudinary.com/debpabo0a/image/upload/v1765463792/fgmg9snkwyrbv1vgb38d.jpg",
+      "https://res.cloudinary.com/debpabo0a/image/upload/v1765463815/vptyhsrleytdo6owrfcb.jpg",
+      "https://res.cloudinary.com/debpabo0a/image/upload/v1765463815/mliayspijl0ulrgd5n73.jpg"
+    ],
+    "price": 105000,
+    "details": {
+      "roomTypes": [
+        {
+          "name": "Standard Room",
+          "pricePerNight": 105000,
+          "capacity": 2,
+          "amenities": []
+        }
+      ],
+      "checkInTime": "14:00",
+      "checkOutTime": "12:00"
+    }
+  },
+  {
+    "vendorId": "69558890c263664d295678ab",
+    "category": "hotel",
+    "title": "DE'MANCHY HOTELS AND SUITES",
+    "location": {
+      "address": "19, Oyegbami street barracks felele",
+      "area": "Felele",
+      "geolocation": {
+        "lat": null,
+        "lng": null
+      }
+    },
+    "contactInformation": {
+      "phone": "8148717017",
+      "whatsapp": "8148717017"
+    },
+    "images": [
+      "https://res.cloudinary.com/debpabo0a/image/upload/v1765464168/vlwsmqs4gxri8usihvad.jpg",
+      "https://res.cloudinary.com/debpabo0a/image/upload/v1765464168/vdeqx2mw1gapjbthq5gh.jpg",
+      "https://res.cloudinary.com/debpabo0a/image/upload/v1765464168/cdkpggn6rm6hczpm0ml4.jpg",
+      "https://res.cloudinary.com/debpabo0a/image/upload/v1765464168/qyzo8xe2zneeumsklgwi.jpg"
+    ],
+    "price": 45000,
+    "details": {
+      "roomTypes": [
+        {
+          "name": "Standard Room",
+          "pricePerNight": 45000,
+          "capacity": 2,
+          "amenities": []
+        }
+      ],
+      "checkInTime": "14:00",
+      "checkOutTime": "12:00"
+    }
+  },
+  {
+    "vendorId": "69558890c263664d295678ab",
+    "category": "hotel",
+    "title": "Dee Rocket Hotel & Lounge",
+    "description": "Dee Rocket Hotel & Lounge in Ibadan offers a 4-star experience with air-conditioning, private bathrooms, and free on-site private parking. Each room includes a shower, TV, and complimentary toiletries.",
+    "location": {
+      "address": "2, Baale Oyewole Road, Beside Foodco, Jericho, Ibadan",
+      "area": "Jericho",
+      "geolocation": {
+        "lat": 3.9147,
+        "lng": 7.4762
+      }
+    },
+    "contactInformation": {
+      "phone": "2348133690856",
+      "whatsapp": "2348133690856"
+    },
+    "images": [
+      "https://res.cloudinary.com/debpabo0a/image/upload/v1760706477/jz91tiermvp28g6lwtfq.jpg",
+      "https://res.cloudinary.com/debpabo0a/image/upload/v1765464388/arbgzilusp9bhdi3aq8f.jpg",
+      "https://res.cloudinary.com/debpabo0a/image/upload/v1761309086/vlvyihoigtupsz3sr9cp.jpg"
+    ],
+    "price": 25000,
+    "details": {
+      "roomTypes": [
+        {
+          "name": "Standard Room",
+          "pricePerNight": 25000,
+          "capacity": 2,
+          "amenities": []
+        }
+      ],
+      "checkInTime": "14:00",
+      "checkOutTime": "12:00"
+    }
+  },
+  {
+    "vendorId": "69558890c263664d295678ab",
+    "category": "hotel",
+    "title": "Delad Hotel and Suits",
+    "description": "Great location overall for sightseeing, recreation, dining and getting around",
+    "location": {
+      "address": "21b Tunji Bello St, Ikolaba Estate Road, Ibadan",
+      "area": "Ikolaba",
+      "geolocation": {
+        "lat": 3.9147,
+        "lng": 7.4762
+      }
+    },
+    "contactInformation": {
+      "phone": "2348177777971",
+      "whatsapp": "2348177777971"
+    },
+    "images": [
+      "https://res.cloudinary.com/debpabo0a/image/upload/v1761733305/pflgfvxmduymjtjmyolk.jpg"
+    ],
+    "price": 24000,
+    "details": {
+      "roomTypes": [
+        {
+          "name": "Standard Room",
+          "pricePerNight": 24000,
+          "capacity": 2,
+          "amenities": []
+        }
+      ],
+      "checkInTime": "14:00",
+      "checkOutTime": "12:00"
+    }
+  },
+  {
+    "vendorId": "69558890c263664d295678ab",
+    "category": "hotel",
+    "title": "Development Support Center (DSC)\n HOTEL",
+    "location": {
+      "address": "3, REV, OYEBODE CRESCENT, OFF NTC\n ROAD, IYAGANKU",
+      "area": "Iyaganku",
+      "geolocation": {
+        "lat": null,
+        "lng": null
+      }
+    },
+    "contactInformation": {
+      "phone": "8148808800",
+      "whatsapp": "8148808800"
+    },
+    "images": [
+      "https://res.cloudinary.com/debpabo0a/image/upload/v1765464481/hlcunogxi4wgpkj92nwq.jpg",
+      "https://res.cloudinary.com/debpabo0a/image/upload/v1765464481/dgj57aws0ycen9onqm8i.jpg",
+      "https://res.cloudinary.com/debpabo0a/image/upload/v1765464524/gez1xbgvupvretnc3zsc.jpg"
+    ],
+    "price": 22000,
+    "details": {
+      "roomTypes": [
+        {
+          "name": "Standard Room",
+          "pricePerNight": 22000,
+          "capacity": 2,
+          "amenities": []
+        }
+      ],
+      "checkInTime": "14:00",
+      "checkOutTime": "12:00"
+    }
+  },
+  {
+    "vendorId": "69558890c263664d295678ab",
+    "category": "hotel",
+    "title": "Dominion City Guest House",
+    "description": "This is the centre of hospitality and taste at the barest budget amount and the coolest serene in this part of Ibadan",
+    "location": {
+      "address": "Bus Stop, Dominion City, Aduloju Street, Lagos - Ojoo Expy, Iwo Road, Ibadan",
+      "area": "Ojoo",
+      "geolocation": {
+        "lat": 3.9147,
+        "lng": 7.4762
+      }
+    },
+    "contactInformation": {
+      "phone": "2349152299586",
+      "whatsapp": "2349152299586"
+    },
+    "images": [
+      "https://res.cloudinary.com/debpabo0a/image/upload/v1761735155/gpplxa19cggjnpt6cbiw.jpg"
+    ],
+    "price": 20000,
+    "details": {
+      "roomTypes": [
+        {
+          "name": "Standard Room",
+          "pricePerNight": 20000,
+          "capacity": 2,
+          "amenities": []
+        }
+      ],
+      "checkInTime": "14:00",
+      "checkOutTime": "12:00"
+    }
+  },
+  {
+    "vendorId": "69558890c263664d295678ab",
+    "category": "hotel",
+    "title": "DOPAD HILLS HOTEL & SUITES",
+    "location": {
+      "address": "67, Irepodun street, Kajorepo, Agbowo, along iwo-ojoo expressway,Ibadan",
+      "area": "Agbowo",
+      "geolocation": {
+        "lat": null,
+        "lng": null
+      }
+    },
+    "contactInformation": {
+      "phone": "7040437168",
+      "whatsapp": "7040437168"
+    },
+    "images": [
+      "https://res.cloudinary.com/debpabo0a/image/upload/v1765464612/djoqvat9r3zzdkh2re9v.jpg"
+    ],
+    "price": 25000,
+    "details": {
+      "roomTypes": [
+        {
+          "name": "Standard Room",
+          "pricePerNight": 25000,
+          "capacity": 2,
+          "amenities": []
+        }
+      ],
+      "checkInTime": "14:00",
+      "checkOutTime": "12:00"
+    }
+  },
+  {
+    "vendorId": "69558890c263664d295678ab",
+    "category": "hotel",
+    "title": "DREAM SUITES",
+    "location": {
+      "address": "4 Abinusawa street, Bashorun, ibadan",
+      "area": "Bashorun",
+      "geolocation": {
+        "lat": null,
+        "lng": null
+      }
+    },
+    "contactInformation": {
+      "phone": "8061488057",
+      "whatsapp": "8061488057"
+    },
+    "images": [
+      "https://res.cloudinary.com/debpabo0a/image/upload/v1765464694/y2kc19nl2og7pmxgf3zz.jpg",
+      "https://res.cloudinary.com/debpabo0a/image/upload/v1765464694/qu95d8nwpjkrmxeax1hy.jpg",
+      "https://res.cloudinary.com/debpabo0a/image/upload/v1765464694/txktehoalsmyxqudtghf.jpg"
+    ],
+    "price": 29000,
+    "details": {
+      "roomTypes": [
+        {
+          "name": "Standard Room",
+          "pricePerNight": 29000,
+          "capacity": 2,
+          "amenities": []
+        }
+      ],
+      "checkInTime": "14:00",
+      "checkOutTime": "12:00"
+    }
+  },
+  {
+    "vendorId": "69558890c263664d295678ab",
+    "category": "hotel",
+    "title": "DUKE RESIDENCE",
+    "location": {
+      "address": "Olive estate, off idi-ishin,afara rd",
+      "area": "Afara road",
+      "geolocation": {
+        "lat": null,
+        "lng": null
+      }
+    },
+    "contactInformation": {
+      "phone": "8025612883",
+      "whatsapp": "8025612883"
+    },
+    "images": [
+      "https://res.cloudinary.com/debpabo0a/image/upload/v1765464789/elqi90il8lkx6loba7mw.jpg",
+      "https://res.cloudinary.com/debpabo0a/image/upload/v1765464790/ziwtxspybzk4yb2upq8y.jpg",
+      "https://res.cloudinary.com/debpabo0a/image/upload/v1765464789/hgt348wl1yazwogrqwxj.jpg"
+    ],
+    "details": {
+      "roomTypes": [
+        {
+          "name": "Standard Room",
+          "capacity": 2,
+          "amenities": []
+        }
+      ],
+      "checkInTime": "14:00",
+      "checkOutTime": "12:00"
+    }
+  },
+  {
+    "vendorId": "69558890c263664d295678ab",
+    "category": "hotel",
+    "title": "E-EXCLUSIVE HOTEL & SUITES",
+    "location": {
+      "address": "ELEYELE -SANGO ROAD, IBADAN",
+      "area": "Eleyele",
+      "geolocation": {
+        "lat": null,
+        "lng": null
+      }
+    },
+    "contactInformation": {
+      "phone": "07051420707",
+      "whatsapp": "07051420707"
+    },
+    "images": [
+      "https://res.cloudinary.com/debpabo0a/image/upload/v1765465259/qjm5da90nnllftc8ksgd.jpg",
+      "https://res.cloudinary.com/debpabo0a/image/upload/v1765465259/zkp711lwqiad0rkueyq7.jpg",
+      "https://res.cloudinary.com/debpabo0a/image/upload/v1765465280/ikbexl7lkpfceaz2qpfa.jpg",
+      "https://res.cloudinary.com/debpabo0a/image/upload/v1765465280/rt4dr7rwzx8khe6ujacw.jpg"
+    ],
+    "price": 30000,
+    "details": {
+      "roomTypes": [
+        {
+          "name": "Standard Room",
+          "pricePerNight": 30000,
+          "capacity": 2,
+          "amenities": []
+        }
+      ],
+      "checkInTime": "14:00",
+      "checkOutTime": "12:00"
+    }
+  },
+  {
+    "vendorId": "69558890c263664d295678ab",
+    "category": "hotel",
+    "title": "EASHREACH COURT HOTEL",
+    "location": {
+      "address": "Aviation way, samonda",
+      "area": "Samonda",
+      "geolocation": {
+        "lat": null,
+        "lng": null
+      }
+    },
+    "contactInformation": {
+      "phone": "8031563934",
+      "whatsapp": "8031563934"
+    },
+    "images": [
+      "https://res.cloudinary.com/debpabo0a/image/upload/v1765464959/xadfyccqi691zppbuvgv.jpg",
+      "https://res.cloudinary.com/debpabo0a/image/upload/v1765464959/sxsfpa378z6o7xzuai73.jpg",
+      "https://res.cloudinary.com/debpabo0a/image/upload/v1765464959/brsuefigrcrn7c5aidjl.jpg",
+      "https://res.cloudinary.com/debpabo0a/image/upload/v1765464983/ofgapp6rlxvv0nwvpwhl.jpg"
+    ],
+    "details": {
+      "roomTypes": [
+        {
+          "name": "Standard Room",
+          "capacity": 2,
+          "amenities": []
+        }
+      ],
+      "checkInTime": "14:00",
+      "checkOutTime": "12:00"
+    }
+  },
+  {
+    "vendorId": "69558890c263664d295678ab",
+    "category": "hotel",
+    "title": "ED & DRE LUXURIA HOTEL",
+    "location": {
+      "address": "6, Orelere street, idi ape, ikolaba",
+      "area": "Ikolaba",
+      "geolocation": {
+        "lat": null,
+        "lng": null
+      }
+    },
+    "contactInformation": {
+      "phone": "7041004932",
+      "whatsapp": "7041004932"
+    },
+    "images": [
+      "https://res.cloudinary.com/debpabo0a/image/upload/v1765465160/wclq0cmr1mc60arbmqsx.jpg",
+      "https://res.cloudinary.com/debpabo0a/image/upload/v1765465160/uaguglzs6ppfwuefigoi.jpg",
+      "https://res.cloudinary.com/debpabo0a/image/upload/v1765465160/xhijfoeawa1bf5abxwxq.jpg",
+      "https://res.cloudinary.com/debpabo0a/image/upload/v1765465161/prh5vabdowsxhpjtzo8c.jpg"
+    ],
+    "price": 70000,
+    "details": {
+      "roomTypes": [
+        {
+          "name": "Standard Room",
+          "pricePerNight": 70000,
+          "capacity": 2,
+          "amenities": []
+        }
+      ],
+      "checkInTime": "14:00",
+      "checkOutTime": "12:00"
+    }
+  },
+  {
+    "vendorId": "69558890c263664d295678ab",
+    "category": "hotel",
+    "title": "Emmaag Hotel",
+    "description": "Discover the essence of comfort and elegance at Emmaag Hotel Ibadan, your premier destination for luxury accommodation in the vibrant city of Ibadan. Our hotel is thoughtfully designed to provide an unparalleled experience for both business and leisure travelers, blending modern amenities with the warmth of Nigerian hospitality. Our beautifully appointed rooms and suites offer a serene retreat from the bustling city, featuring contemporary furnishings, plush bedding, and s\n\ntunning views. Each room is equipped with high-speed Wi-Fi, flat-screen TVs, and a well-stocked minibar, ensuring that your stay is as comfortable and convenient as possible. Savor a culinary journey at our on-site restaurant, where our talented chefs craft a delightful array of local and international dishes using the freshest ingredients. Whether you’re enjoying a hearty breakfast, a leisurely lunch, or a gourmet dinner, our dining experience is sure to satisfy. Our stylish bar is the perfect place to unwind with a selection of fine wines, cocktails, and beverages. At Emmaag Hotel Ibadan, we offer a range of amenities to enhance your stay. Relax and rejuvenate at our wellness center, which features a variety of spa treatments and a fully equipped fitness center. Our inviting outdoor swimming pool is ideal for a refreshing dip or lounging by the poolside. For meetings, conferences, and special events, our versatile event spaces are equipped with the latest technology and supported by our dedicated team to ensure every detail is flawlessly executed. From intimate gatherings to grand celebrations, we provide the perfect setting and exceptional service. Conveniently located, Emmaag Hotel Ibadan offers easy access to the city’s major attractions, business districts, and cultural sites. Whether you’re here for business or leisure, our hotel promises a memorable stay marked by luxury, comfort, and attentive service. Experience the perfect blend of style and convenience at Emmaag Hotel Ibadan, where your satisfaction is our top priority.",
+    "location": {
+      "address": "1, Ondo Street, Off Osuntokun Avenue, Old Bodija",
+      "area": "Bodija",
+      "geolocation": {
+        "lat": 3.9147,
+        "lng": 7.4762
+      }
+    },
+    "contactInformation": {
+      "phone": "2348150833330",
+      "whatsapp": "2348150833330"
+    },
+    "images": [
+      "https://res.cloudinary.com/debpabo0a/image/upload/v1761311898/sospvfzvgnhuwhmatoab.jpg"
+    ],
+    "price": 38000,
+    "details": {
+      "roomTypes": [
+        {
+          "name": "Standard Room",
+          "pricePerNight": 38000,
+          "capacity": 2,
+          "amenities": []
+        }
+      ],
+      "checkInTime": "14:00",
+      "checkOutTime": "12:00"
+    }
+  },
+  {
+    "vendorId": "69558890c263664d295678ab",
+    "category": "hotel",
+    "title": "EMMAAG HOTEL",
+    "location": {
+      "address": "No 1, Ondo Street, Old Bodija, Ibadan, Oyo\n State.",
+      "area": "Bodija",
+      "geolocation": {
+        "lat": null,
+        "lng": null
+      }
+    },
+    "contactInformation": {
+      "phone": "8150833330",
+      "whatsapp": "8150833330"
+    },
+    "images": [
+      "https://res.cloudinary.com/debpabo0a/image/upload/v1765465423/xq4pvymzqqqesh33pr0m.jpg"
+    ],
+    "price": 45000,
+    "details": {
+      "roomTypes": [
+        {
+          "name": "Standard Room",
+          "pricePerNight": 45000,
+          "capacity": 2,
+          "amenities": []
+        }
+      ],
+      "checkInTime": "14:00",
+      "checkOutTime": "12:00"
+    }
+  },
+  {
+    "vendorId": "69558890c263664d295678ab",
+    "category": "hotel",
+    "title": "ENIKE HOTEL",
+    "location": {
+      "address": "Apete road, ijokodo, Ibadan",
+      "area": "Ijokodo",
+      "geolocation": {
+        "lat": null,
+        "lng": null
+      }
+    },
+    "contactInformation": {
+      "phone": "8160055078",
+      "whatsapp": "8160055078"
+    },
+    "images": [
+      "https://res.cloudinary.com/debpabo0a/image/upload/v1765465535/c4rjjvspajhp3f6sqg4v.jpg",
+      "https://res.cloudinary.com/debpabo0a/image/upload/v1765465535/kbwf8etksajyo9xadiyz.jpg"
+    ],
+    "details": {
+      "roomTypes": [
+        {
+          "name": "Standard Room",
+          "capacity": 2,
+          "amenities": []
+        }
+      ],
+      "checkInTime": "14:00",
+      "checkOutTime": "12:00"
+    }
+  },
+  {
+    "vendorId": "69558890c263664d295678ab",
+    "category": "hotel",
+    "title": "EURO HOTEL",
+    "location": {
+      "address": "30 Alaafin avenue oluyole, ibadan",
+      "area": "Oluyole",
+      "geolocation": {
+        "lat": null,
+        "lng": null
+      }
+    },
+    "contactInformation": {
+      "phone": "9070965739",
+      "whatsapp": "9070965739"
+    },
+    "images": [],
+    "price": 20000,
+    "details": {
+      "roomTypes": [
+        {
+          "name": "Standard Room",
+          "pricePerNight": 20000,
+          "capacity": 2,
+          "amenities": []
+        }
+      ],
+      "checkInTime": "14:00",
+      "checkOutTime": "12:00"
+    }
+  },
+  {
+    "vendorId": "69558890c263664d295678ab",
+    "category": "hotel",
+    "title": "EXCLUSIVE HOTELS IBADAN",
+    "location": {
+      "address": "No.1, E-Exclusive CLOSE, (NEAR WAEC JUNCTION)OFF SANGO ELEYELE ROAD, Ibadan,\n Nigeria 22334",
+      "area": "Ijokodo",
+      "geolocation": {
+        "lat": null,
+        "lng": null
+      }
+    },
+    "contactInformation": {
+      "phone": "8120766000",
+      "whatsapp": "8120766000"
+    },
+    "images": [],
+    "details": {
+      "roomTypes": [
+        {
+          "name": "Standard Room",
+          "capacity": 2,
+          "amenities": []
+        }
+      ],
+      "checkInTime": "14:00",
+      "checkOutTime": "12:00"
+    }
+  },
+  {
+    "vendorId": "69558890c263664d295678ab",
+    "category": "services",
+    "title": "Famous Alaga Ayo",
+    "description": "Famous Alaga Ayo is the sure plug for your Introduction, Engagement (Alaga Iduro/Ijoko, Eru Iyawo wrapping & setting. For both Muslim and Christians.",
+    "location": {
+      "address": "Alakia, Ibadan",
+      "area": "Ibadan",
+      "geolocation": {
+        "lat": 3.9147,
+        "lng": 7.4762
+      }
+    },
+    "contactInformation": {
+      "phone": "2348165970343",
+      "whatsapp": "2348165970343"
+    },
+    "images": [
+      "https://res.cloudinary.com/debpabo0a/image/upload/v1761132215/ron6gnyzksybs5hgiobt.jpg"
+    ],
+    "price": 50000,
+    "details": {
+      "priceType": "fixed",
+      "price": 50000,
+      "availability": ["Mon-Fri"]
+    }
+  },
+  {
+    "vendorId": "69558890c263664d295678ab",
+    "category": "hotel",
+    "title": "FAWZY HOTEL",
+    "location": {
+      "address": "Akinyemi way, adjacent Brecan centre, off ringroad, Ibadan",
+      "area": "Ringroad",
+      "geolocation": {
+        "lat": null,
+        "lng": null
+      }
+    },
+    "contactInformation": {
+      "phone": "8105479934",
+      "whatsapp": "8105479934"
+    },
+    "images": [
+      "https://res.cloudinary.com/debpabo0a/image/upload/v1765465631/wddtg9dyc1plzt6ucwu2.jpg",
+      "https://res.cloudinary.com/debpabo0a/image/upload/v1765465631/jlx6o9cgvlqbocpgntb8.jpg",
+      "https://res.cloudinary.com/debpabo0a/image/upload/v1765465631/i2acqmgxu4bbptmbdo1d.jpg",
+      "https://res.cloudinary.com/debpabo0a/image/upload/v1765465631/rzoxvqs3e17bwizsch3j.jpg"
+    ],
+    "price": 35000,
+    "details": {
+      "roomTypes": [
+        {
+          "name": "Standard Room",
+          "pricePerNight": 35000,
+          "capacity": 2,
+          "amenities": []
+        }
+      ],
+      "checkInTime": "14:00",
+      "checkOutTime": "12:00"
+    }
+  },
+  {
+    "vendorId": "69558890c263664d295678ab",
+    "category": "restaurant",
+    "title": "Five Continents",
+    "description": "Experience Five Continents in one location with a combination of fine cuisines, choice beverages in cosy environment that creates the right ambience to experience the savour of our offering.",
+    "location": {
+      "address": "Quarter 781, GRA, Jericho, Ibadan",
+      "area": "Jericho",
+      "geolocation": {
+        "lat": 3.9147,
+        "lng": 7.4762
+      }
+    },
+    "contactInformation": {
+      "phone": "2347055560034",
+      "whatsapp": "2347055560034"
+    },
+    "images": [
+      "https://res.cloudinary.com/debpabo0a/image/upload/v1761051974/wzlg34majyicw00dtenw.jpg"
+    ],
+    "price": 5000,
+    "details": {
+      "cuisines": [],
+      "openingHours": "09:00-21:00",
+      "acceptsReservations": false,
+      "maxGuestsPerReservation": 10
+    }
+  },
+  {
+    "vendorId": "69558890c263664d295678ab",
+    "category": "shortlet",
+    "title": "Fragrance Apartments and Suites",
+    "description": "Comfortable Accommodations: Fragrance Apartments and Suites in Ibadan offers family rooms with air-conditioning, private bathrooms, and modern amenities. Each room includes a refrigerator, work desk, TV, and free toiletries.\nExceptional Facilities: Guests can enjoy a spa and wellness center, year-round outdoor swimming pool, and a lush garden. The terrace and balcony provide relaxing spaces, while the restaurant and bar offer dining and refreshments.",
+    "location": {
+      "address": "1 Adeagbo Odeniyi Avenue, Ibadan",
+      "area": "Idi-Ape",
+      "geolocation": {
+        "lat": null,
+        "lng": null
+      }
+    },
+    "contactInformation": {
+      "phone": "2348164835744",
+      "whatsapp": "2348164835744"
+    },
+    "images": [
+      "https://res.cloudinary.com/debpabo0a/image/upload/v1761314655/g1xmur2fvn3idzcckpp3.jpg",
+      "https://res.cloudinary.com/debpabo0a/image/upload/v1765465894/r85g0fxcswqlcb0tuizy.jpg"
+    ],
+    "price": 50003,
+    "details": {
+      "pricePerNight": 50003,
+      "maxGuests": 2,
+      "amenities": []
+    }
+  },
+  {
+    "vendorId": "69558890c263664d295678ab",
+    "category": "restaurant",
+    "title": "FRT Foods/Events",
+    "description": "Our business is great because it’s built on passion, consistency, and genuine value. Every product and service reflects quality, care, and dedication to customer satisfaction. We don’t just sell we create experiences, build trust, and deliver excellence that keeps people coming back.\n\n",
+    "location": {
+      "address": "No 23,moniya shopping complex, moniya. Ibadan ",
+      "area": "Moniya",
+      "geolocation": {
+        "lat": null,
+        "lng": null
+      }
+    },
+    "contactInformation": {
+      "phone": "7058319154",
+      "whatsapp": "7058319154"
+    },
+    "images": [
+      "https://res.cloudinary.com/debpabo0a/image/upload/v1761634864/mhw6mfd05wjcddlexo3f.jpg"
+    ],
+    "price": 2500,
+    "details": {
+      "cuisines": [],
+      "openingHours": "09:00-21:00",
+      "acceptsReservations": false,
+      "maxGuestsPerReservation": 10
+    }
+  },
+  {
+    "vendorId": "69558890c263664d295678ab",
+    "category": "event",
+    "title": "GALLANISUITES HOTEL, JERICHO",
+    "location": {
+      "address": "No 1 abel awe close off oladele ajao, Jericho, Ibadan",
+      "area": "Jericho",
+      "geolocation": {
+        "lat": null,
+        "lng": null
+      }
+    },
+    "contactInformation": {
+      "phone": "7055567775",
+      "whatsapp": "7055567775"
+    },
+    "images": [
+      "https://res.cloudinary.com/debpabo0a/image/upload/v1765466508/pzguut2hih8g8lxsdglr.jpg",
+      "https://res.cloudinary.com/debpabo0a/image/upload/v1765466508/rvigi1ip2e5bawmedpec.jpg",
+      "https://res.cloudinary.com/debpabo0a/image/upload/v1765466508/uqvpc3n7u3wfu2rsi9li.jpg",
+      "https://res.cloudinary.com/debpabo0a/image/upload/v1765466508/umpxcul5oxcukwgyysc5.jpg"
+    ],
+    "price": 50000,
+    "details": {
+      "eventDate": "2025-12-29T15:13:50.599Z",
+      "venue": "No 1 abel awe close off oladele ajao, Jericho, Ibadan",
+      "capacity": 50
+    }
+  },
+  {
+    "vendorId": "69558890c263664d295678ab",
+    "category": "event",
+    "title": "GEEKS EVENT PLACE",
+    "description": "Geeks Event Place is proud to call itself one of Ibadan most elegant yet affordable Marquee Event Centre. 🖊Main Banquet Hall; 600guests 🖊Small Banquet Hall; 70 guests * Ibadan’s First and only Complete Glass Marquee. * 600 Banquet seating capacity (Dior & VIP chairs) * Fully Air Conditioned * State of the art Restroom facilities * Gold Crystal Chandeliers * Ample Car Parking Space * Multimedia Display Screens * ONGOING 30% DISCOUNT! With Geeks Event Centre wide range of services and amenities, your Ibadan event is sure to be a success",
+    "location": {
+      "address": "Challenge Expressway, Falana Bus-Stop, Challenge, Ibadan",
+      "area": "Challenge",
+      "geolocation": {
+        "lat": 3.9147,
+        "lng": 7.4762
+      }
+    },
+    "contactInformation": {
+      "phone": "2348141397546",
+      "whatsapp": "2348141397546"
+    },
+    "images": [
+      "https://res.cloudinary.com/debpabo0a/image/upload/v1761737047/h0iv4czh5dzn9hi4cjrn.jpg"
+    ],
+    "price": 100000,
+    "details": {
+      "eventDate": "2025-12-29T15:13:50.599Z",
+      "venue": "Challenge Expressway, Falana Bus-Stop, Challenge, Ibadan",
+      "capacity": 50
+    }
+  },
+  {
+    "vendorId": "69558890c263664d295678ab",
+    "category": "shortlet",
+    "title": "GEZA LUXURY APARTMENTS",
+    "location": {
+      "address": "14 Palm avenue, extension oluyole",
+      "area": "Oluyole",
+      "geolocation": {
+        "lat": null,
+        "lng": null
+      }
+    },
+    "contactInformation": {
+      "phone": "8139436277",
+      "whatsapp": "8139436277"
+    },
+    "images": [
+      "https://res.cloudinary.com/debpabo0a/image/upload/v1765524982/tzpxbi1mgmre590tmflp.jpg",
+      "https://res.cloudinary.com/debpabo0a/image/upload/v1765524982/zx3jwl0exvgcibhi5gey.jpg",
+      "https://res.cloudinary.com/debpabo0a/image/upload/v1765524982/gvky0r6tt5uky5lfojcw.jpg",
+      "https://res.cloudinary.com/debpabo0a/image/upload/v1765524983/tjvjfcjz41o1q1sohbae.jpg"
+    ],
+    "price": 70000,
+    "details": {
+      "pricePerNight": 70000,
+      "maxGuests": 2,
+      "amenities": []
+    }
+  },
+  {
+    "vendorId": "69558890c263664d295678ab",
+    "category": "hotel",
+    "title": "GOLDEN TULIP HOTEL",
+    "location": {
+      "address": "Quarter 781, Government Reserved Area, Jericho, Ibadan",
+      "area": "Jericho",
+      "geolocation": {
+        "lat": null,
+        "lng": null
+      }
+    },
+    "contactInformation": {
+      "phone": "9060004988",
+      "whatsapp": "9060004988"
+    },
+    "images": [
+      "https://res.cloudinary.com/debpabo0a/image/upload/v1765525075/ex9hxin7xzsijkcrnh6r.jpg",
+      "https://res.cloudinary.com/debpabo0a/image/upload/v1765525075/vgzhb1qy1usogoigzh9p.jpg",
+      "https://res.cloudinary.com/debpabo0a/image/upload/v1765525107/yewepmypeseh55jxlqcq.jpg"
+    ],
+    "price": 120000,
+    "details": {
+      "roomTypes": [
+        {
+          "name": "Standard Room",
+          "pricePerNight": 120000,
+          "capacity": 2,
+          "amenities": []
+        }
+      ],
+      "checkInTime": "14:00",
+      "checkOutTime": "12:00"
+    }
+  },
+  {
+    "vendorId": "69558890c263664d295678ab",
+    "category": "shortlet",
+    "title": "GRACE APARTMENTS",
+    "location": {
+      "address": "Agodi, Ibadan",
+      "area": "Agodi",
+      "geolocation": {
+        "lat": null,
+        "lng": null
+      }
+    },
+    "contactInformation": {
+      "phone": "9118297664",
+      "whatsapp": "9118297664"
+    },
+    "images": [
+      "https://res.cloudinary.com/debpabo0a/image/upload/v1765525226/aphaqeu7q0uw5rpidt1u.jpg",
+      "https://res.cloudinary.com/debpabo0a/image/upload/v1765525226/bpxbppdl7qsweinb4jfy.jpg",
+      "https://res.cloudinary.com/debpabo0a/image/upload/v1765525226/kyjrw3gawzdigsll7rsh.jpg",
+      "https://res.cloudinary.com/debpabo0a/image/upload/v1765525227/cde30m85psz2umo5900w.jpg"
+    ],
+    "details": {
+      "maxGuests": 2,
+      "amenities": []
+    }
+  },
+  {
+    "vendorId": "69558890c263664d295678ab",
+    "category": "shortlet",
+    "title": "GRACELITE RESIDENCES",
+    "location": {
+      "address": "No. 45, Ondo Street, Off Osuntokun Avenue, Bodija, Ibadan",
+      "area": "Bodija",
+      "geolocation": {
+        "lat": null,
+        "lng": null
+      }
+    },
+    "contactInformation": {
+      "phone": "8101818730",
+      "whatsapp": "8101818730"
+    },
+    "images": [],
+    "price": 200000,
+    "details": {
+      "pricePerNight": 200000,
+      "maxGuests": 2,
+      "amenities": []
+    }
+  },
+  {
+    "vendorId": "69558890c263664d295678ab",
+    "category": "hotel",
+    "title": "GRAND SERENE HOTELS",
+    "location": {
+      "address": "Iyaganku G.R.A, 19 Jibowu Cres, New Gra, Ibadan 200273, Oyo",
+      "area": "Iyaganku",
+      "geolocation": {
+        "lat": null,
+        "lng": null
+      }
+    },
+    "contactInformation": {
+      "phone": "8066619313",
+      "whatsapp": "8066619313"
+    },
+    "images": [
+      "https://res.cloudinary.com/debpabo0a/image/upload/v1765565036/rkdgfm9whurklff20r6r.jpg",
+      "https://res.cloudinary.com/debpabo0a/image/upload/v1765565037/xf9ouqr4m7vswsly40ly.jpg",
+      "https://res.cloudinary.com/debpabo0a/image/upload/v1765565037/cjjotasudquc78kds2dh.jpg",
+      "https://res.cloudinary.com/debpabo0a/image/upload/v1765565037/n1ckbwxgfvgud1ty2os6.jpg"
+    ],
+    "price": 30000,
+    "details": {
+      "roomTypes": [
+        {
+          "name": "Standard Room",
+          "pricePerNight": 30000,
+          "capacity": 2,
+          "amenities": []
+        }
+      ],
+      "checkInTime": "14:00",
+      "checkOutTime": "12:00"
+    }
+  },
+  {
+    "vendorId": "69558890c263664d295678ab",
+    "category": "hotel",
+    "title": "GRANDFIELD HOTELS",
+    "location": {
+      "address": "Oluyole, ibadan",
+      "area": "Oluyole",
+      "geolocation": {
+        "lat": null,
+        "lng": null
+      }
+    },
+    "contactInformation": {
+      "phone": "9127894561",
+      "whatsapp": "9127894561"
+    },
+    "images": [
+      "https://res.cloudinary.com/debpabo0a/image/upload/v1765565147/tiikquvnoz0dxxmskoyd.jpg",
+      "https://res.cloudinary.com/debpabo0a/image/upload/v1765565147/y5vdulr8uq8ta2acan0q.jpg",
+      "https://res.cloudinary.com/debpabo0a/image/upload/v1765565147/or7g3nvgpb5cikibbjiy.jpg",
+      "https://res.cloudinary.com/debpabo0a/image/upload/v1765565177/gu5cxpsy0rgyutneedil.jpg"
+    ],
+    "details": {
+      "roomTypes": [
+        {
+          "name": "Standard Room",
+          "capacity": 2,
+          "amenities": []
+        }
+      ],
+      "checkInTime": "14:00",
+      "checkOutTime": "12:00"
+    }
+  },
+  {
+    "vendorId": "69558890c263664d295678ab",
+    "category": "hotel",
+    "title": "GREENDALE LODGE & APARTMENTS",
+    "location": {
+      "address": "D'Rovans way, 2 Lawal Okelanfa rd",
+      "area": "Ringroad",
+      "geolocation": {
+        "lat": null,
+        "lng": null
+      }
+    },
+    "contactInformation": {
+      "phone": null,
+      "whatsapp": null
+    },
+    "images": [
+      "https://res.cloudinary.com/debpabo0a/image/upload/v1765564903/cjdsswiozorci5jy4yid.jpg",
+      "https://res.cloudinary.com/debpabo0a/image/upload/v1765564903/ki65gaj1qwbrn1lytak5.jpg"
+    ],
+    "price": 15000,
+    "details": {
+      "roomTypes": [
+        {
+          "name": "Standard Room",
+          "pricePerNight": 15000,
+          "capacity": 2,
+          "amenities": []
+        }
+      ],
+      "checkInTime": "14:00",
+      "checkOutTime": "12:00"
+    }
+  },
+  {
+    "vendorId": "69558890c263664d295678ab",
+    "category": "hotel",
+    "title": "HAIL HENRIETTA HOTEL(TRIPLE H) HOTEL",
+    "location": {
+      "address": "Block XXI, olubadan housing estate, new ife rd egbeda",
+      "area": "Egbeda",
+      "geolocation": {
+        "lat": null,
+        "lng": null
+      }
+    },
+    "contactInformation": {
+      "phone": "8076724631",
+      "whatsapp": "8076724631"
+    },
+    "images": [
+      "https://res.cloudinary.com/debpabo0a/image/upload/v1765565457/vqconcy4dqavfyjmobxe.jpg",
+      "https://res.cloudinary.com/debpabo0a/image/upload/v1765565458/u3sdoac5c9r8dhu3dsqa.jpg"
+    ],
+    "price": 50000,
+    "details": {
+      "roomTypes": [
+        {
+          "name": "Standard Room",
+          "pricePerNight": 50000,
+          "capacity": 2,
+          "amenities": []
+        }
+      ],
+      "checkInTime": "14:00",
+      "checkOutTime": "12:00"
+    }
+  },
+  {
+    "vendorId": "69558890c263664d295678ab",
+    "category": "hotel",
+    "title": "HARMONIUS HAVEN SERVICES",
+    "location": {
+      "address": "7 Kuye street",
+      "area": "Bodija",
+      "geolocation": {
+        "lat": null,
+        "lng": null
+      }
+    },
+    "contactInformation": {
+      "phone": "9061926219",
+      "whatsapp": "9061926219"
+    },
+    "images": [
+      "https://res.cloudinary.com/debpabo0a/image/upload/v1765565618/yjysfr5g9mifovei3l47.jpg",
+      "https://res.cloudinary.com/debpabo0a/image/upload/v1765565619/ol54tkwn1osvvdd5crpv.jpg",
+      "https://res.cloudinary.com/debpabo0a/image/upload/v1765565619/vqunrw7rcodyizdqkvwc.jpg",
+      "https://res.cloudinary.com/debpabo0a/image/upload/v1765565619/iowvuqfmspj4sd3hecti.jpg"
+    ],
+    "details": {
+      "roomTypes": [
+        {
+          "name": "Standard Room",
+          "capacity": 2,
+          "amenities": []
+        }
+      ],
+      "checkInTime": "14:00",
+      "checkOutTime": "12:00"
+    }
+  },
+  {
+    "vendorId": "69558890c263664d295678ab",
+    "category": "hotel",
+    "title": "HARRINGTON INN HOTEL",
+    "location": {
+      "address": "No 11, Dejo Oyelese Street, Old Bodija,\n Ibadan",
+      "area": "Bodija",
+      "geolocation": {
+        "lat": null,
+        "lng": null
+      }
+    },
+    "contactInformation": {
+      "phone": "8160475663",
+      "whatsapp": "8160475663"
+    },
+    "images": [
+      "https://res.cloudinary.com/debpabo0a/image/upload/v1765565699/leqotlzcvuppwza1koa4.jpg",
+      "https://res.cloudinary.com/debpabo0a/image/upload/v1765565699/zfdblppdeqzzno8yslo6.jpg",
+      "https://res.cloudinary.com/debpabo0a/image/upload/v1765565699/h6o4zobclbx7laxyvfvz.jpg"
+    ],
+    "price": 35000,
+    "details": {
+      "roomTypes": [
+        {
+          "name": "Standard Room",
+          "pricePerNight": 35000,
+          "capacity": 2,
+          "amenities": []
+        }
+      ],
+      "checkInTime": "14:00",
+      "checkOutTime": "12:00"
+    }
+  },
+  {
+    "vendorId": "69558890c263664d295678ab",
+    "category": "event",
+    "title": "HAVANA IMPERIAL HOTEL",
+    "location": {
+      "address": "Beside First bank U.I Maingate Sango-Ojoo road, Ibadan",
+      "area": "UI",
+      "geolocation": {
+        "lat": null,
+        "lng": null
+      }
+    },
+    "contactInformation": {
+      "phone": "8155777776",
+      "whatsapp": "8155777776"
+    },
+    "images": [
+      "https://res.cloudinary.com/debpabo0a/image/upload/v1765565793/plhziig3kxuq3m8fe5va.jpg",
+      "https://res.cloudinary.com/debpabo0a/image/upload/v1765565793/lq3mdbionoewhaqmaenv.jpg",
+      "https://res.cloudinary.com/debpabo0a/image/upload/v1765565793/yvp6e6h3tay5wzfnirr0.jpg",
+      "https://res.cloudinary.com/debpabo0a/image/upload/v1765565794/odx6yvhexou6xxbzurzu.jpg"
+    ],
+    "price": 20000,
+    "details": {
+      "eventDate": "2025-12-29T15:13:50.599Z",
+      "venue": "Beside First bank U.I Maingate Sango-Ojoo road, Ibadan",
+      "capacity": 50
+    }
+  },
+  {
+    "vendorId": "69558890c263664d295678ab",
+    "category": "event",
+    "title": "HAVANA ROYALE HALL",
+    "description": "Our Banqueting main Hall is a venue that never fails to impress, it offers plenty to marvel at, from its grand heritage sculptures at the entrance of the hall, to the high ceiling vast “pillarless” interior and delicate opulent grand chandeliers surrounded by myriad of stunning light display.\n\nThe Hall offers a highly adaptable space that can hold events in multiple-format, seating optimum 800 guests banquet style, or up to 1500 guests seated theatre style.\n\nMain Features:\nFully air conditioned\nChivalry chairs\nMoveable staging\n7 beautiful chandeliers\nChanging/Dressing room (air conditioned)\n250Kva new generator and additional standby generator\nIndoor parking space for 400 cars plus additional outdoor parking for 1500 cars\nAir condition toilet\nSecurity\nGated compound",
+    "location": {
+      "address": "HAVANA ROYALE HALL, U.I ROAD, IBADAN",
+      "area": "Agbowo",
+      "geolocation": {
+        "lat": 3.9147,
+        "lng": 7.4762
+      }
+    },
+    "contactInformation": {
+      "phone": "2348091888824",
+      "whatsapp": "2348091888824"
+    },
+    "images": [
+      "https://res.cloudinary.com/debpabo0a/image/upload/v1761735958/aax8jkcjmcxlislf0tdq.jpg"
+    ],
+    "price": 500000,
+    "details": {
+      "eventDate": "2025-12-29T15:13:50.599Z",
+      "venue": "HAVANA ROYALE HALL, U.I ROAD, IBADAN",
+      "capacity": 50
+    }
+  },
+  {
+    "vendorId": "69558890c263664d295678ab",
+    "category": "shortlet",
+    "title": "Haven Condominium",
+    "description": "Enjoy the finest amenities and services, carefully designed to make your stay unforgettable:\n\nLuxurious bedrooms and bathrooms\nFully equipped kitchens and living areas\nHigh-speed internet and satellite TV\n24/7 security and concierge services\nAnd many more…",
+    "location": {
+      "address": "12 Oluokun, off Awolowo Road, Ibadan",
+      "area": "Bodija",
+      "geolocation": {
+        "lat": 3.9147,
+        "lng": 7.4762
+      }
+    },
+    "contactInformation": {
+      "phone": "2348121251485",
+      "whatsapp": "2348121251485"
+    },
+    "images": [
+      "https://res.cloudinary.com/debpabo0a/image/upload/v1761828720/utxypzyyc6zd8trys8ei.jpg"
+    ],
+    "price": 123000,
+    "details": {
+      "pricePerNight": 123000,
+      "maxGuests": 2,
+      "amenities": []
+    }
+  },
+  {
+    "vendorId": "69558890c263664d295678ab",
+    "category": "hotel",
+    "title": "HEXAGON HOTEL",
+    "location": {
+      "address": "16 Bashorun road, bibilari bus stop, idiape, ibadan",
+      "area": "Idi Ape",
+      "geolocation": {
+        "lat": null,
+        "lng": null
+      }
+    },
+    "contactInformation": {
+      "phone": "8061488057",
+      "whatsapp": "8061488057"
+    },
+    "images": [
+      "https://res.cloudinary.com/debpabo0a/image/upload/v1765565861/jynskvvpcskuonzedptc.jpg",
+      "https://res.cloudinary.com/debpabo0a/image/upload/v1765565861/gm2w22ywn77ie87kwwrv.jpg",
+      "https://res.cloudinary.com/debpabo0a/image/upload/v1765565861/h567bu6ou5ntgu7a256w.jpg"
+    ],
+    "price": 35000,
+    "details": {
+      "roomTypes": [
+        {
+          "name": "Standard Room",
+          "pricePerNight": 35000,
+          "capacity": 2,
+          "amenities": []
+        }
+      ],
+      "checkInTime": "14:00",
+      "checkOutTime": "12:00"
+    }
+  },
+  {
+    "vendorId": "69558890c263664d295678ab",
+    "category": "hotel",
+    "title": "HILL TOP TAVERN HOTEL",
+    "location": {
+      "address": "ELEYELE - SANGO ROAD, IBADAN",
+      "area": "Eleyele",
+      "geolocation": {
+        "lat": null,
+        "lng": null
+      }
+    },
+    "contactInformation": {
+      "phone": "8059474862",
+      "whatsapp": "8059474862"
+    },
+    "images": [
+      "https://res.cloudinary.com/debpabo0a/image/upload/v1765565923/dmhli9j7diydtd4ajyo1.jpg",
+      "https://res.cloudinary.com/debpabo0a/image/upload/v1765565953/v0sjq0jvfxwwctkj2c4x.jpg"
+    ],
+    "price": 9500,
+    "details": {
+      "roomTypes": [
+        {
+          "name": "Standard Room",
+          "pricePerNight": 9500,
+          "capacity": 2,
+          "amenities": []
+        }
+      ],
+      "checkInTime": "14:00",
+      "checkOutTime": "12:00"
+    }
+  },
+  {
+    "vendorId": "69558890c263664d295678ab",
+    "category": "hotel",
+    "title": "HOTEL MAXIMA",
+    "location": {
+      "address": "OFF SANGO-ELEYELE ROAD, IBADAN",
+      "area": "Eleyele",
+      "geolocation": {
+        "lat": null,
+        "lng": null
+      }
+    },
+    "contactInformation": {
+      "phone": "8073741083",
+      "whatsapp": "8073741083"
+    },
+    "images": [
+      "https://res.cloudinary.com/debpabo0a/image/upload/v1765566019/nockbcczbx6ih5ub9f8t.jpg",
+      "https://res.cloudinary.com/debpabo0a/image/upload/v1765566020/c1bpypuwv5m74j1tm7rq.jpg"
+    ],
+    "price": 8000,
+    "details": {
+      "roomTypes": [
+        {
+          "name": "Standard Room",
+          "pricePerNight": 8000,
+          "capacity": 2,
+          "amenities": []
+        }
+      ],
+      "checkInTime": "14:00",
+      "checkOutTime": "12:00"
+    }
+  },
+  {
+    "vendorId": "69558890c263664d295678ab",
+    "category": "restaurant",
+    "title": "Ibachi",
+    "description": "Ibachi is one of the best stylish Chinese-American restaurants. It specialises in Asian-inspired dishes such as stir-fried noodles, seafood, grilled meats, and teppanyaki, all served in a modern fine-dining setting. The restaurant features elegant indoor seating with a contemporary design, making it ideal for intimate evenings.",
+    "location": {
+      "address": "1 Theophilus Akinyele Way, Ibadan",
+      "area": "New-Garage",
+      "geolocation": {
+        "lat": 3.9147,
+        "lng": 7.4762
+      }
+    },
+    "contactInformation": {
+      "phone": "2347055550000",
+      "whatsapp": "2347055550000"
+    },
+    "images": [
+      "https://res.cloudinary.com/debpabo0a/image/upload/v1761053998/xf8xy2lin034xnft6eie.jpg"
+    ],
+    "price": 2000,
+    "details": {
+      "cuisines": [],
+      "openingHours": "09:00-21:00",
+      "acceptsReservations": false,
+      "maxGuestsPerReservation": 10
+    }
+  },
+  {
+    "vendorId": "69558890c263664d295678ab",
+    "category": "event",
+    "title": "Ibadan Civic Centre",
+    "description": "Ibadan Civic Centre serves as a prominent event venue located in the heart of Ibadan. This multifunctional space is often used for conferences, weddings, and cultural events, making it a hub for social gatherings in the region. Surrounded by landscaped gardens, it offers a serene environment suitable for various occasions. The centre is designed to accommodate large groups and features modern facilities, ensuring comfort and convenience for both host and guests. Its central location makes it accessible to visitors exploring the cultural and historical significance of Ibadan.",
+    "location": {
+      "address": "IDI APE, IWO ROAD, IBADAN",
+      "area": "Agodi",
+      "geolocation": {
+        "lat": 3.9147,
+        "lng": 7.4762
+      }
+    },
+    "contactInformation": {
+      "phone": "2349124681211",
+      "whatsapp": "2349124681211"
+    },
+    "images": [
+      "https://res.cloudinary.com/debpabo0a/image/upload/v1761736792/zb2mcwvgrlxqkmjjq0vk.jpg"
+    ],
+    "price": 600000,
+    "details": {
+      "eventDate": "2025-12-29T15:13:50.599Z",
+      "venue": "IDI APE, IWO ROAD, IBADAN",
+      "capacity": 50
+    }
+  },
+  {
+    "vendorId": "69558890c263664d295678ab",
+    "category": "hotel",
+    "title": "IRISHGOLD SUITE",
+    "location": {
+      "address": "15 sodeinde st,anfani rd ibadan",
+      "area": "Ringroad",
+      "geolocation": {
+        "lat": null,
+        "lng": null
+      }
+    },
+    "contactInformation": {
+      "phone": "8081474009",
+      "whatsapp": "8081474009"
+    },
+    "images": [
+      "https://res.cloudinary.com/debpabo0a/image/upload/v1765566105/siyvulrgq9ix9rgiaown.jpg",
+      "https://res.cloudinary.com/debpabo0a/image/upload/v1765566104/qu2y91xzgyiddo2dgxuo.jpg",
+      "https://res.cloudinary.com/debpabo0a/image/upload/v1765566104/kxvvsp8lyonmohzlefrb.jpg",
+      "https://res.cloudinary.com/debpabo0a/image/upload/v1765566105/dwborlnz22n1plp6x3bl.jpg"
+    ],
+    "price": 30000,
+    "details": {
+      "roomTypes": [
+        {
+          "name": "Standard Room",
+          "pricePerNight": 30000,
+          "capacity": 2,
+          "amenities": []
+        }
+      ],
+      "checkInTime": "14:00",
+      "checkOutTime": "12:00"
+    }
+  },
+  {
+    "vendorId": "69558890c263664d295678ab",
+    "category": "hotel",
+    "title": "Jogor Hotel",
+    "description": "Hotel located in the Ibadan city center, with luxuriously furnished rooms, orthopedic, semi-orthopedic & spring mattresses. The hotel has facilities for your comfort: wifi, gym, clean pool, restaurant, bar/lounge, sports bar, children's play room, smart android TVs that allows you watch Netflix, Prime Video, Youtube etc. The restaurant sits a large number of guests for buffet & al ar carte dining. Unique cocktails are served in the bar & the sports bar is available for sports lovers to enjoy up to five different lives matches streamed live on large screens. Guests security & privacy means a lot to us in Jogor Hotel, to ensure this, the following facilities & measures are put in place: electronic keycard controlled elevators, stairways access & doors; electronic safes in every room, door latches for double locking while in the room, peeping whole on all doors etc",
+    "location": {
+      "address": "1 Harvesters' Drive Off Liberty Stadium Road, Off MKO Abiola Way, Ibadan",
+      "area": "Ring Road",
+      "geolocation": {
+        "lat": 3.9147,
+        "lng": 7.4762
+      }
+    },
+    "contactInformation": {
+      "phone": "8032341728",
+      "whatsapp": "8032341728"
+    },
+    "images": [
+      "https://res.cloudinary.com/debpabo0a/image/upload/v1761049315/sdbssw6rph5e4d7sm67o.jpg",
+      "https://res.cloudinary.com/debpabo0a/image/upload/v1765566222/dnnftfd757bhfy2hx8k5.jpg",
+      "https://res.cloudinary.com/debpabo0a/image/upload/v1765566221/o0nrz7ga68teta4k9wpo.jpg",
+      "https://res.cloudinary.com/debpabo0a/image/upload/v1765566222/vcxawnlnw3eagpya2nwl.jpg",
+      "https://res.cloudinary.com/debpabo0a/image/upload/v1765566221/dymzzybotpvll5yqeilv.jpg"
+    ],
+    "price": 90000,
+    "details": {
+      "roomTypes": [
+        {
+          "name": "Standard Room",
+          "pricePerNight": 90000,
+          "capacity": 2,
+          "amenities": []
+        }
+      ],
+      "checkInTime": "14:00",
+      "checkOutTime": "12:00"
+    }
+  },
+  {
+    "vendorId": "69558890c263664d295678ab",
+    "category": "restaurant",
+    "title": "Jollof Square",
+    "description": "Whether you're team Smokey Jollof, Stir-Fry Spag, or Ewa Agoyin — we've got that home-cooked flavour you’ll keep coming back for 🔥\n✨ Affordable. Delicious. Fast!!!",
+    "location": {
+      "address": "Suite 18, Irepodun Shopping complex, Saki Garage, Sango, Ibadan",
+      "area": "Agbowo, Sango, Apete, Bodija, Ashi",
+      "geolocation": {
+        "lat": 3.9147,
+        "lng": 7.4762
+      }
+    },
+    "contactInformation": {
+      "phone": "2348073664768",
+      "whatsapp": "2348073664768"
+    },
+    "images": [
+      "https://res.cloudinary.com/debpabo0a/image/upload/v1761133271/zfytemhgsrnk4b1ogfqr.jpg"
+    ],
+    "price": 1200,
+    "details": {
+      "cuisines": [],
+      "openingHours": "09:00-21:00",
+      "acceptsReservations": false,
+      "maxGuestsPerReservation": 10
+    }
+  },
+  {
+    "vendorId": "69558890c263664d295678ab",
+    "category": "hotel",
+    "title": "JOSIAH INN HOTEL",
+    "location": {
+      "address": "Opp NISER U.I Ojoo road, Ibadan",
+      "area": "UI",
+      "geolocation": {
+        "lat": null,
+        "lng": null
+      }
+    },
+    "contactInformation": {
+      "phone": "7008808800",
+      "whatsapp": "7008808800"
+    },
+    "images": [
+      "https://res.cloudinary.com/debpabo0a/image/upload/v1765566300/ekkn2pmodrcvcpgforfu.jpg",
+      "https://res.cloudinary.com/debpabo0a/image/upload/v1765566299/hlpcykrektzsjtvkxuma.jpg",
+      "https://res.cloudinary.com/debpabo0a/image/upload/v1765566302/hmmlwyjejshztoojdigp.jpg",
+      "https://res.cloudinary.com/debpabo0a/image/upload/v1765566299/ceeqx29fufmpuaa9g3j2.jpg"
+    ],
+    "price": 15000,
+    "details": {
+      "roomTypes": [
+        {
+          "name": "Standard Room",
+          "pricePerNight": 15000,
+          "capacity": 2,
+          "amenities": []
+        }
+      ],
+      "checkInTime": "14:00",
+      "checkOutTime": "12:00"
+    }
+  },
+  {
+    "vendorId": "69558890c263664d295678ab",
+    "category": "hotel",
+    "title": "Kakanfo Inn",
+    "description": "Kakanfo Inn is a prestigious hotel and conference centre offering excellent comfort and first class facilities. We are located in Ibadan, approximately 90 minutes drive from Lagos; the financial capital of Nigeria. We have been providing top quality service since 1988. The hotel has 97 rooms and suites . You have an option of 4 categories of rooms designed and equipped to suit your needs.",
+    "location": {
+      "address": "Joyce' B, Ringroad, Ibadan",
+      "area": "Ring Road",
+      "geolocation": {
+        "lat": 3.9147,
+        "lng": 7.4762
+      }
+    },
+    "contactInformation": {
+      "phone": "2347055828309",
+      "whatsapp": "2347055828309"
+    },
+    "images": [
+      "https://res.cloudinary.com/debpabo0a/image/upload/v1760624162/tafqieofeyzvrzsq8hqe.jpg",
+      " https://res.cloudinary.com/debpabo0a/image/upload/v1760704725/ceelkdwjbvczfbib0pcl.jpg",
+      " https://res.cloudinary.com/debpabo0a/image/upload/v1760706477/jz91tiermvp28g6lwtfq.jpg"
+    ],
+    "price": 75000,
+    "details": {
+      "roomTypes": [
+        {
+          "name": "Standard Room",
+          "pricePerNight": 75000,
+          "capacity": 2,
+          "amenities": []
+        }
+      ],
+      "checkInTime": "14:00",
+      "checkOutTime": "12:00"
+    }
+  },
+  {
+    "vendorId": "69558890c263664d295678ab",
+    "category": "hotel",
+    "title": "KAKANFO INN AND CONFERENCE CENTRE",
+    "location": {
+      "address": "1 Nihinola street, off joyce b road, off ring road",
+      "area": "Ringroad",
+      "geolocation": {
+        "lat": null,
+        "lng": null
+      }
+    },
+    "contactInformation": {
+      "phone": "7055828309",
+      "whatsapp": "7055828309"
+    },
+    "images": [
+      "https://res.cloudinary.com/debpabo0a/image/upload/v1765566404/x1trhkcovlknf8y98pwm.jpg",
+      "https://res.cloudinary.com/debpabo0a/image/upload/v1765566404/se8knnynglcjcwgusvlg.jpg",
+      "https://res.cloudinary.com/debpabo0a/image/upload/v1765566404/pvlyor7fsodbpfd1tqak.jpg",
+      "https://res.cloudinary.com/debpabo0a/image/upload/v1765566420/fymsppcafx47x4jpl40b.jpg"
+    ],
+    "price": 75000,
+    "details": {
+      "roomTypes": [
+        {
+          "name": "Standard Room",
+          "pricePerNight": 75000,
+          "capacity": 2,
+          "amenities": []
+        }
+      ],
+      "checkInTime": "14:00",
+      "checkOutTime": "12:00"
+    }
+  },
+  {
+    "vendorId": "69558890c263664d295678ab",
+    "category": "hotel",
+    "title": "KD HOTELS & APARTMENT",
+    "location": {
+      "address": "2, KD DRIVE, OPPOSITE DOMINO'S PIZZA ,\n AKOBO, IBADAN",
+      "area": "Akobo",
+      "geolocation": {
+        "lat": null,
+        "lng": null
+      }
+    },
+    "contactInformation": {
+      "phone": "9160003295",
+      "whatsapp": "9160003295"
+    },
+    "images": [],
+    "price": 25000,
+    "details": {
+      "roomTypes": [
+        {
+          "name": "Standard Room",
+          "pricePerNight": 25000,
+          "capacity": 2,
+          "amenities": []
+        }
+      ],
+      "checkInTime": "14:00",
+      "checkOutTime": "12:00"
+    }
+  },
+  {
+    "vendorId": "69558890c263664d295678ab",
+    "category": "shortlet",
+    "title": "KDHOTEL AND APARTMENT",
+    "location": {
+      "address": "No 2, KD drive, opp dominos pizza, Akobo, Ibadan",
+      "area": "Akobo",
+      "geolocation": {
+        "lat": null,
+        "lng": null
+      }
+    },
+    "contactInformation": {
+      "phone": "9160003295",
+      "whatsapp": "9160003295"
+    },
+    "images": [
+      "https://res.cloudinary.com/debpabo0a/image/upload/v1765566530/s0jzyjg0kxrnusicqxnh.jpg",
+      "https://res.cloudinary.com/debpabo0a/image/upload/v1765566530/ny2kak3cbn1lhlp4ur39.jpg",
+      "https://res.cloudinary.com/debpabo0a/image/upload/v1765566531/h0ymbmnrmf0whcz6i8ug.jpg"
+    ],
+    "details": {
+      "maxGuests": 2,
+      "amenities": []
+    }
+  },
+  {
+    "vendorId": "69558890c263664d295678ab",
+    "category": "hotel",
+    "title": "KDREAMS HOTEL",
+    "location": {
+      "address": "orita challenge, off odo ona elewe",
+      "area": "Challenge",
+      "geolocation": {
+        "lat": null,
+        "lng": null
+      }
+    },
+    "contactInformation": {
+      "phone": "8033586695",
+      "whatsapp": "8033586695"
+    },
+    "images": [
+      "https://res.cloudinary.com/debpabo0a/image/upload/v1765566636/kohdfwjeaqgsgdpq9ioj.jpg",
+      "https://res.cloudinary.com/debpabo0a/image/upload/v1765566636/bm4pwbiorh1jxnz8lcj2.jpg",
+      "https://res.cloudinary.com/debpabo0a/image/upload/v1765566636/pi3mfimnaemgp6ajwkf8.jpg"
+    ],
+    "price": 15000,
+    "details": {
+      "roomTypes": [
+        {
+          "name": "Standard Room",
+          "pricePerNight": 15000,
+          "capacity": 2,
+          "amenities": []
+        }
+      ],
+      "checkInTime": "14:00",
+      "checkOutTime": "12:00"
+    }
+  },
+  {
+    "vendorId": "69558890c263664d295678ab",
+    "category": "restaurant",
+    "title": "Kokodome Plus",
+    "description": "Kokodome is an hospitality, recreational and tourism brand located in Dugbe, the heart of the Ibadan Central Business District in Oyo State, South West Nigeria. Established in 1964, It is an integral part of the historic and pace setting 25 Storey Cocoa House Edifice which is the first skyscraper in Nigeria.\nIts unique dome shaped restaurant with a breath taking view of the pristine clean big sized swimming pool, see though glass elite lounge and pool side and terrace bars confer on Kokodome a unique configuration of the classic and the contemporary in a warm blend of choice spots to the delight of its clientele.",
+    "location": {
+      "address": "Cocoa House Premises Opposite Ibadan Post Office Dugbe, Ibadan",
+      "area": "Dugbe",
+      "geolocation": {
+        "lat": 3.9147,
+        "lng": 7.4762
+      }
+    },
+    "contactInformation": {
+      "phone": "2348181819999",
+      "whatsapp": "2348181819999"
+    },
+    "images": [
+      "https://res.cloudinary.com/debpabo0a/image/upload/v1761052616/okt4b7i9zdggsnubtku1.webp"
+    ],
+    "price": 2000,
+    "details": {
+      "cuisines": [],
+      "openingHours": "09:00-21:00",
+      "acceptsReservations": false,
+      "maxGuestsPerReservation": 10
+    }
+  },
+  {
+    "vendorId": "69558890c263664d295678ab",
+    "category": "hotel",
+    "title": "KOLTOL GUESTHOUSE",
+    "location": {
+      "address": "13 ajayi osungbeku ave,agodi gra,Ibadan",
+      "area": "Agodi",
+      "geolocation": {
+        "lat": null,
+        "lng": null
+      }
+    },
+    "contactInformation": {
+      "phone": "8033529580",
+      "whatsapp": "8033529580"
+    },
+    "images": [
+      "https://res.cloudinary.com/debpabo0a/image/upload/v1765566806/jfledrevj7gstpkcapgv.jpg",
+      "https://res.cloudinary.com/debpabo0a/image/upload/v1765566806/mix1f36smteehgjmzlm6.jpg",
+      "https://res.cloudinary.com/debpabo0a/image/upload/v1765566806/gy9d700og86kzztubj4m.jpg",
+      "https://res.cloudinary.com/debpabo0a/image/upload/v1765566806/zsbj5vin6m92hdavvj5k.jpg"
+    ],
+    "price": 25000,
+    "details": {
+      "roomTypes": [
+        {
+          "name": "Standard Room",
+          "pricePerNight": 25000,
+          "capacity": 2,
+          "amenities": []
+        }
+      ],
+      "checkInTime": "14:00",
+      "checkOutTime": "12:00"
+    }
+  },
+  {
+    "vendorId": "69558890c263664d295678ab",
+    "category": "hotel",
+    "title": "KOLTOL HOTEL ANNEXE",
+    "location": {
+      "address": "38, OLUWOEKERE, BASORUN, IBADAN",
+      "area": "Bashorun",
+      "geolocation": {
+        "lat": null,
+        "lng": null
+      }
+    },
+    "contactInformation": {
+      "phone": "8155529999",
+      "whatsapp": "8155529999"
+    },
+    "images": [],
+    "price": 32000,
+    "details": {
+      "roomTypes": [
+        {
+          "name": "Standard Room",
+          "pricePerNight": 32000,
+          "capacity": 2,
+          "amenities": []
+        }
+      ],
+      "checkInTime": "14:00",
+      "checkOutTime": "12:00"
+    }
+  },
+  {
+    "vendorId": "69558890c263664d295678ab",
+    "category": "hotel",
+    "title": "KOLTOL HOTELS",
+    "location": {
+      "address": "IKOLABA GRA, IBADAN",
+      "area": "Ikolaba",
+      "geolocation": {
+        "lat": null,
+        "lng": null
+      }
+    },
+    "contactInformation": {
+      "phone": "8101650666",
+      "whatsapp": "8101650666"
+    },
+    "images": [],
+    "price": 32000,
+    "details": {
+      "roomTypes": [
+        {
+          "name": "Standard Room",
+          "pricePerNight": 32000,
+          "capacity": 2,
+          "amenities": []
+        }
+      ],
+      "checkInTime": "14:00",
+      "checkOutTime": "12:00"
+    }
+  },
+  {
+    "vendorId": "69558890c263664d295678ab",
+    "category": "hotel",
+    "title": "LA MAISON HOTEL & SUITES",
+    "location": {
+      "address": "23, JIBOWU ROAD, IYAGANKU GRA, IBADAN",
+      "area": "Iyaganku",
+      "geolocation": {
+        "lat": null,
+        "lng": null
+      }
+    },
+    "contactInformation": {
+      "phone": "8160684669",
+      "whatsapp": "8160684669"
+    },
+    "images": [],
+    "price": 32000,
+    "details": {
+      "roomTypes": [
+        {
+          "name": "Standard Room",
+          "pricePerNight": 32000,
+          "capacity": 2,
+          "amenities": []
+        }
+      ],
+      "checkInTime": "14:00",
+      "checkOutTime": "12:00"
+    }
+  },
+  {
+    "vendorId": "69558890c263664d295678ab",
+    "category": "hotel",
+    "title": "La Maison Hotel & Suites",
+    "location": {
+      "address": "No 33, Jibowu Road, Iyaganku, Ibadan",
+      "area": "Iyaganku",
+      "geolocation": {
+        "lat": null,
+        "lng": null
+      }
+    },
+    "contactInformation": {
+      "phone": "8160684669",
+      "whatsapp": "8160684669"
+    },
+    "images": [
+      "https://res.cloudinary.com/debpabo0a/image/upload/v1765567177/fbbdw3143eci3yivnuhs.jpg",
+      "https://res.cloudinary.com/debpabo0a/image/upload/v1765567176/r8ct997f2gtmg79yct9v.jpg",
+      "https://res.cloudinary.com/debpabo0a/image/upload/v1765567176/aspa6clx0jfcfkg7tpqy.jpg",
+      "https://res.cloudinary.com/debpabo0a/image/upload/v1765567176/yava2inpnkdmcrjjauba.jpg"
+    ],
+    "price": 32500,
+    "details": {
+      "roomTypes": [
+        {
+          "name": "Standard Room",
+          "pricePerNight": 32500,
+          "capacity": 2,
+          "amenities": []
+        }
+      ],
+      "checkInTime": "14:00",
+      "checkOutTime": "12:00"
+    }
+  },
+  {
+    "vendorId": "69558890c263664d295678ab",
+    "category": "hotel",
+    "title": "LA'BOTHA HOTEL AND SUITES",
+    "location": {
+      "address": "No 9, onibonoje street, adjacent ajimobi market, molete, ibadan",
+      "area": "Molete",
+      "geolocation": {
+        "lat": null,
+        "lng": null
+      }
+    },
+    "contactInformation": {
+      "phone": "8057844015",
+      "whatsapp": "8057844015"
+    },
+    "images": [
+      "https://res.cloudinary.com/debpabo0a/image/upload/v1765567257/pcffyikg2ls2lndrz5gq.jpg"
+    ],
+    "price": 18000,
+    "details": {
+      "roomTypes": [
+        {
+          "name": "Standard Room",
+          "pricePerNight": 18000,
+          "capacity": 2,
+          "amenities": []
+        }
+      ],
+      "checkInTime": "14:00",
+      "checkOutTime": "12:00"
+    }
+  },
+  {
+    "vendorId": "69558890c263664d295678ab",
+    "category": "hotel",
+    "title": "LABOD HOTEL",
+    "location": {
+      "address": "55 Awolowo Ave, old bodija, Ibadan",
+      "area": "Bodija",
+      "geolocation": {
+        "lat": null,
+        "lng": null
+      }
+    },
+    "contactInformation": {
+      "phone": "8148808800",
+      "whatsapp": "8148808800"
+    },
+    "images": [
+      "https://res.cloudinary.com/debpabo0a/image/upload/v1765567312/podkcedeywdobffnbvbj.jpg",
+      "https://res.cloudinary.com/debpabo0a/image/upload/v1765567312/by6r1vm0kpwfy5ycyfvb.jpg",
+      "https://res.cloudinary.com/debpabo0a/image/upload/v1765567312/f0wnsw1xiwtpdgpu7u9a.jpg",
+      "https://res.cloudinary.com/debpabo0a/image/upload/v1765567313/wq7avcwanbmvu8uxrw3n.jpg"
+    ],
+    "price": 20000,
+    "details": {
+      "roomTypes": [
+        {
+          "name": "Standard Room",
+          "pricePerNight": 20000,
+          "capacity": 2,
+          "amenities": []
+        }
+      ],
+      "checkInTime": "14:00",
+      "checkOutTime": "12:00"
+    }
+  },
+  {
+    "vendorId": "69558890c263664d295678ab",
+    "category": "event",
+    "title": "Le chateau Event Center",
+    "description": "Lechateau event Centre has been in existence more than a decade now,  we have a professional experience in event planning, we also provide high quality service. \nOur service are:\nEvent Hall with fully equipped \nEvent planning \nCatering services \nDrinks Management.",
+    "location": {
+      "address": "43a Awolowo Ave, Old Bodija, Ibadan",
+      "area": "Bodija",
+      "geolocation": {
+        "lat": 3.9147,
+        "lng": 7.4762
+      }
+    },
+    "contactInformation": {
+      "phone": "2349040107064",
+      "whatsapp": "2349040107064"
+    },
+    "images": [
+      "https://res.cloudinary.com/debpabo0a/image/upload/v1761737445/ter4eibpjbclsv0eix6j.jpg"
+    ],
+    "price": 400000,
+    "details": {
+      "eventDate": "2025-12-29T15:13:50.599Z",
+      "venue": "43a Awolowo Ave, Old Bodija, Ibadan",
+      "capacity": 50
+    }
+  },
+  {
+    "vendorId": "69558890c263664d295678ab",
+    "category": "hotel",
+    "title": "MAHOGANY HOTEL & SUITES",
+    "location": {
+      "address": "4, Remi Alabi Close, by All Saint's Church,\n Jericho, Ibadan",
+      "area": "Jericho",
+      "geolocation": {
+        "lat": null,
+        "lng": null
+      }
+    },
+    "contactInformation": {
+      "phone": "2349056370655",
+      "whatsapp": "2349056370655"
+    },
+    "images": [],
+    "price": 70000,
+    "details": {
+      "roomTypes": [
+        {
+          "name": "Standard Room",
+          "pricePerNight": 70000,
+          "capacity": 2,
+          "amenities": []
+        }
+      ],
+      "checkInTime": "14:00",
+      "checkOutTime": "12:00"
+    }
+  },
+  {
+    "vendorId": "69558890c263664d295678ab",
+    "category": "event",
+    "title": "Manhattan Hall",
+    "description": "Manhattan Hall is a spacious event venue situated in the serene Jericho area of Ibadan, Nigeria. It offers ample parking space and a well-maintained environment suitable for various events. The hall is equipped with modern facilities, including air conditioning and adjoining changing rooms for clients. An added feature is the Cruzer Lounge located at the back of the hall, providing a comfortable space for relaxation and socializing. The venue has hosted events such as the 'Love Feast' on Valentine's Day, showcasing its versatility in accommodating diverse gatherings.",
+    "location": {
+      "address": "Eleyele Road, Jericho, Ibadan",
+      "area": "Jericho",
+      "geolocation": {
+        "lat": 3.9147,
+        "lng": 7.4762
+      }
+    },
+    "contactInformation": {
+      "phone": "2349131040110",
+      "whatsapp": "2349131040110"
+    },
+    "images": [
+      "https://res.cloudinary.com/debpabo0a/image/upload/v1761737787/n9asrtmwowv5gz6f0dlt.jpg"
+    ],
+    "price": 750000,
+    "details": {
+      "eventDate": "2025-12-29T15:13:50.599Z",
+      "venue": "Eleyele Road, Jericho, Ibadan",
+      "capacity": 50
+    }
+  },
+  {
+    "vendorId": "69558890c263664d295678ab",
+    "category": "hotel",
+    "title": "Maracana Luxury Hotel & Suites",
+    "description": "Maracana Luxury Hotel & Suites in Ibadan offers 4-star comfort with air-conditioning, private bathrooms, and free toiletries. Each room includes a work desk, TV, electric kettle, and wardrobe.",
+    "location": {
+      "address": "42, Awolowo Avenue, Bodija",
+      "area": "Bodija",
+      "geolocation": {
+        "lat": 3.9147,
+        "lng": 7.4762
+      }
+    },
+    "contactInformation": {
+      "phone": "2348122176433",
+      "whatsapp": "2348122176433"
+    },
+    "images": [
+      "https://res.cloudinary.com/debpabo0a/image/upload/v1760705358/rnol1l5ty5jtdnxapdhk.jpg"
+    ],
+    "price": 60000,
+    "details": {
+      "roomTypes": [
+        {
+          "name": "Standard Room",
+          "pricePerNight": 60000,
+          "capacity": 2,
+          "amenities": []
+        }
+      ],
+      "checkInTime": "14:00",
+      "checkOutTime": "12:00"
+    }
+  },
+  {
+    "vendorId": "69558890c263664d295678ab",
+    "category": "hotel",
+    "title": "MARCHFORTE HOTEL & SUITES",
+    "location": {
+      "address": "No 2, Adejumo close, off secretariat, Total garden road, Agodi GRA,Ibadan",
+      "area": "Agodi",
+      "geolocation": {
+        "lat": null,
+        "lng": null
+      }
+    },
+    "contactInformation": {
+      "phone": "09110016995",
+      "whatsapp": "09110016995"
+    },
+    "images": [
+      "https://res.cloudinary.com/debpabo0a/image/upload/v1765567406/kymka2lku89m5maabz6v.jpg",
+      "https://res.cloudinary.com/debpabo0a/image/upload/v1765567407/r4fjxddrseuu6a77ssjy.jpg",
+      "https://res.cloudinary.com/debpabo0a/image/upload/v1765567425/mqernvwbu3qprkzykhv8.jpg"
+    ],
+    "price": 50000,
+    "details": {
+      "roomTypes": [
+        {
+          "name": "Standard Room",
+          "pricePerNight": 50000,
+          "capacity": 2,
+          "amenities": []
+        }
+      ],
+      "checkInTime": "14:00",
+      "checkOutTime": "12:00"
+    }
+  },
+  {
+    "vendorId": "69558890c263664d295678ab",
+    "category": "restaurant",
+    "title": "Martha’s Kitchen",
+    "description": "Martha's Kitchen is a charming culinary haven located on Magazine Road in Jericho, Ibadan, Oyo State, known for its delightful menu offerings and inviting atmosphere. A diverse selection of dishes awaits, spanning African, continental, and Chinese cuisines, making it a perfect spot for family gatherings or romantic dates alike.",
+    "location": {
+      "address": "Railway Siding Jericho, Magazine Rd, Opposite, Ibadan",
+      "area": "Jericho",
+      "geolocation": {
+        "lat": 3.9147,
+        "lng": 7.4762
+      }
+    },
+    "contactInformation": {
+      "phone": "2348034241370",
+      "whatsapp": "2348034241370"
+    },
+    "images": [
+      "https://res.cloudinary.com/debpabo0a/image/upload/v1761051723/szdhtxvi5hlddg2ukq9v.jpg"
+    ],
+    "price": 5000,
+    "details": {
+      "cuisines": [],
+      "openingHours": "09:00-21:00",
+      "acceptsReservations": false,
+      "maxGuestsPerReservation": 10
+    }
+  },
+  {
+    "vendorId": "69558890c263664d295678ab",
+    "category": "hotel",
+    "title": "MASFORM LODGE",
+    "location": {
+      "address": "Behind Akilapa mosque, Bodija market, Ibadan",
+      "area": "Bodija",
+      "geolocation": {
+        "lat": null,
+        "lng": null
+      }
+    },
+    "contactInformation": {
+      "phone": "8088406199",
+      "whatsapp": "8088406199"
+    },
+    "images": [
+      "https://res.cloudinary.com/debpabo0a/image/upload/v1765567503/zii18f0v0xacxwqxmkuv.jpg",
+      "https://res.cloudinary.com/debpabo0a/image/upload/v1765567503/lowlpfxztewi9w4ohjbl.jpg"
+    ],
+    "price": 30000,
+    "details": {
+      "roomTypes": [
+        {
+          "name": "Standard Room",
+          "pricePerNight": 30000,
+          "capacity": 2,
+          "amenities": []
+        }
+      ],
+      "checkInTime": "14:00",
+      "checkOutTime": "12:00"
+    }
+  },
+  {
+    "vendorId": "69558890c263664d295678ab",
+    "category": "hotel",
+    "title": "Mikagn Hotel And Suites",
+    "description": "Mikagn Hotel And Suites is a small hotel offering a minibar in the rooms, and it is easy to stay connected during your stay as free wifi is offered to guests.\n\nThe small hotel features a concierge. Plus, guests can enjoy a pool and an on-site restaurant, which have made this a popular choice among travelers visiting Ibadan.\n\nWhile you’re here, be sure to check out some of the Chinese restaurants, including Ibachi and Zen Restaurant, all of which are a short distance from Mikagn Hotel And Suites.\n\nIbadan is also home to Agodi Gardens, a popular garden that is not too far from Mikagn Hotel And Suites.",
+    "location": {
+      "address": "15-17 Mikagn Street Tose Area, Moniya, Ibadan",
+      "area": "Moniya",
+      "geolocation": {
+        "lat": 3.9147,
+        "lng": 1.4762
+      }
+    },
+    "contactInformation": {
+      "phone": "2347052192233",
+      "whatsapp": "2347052192233"
+    },
+    "images": [
+      "https://res.cloudinary.com/debpabo0a/image/upload/v1761049980/znaqr6yjmeykg27oxnoi.jpg",
+      "https://res.cloudinary.com/debpabo0a/image/upload/v1765567721/nxtrfdtonl1v6kpfmfhg.jpg"
+    ],
+    "price": 20000,
+    "details": {
+      "roomTypes": [
+        {
+          "name": "Standard Room",
+          "pricePerNight": 20000,
+          "capacity": 2,
+          "amenities": []
+        }
+      ],
+      "checkInTime": "14:00",
+      "checkOutTime": "12:00"
+    }
+  },
+  {
+    "vendorId": "69558890c263664d295678ab",
+    "category": "hotel",
+    "title": "NEST SPA HOTEL AND SUITES",
+    "location": {
+      "address": "Plot 807, oba abimbola way, opp uch, 2nd gate along secretariat",
+      "area": "UCH",
+      "geolocation": {
+        "lat": null,
+        "lng": null
+      }
+    },
+    "contactInformation": {
+      "phone": "8156222644",
+      "whatsapp": "8156222644"
+    },
+    "images": [
+      "https://res.cloudinary.com/debpabo0a/image/upload/v1765567785/nz5ypiyosy63s7vk1pmn.jpg",
+      "https://res.cloudinary.com/debpabo0a/image/upload/v1765567785/m7hplqc5iucu2ttwm1fw.jpg",
+      "https://res.cloudinary.com/debpabo0a/image/upload/v1765567786/egrk2lqxpadccpjfvjt3.jpg"
+    ],
+    "details": {
+      "roomTypes": [
+        {
+          "name": "Standard Room",
+          "capacity": 2,
+          "amenities": []
+        }
+      ],
+      "checkInTime": "14:00",
+      "checkOutTime": "12:00"
+    }
+  },
+  {
+    "vendorId": "69558890c263664d295678ab",
+    "category": "hotel",
+    "title": "NITAFI LUXURY HOTEL",
+    "location": {
+      "address": "Road 2 omolayo estate, akobo",
+      "area": "Akobo",
+      "geolocation": {
+        "lat": null,
+        "lng": null
+      }
+    },
+    "contactInformation": {
+      "phone": "8089875595",
+      "whatsapp": "8089875595"
+    },
+    "images": [
+      "https://res.cloudinary.com/debpabo0a/image/upload/v1765568049/ystzqyx8uxllq0mkqs1n.jpg",
+      "https://res.cloudinary.com/debpabo0a/image/upload/v1765568053/v6ljlxztcq3sx8s8gdft.jpg",
+      "https://res.cloudinary.com/debpabo0a/image/upload/v1765568086/td8v0iqybwu4gb3u8ehs.jpg",
+      "https://res.cloudinary.com/debpabo0a/image/upload/v1765568086/ilpvtqfbl5vzcfzr2wed.jpg"
+    ],
+    "price": 45000,
+    "details": {
+      "roomTypes": [
+        {
+          "name": "Standard Room",
+          "pricePerNight": 45000,
+          "capacity": 2,
+          "amenities": []
+        }
+      ],
+      "checkInTime": "14:00",
+      "checkOutTime": "12:00"
+    }
+  },
+  {
+    "vendorId": "69558890c263664d295678ab",
+    "category": "hotel",
+    "title": "OLYMPUS HOTEL AND SUITES",
+    "location": {
+      "address": "27 Ibadan-Abeokuta rd, Oluyole",
+      "area": "Oluyole",
+      "geolocation": {
+        "lat": null,
+        "lng": null
+      }
+    },
+    "contactInformation": {
+      "phone": "9139052671",
+      "whatsapp": "9139052671"
+    },
+    "images": [
+      "https://res.cloudinary.com/debpabo0a/image/upload/v1765568173/wrykfaskxniroocthcwk.jpg",
+      "https://res.cloudinary.com/debpabo0a/image/upload/v1765568173/kdvlwr0kazmdv3xqlftz.jpg",
+      "https://res.cloudinary.com/debpabo0a/image/upload/v1765568173/hqusmvawzieorwq7z3dg.jpg"
+    ],
+    "details": {
+      "roomTypes": [
+        {
+          "name": "Standard Room",
+          "capacity": 2,
+          "amenities": []
+        }
+      ],
+      "checkInTime": "14:00",
+      "checkOutTime": "12:00"
+    }
+  },
+  {
+    "vendorId": "69558890c263664d295678ab",
+    "category": "hotel",
+    "title": "ORLLAR INTERNATIONAL HOTEL AND\n SUITES",
+    "location": {
+      "address": "1, Foluso Akinyemi avenue, Oganla, Iwo express Road, Olodo road, Ibadan",
+      "area": "Olodo",
+      "geolocation": {
+        "lat": null,
+        "lng": null
+      }
+    },
+    "contactInformation": {
+      "phone": "9035749811",
+      "whatsapp": "9035749811"
+    },
+    "images": [
+      "https://res.cloudinary.com/debpabo0a/image/upload/v1765568299/lmc3dmhl9zcnirawyxwf.jpg",
+      "https://res.cloudinary.com/debpabo0a/image/upload/v1765568299/sxtcdp2hbz0bqcqjxweh.jpg",
+      "https://res.cloudinary.com/debpabo0a/image/upload/v1765568299/z89xpuz46bbzilnfwmys.jpg"
+    ],
+    "price": 37000,
+    "details": {
+      "roomTypes": [
+        {
+          "name": "Standard Room",
+          "pricePerNight": 37000,
+          "capacity": 2,
+          "amenities": []
+        }
+      ],
+      "checkInTime": "14:00",
+      "checkOutTime": "12:00"
+    }
+  },
+  {
+    "vendorId": "69558890c263664d295678ab",
+    "category": "hotel",
+    "title": "OSMAK HOTEL AND SUITES",
+    "location": {
+      "address": "Zionist Estate behind Anchor mall, Akala express, Ibadan",
+      "area": "Akala Express",
+      "geolocation": {
+        "lat": null,
+        "lng": null
+      }
+    },
+    "contactInformation": {
+      "phone": "8161705405",
+      "whatsapp": "8161705405"
+    },
+    "images": [
+      "https://res.cloudinary.com/debpabo0a/image/upload/v1765568387/m6n20oe87ovkup9lmlxn.jpg",
+      "https://res.cloudinary.com/debpabo0a/image/upload/v1765568387/rriydxovddmy6zhm6rdc.jpg",
+      "https://res.cloudinary.com/debpabo0a/image/upload/v1765568387/dpgmu7imdvv9pom9k2im.jpg"
+    ],
+    "price": 20000,
+    "details": {
+      "roomTypes": [
+        {
+          "name": "Standard Room",
+          "pricePerNight": 20000,
+          "capacity": 2,
+          "amenities": []
+        }
+      ],
+      "checkInTime": "14:00",
+      "checkOutTime": "12:00"
+    }
+  },
+  {
+    "vendorId": "69558890c263664d295678ab",
+    "category": "hotel",
+    "title": "Owu Crown Hotel",
+    "description": "Owu Crown Hotel Ibadan is the only international hotel operating in Ibadan and is designed to extend signature warm hospitality combined with the local Nigerian flavour.",
+    "location": {
+      "address": "km 2, Monatan Iwo Road Dual Carriage, Ibadan",
+      "area": "Monanta",
+      "geolocation": {
+        "lat": 3.9147,
+        "lng": 6.4762
+      }
+    },
+    "contactInformation": {
+      "phone": "2347072446495",
+      "whatsapp": "2347072446495"
+    },
+    "images": [
+      "https://res.cloudinary.com/debpabo0a/image/upload/v1760707204/wl9a2duiwyxv6j7waofu.jpg"
+    ],
+    "price": 45000,
+    "details": {
+      "roomTypes": [
+        {
+          "name": "Standard Room",
+          "pricePerNight": 45000,
+          "capacity": 2,
+          "amenities": []
+        }
+      ],
+      "checkInTime": "14:00",
+      "checkOutTime": "12:00"
+    }
+  },
+  {
+    "vendorId": "69558890c263664d295678ab",
+    "category": "hotel",
+    "title": "PARKWAY HOTEL",
+    "location": {
+      "address": "20 Ademiluyi,New bodija, ibadan",
+      "area": "Bodija",
+      "geolocation": {
+        "lat": null,
+        "lng": null
+      }
+    },
+    "contactInformation": {
+      "phone": "8166002419",
+      "whatsapp": "8166002419"
+    },
+    "images": [
+      "https://res.cloudinary.com/debpabo0a/image/upload/v1765568463/ym3wxdptvslvy7xczgpy.jpg",
+      "https://res.cloudinary.com/debpabo0a/image/upload/v1765568463/lsrdn8vhfgy7dhc1ycze.jpg",
+      "https://res.cloudinary.com/debpabo0a/image/upload/v1765568463/jafhyodfnvoc1rbl6roi.jpg"
+    ],
+    "price": 10000,
+    "details": {
+      "roomTypes": [
+        {
+          "name": "Standard Room",
+          "pricePerNight": 10000,
+          "capacity": 2,
+          "amenities": []
+        }
+      ],
+      "checkInTime": "14:00",
+      "checkOutTime": "12:00"
+    }
+  },
+  {
+    "vendorId": "69558890c263664d295678ab",
+    "category": "hotel",
+    "title": "POA GUESTHOUSE",
+    "location": {
+      "address": "No 1, iyana bodija market exp bus stop, along ojo to iworoad, ibadan",
+      "area": "Ojo",
+      "geolocation": {
+        "lat": null,
+        "lng": null
+      }
+    },
+    "contactInformation": {
+      "phone": null,
+      "whatsapp": null
+    },
+    "images": [
+      "https://res.cloudinary.com/debpabo0a/image/upload/v1765568591/pz1tkgtwhmr3ig2rj8e2.jpg",
+      "https://res.cloudinary.com/debpabo0a/image/upload/v1765568591/eb35egwdj8emath4kbu2.jpg"
+    ],
+    "details": {
+      "roomTypes": [
+        {
+          "name": "Standard Room",
+          "capacity": 2,
+          "amenities": []
+        }
+      ],
+      "checkInTime": "14:00",
+      "checkOutTime": "12:00"
+    }
+  },
+  {
+    "vendorId": "69558890c263664d295678ab",
+    "category": "shortlet",
+    "title": "Purple Realty",
+    "description": "Shortlet apartment available for weekend stays",
+    "location": {
+      "address": "Kolapo ishola GRA Akobo",
+      "area": "Akobo",
+      "geolocation": {
+        "lat": 3.9147,
+        "lng": 7.4762
+      }
+    },
+    "contactInformation": {
+      "phone": "2349031988823",
+      "whatsapp": "2349031988823"
+    },
+    "images": [
+      "https://res.cloudinary.com/debpabo0a/image/upload/v1761751207/zvytc628c8lzhrin6vdl.png",
+      "https://res.cloudinary.com/debpabo0a/image/upload/v1765569089/lmgwbf4tt5sgkzxewas8.png"
+    ],
+    "price": 40000,
+    "details": {
+      "pricePerNight": 40000,
+      "maxGuests": 2,
+      "amenities": []
+    }
+  },
+  {
+    "vendorId": "69558890c263664d295678ab",
+    "category": "hotel",
+    "title": "QUZTAN SUITES",
+    "location": {
+      "address": "MKO ROAD, RING ROAD, IBADAN",
+      "area": "Ringroad",
+      "geolocation": {
+        "lat": null,
+        "lng": null
+      }
+    },
+    "contactInformation": {
+      "phone": "7074704413",
+      "whatsapp": "7074704413"
+    },
+    "images": [
+      "https://res.cloudinary.com/debpabo0a/image/upload/v1765569240/eelzp5fx2i9dnuocltv9.jpg",
+      "https://res.cloudinary.com/debpabo0a/image/upload/v1765569241/dazk4jukbbbdsabddoew.jpg",
+      "https://res.cloudinary.com/debpabo0a/image/upload/v1765569241/mhze88brmdafou1dqrof.jpg",
+      "https://res.cloudinary.com/debpabo0a/image/upload/v1765569242/svmisfwfctlkeuu0zjm6.jpg"
+    ],
+    "details": {
+      "roomTypes": [
+        {
+          "name": "Standard Room",
+          "capacity": 2,
+          "amenities": []
+        }
+      ],
+      "checkInTime": "14:00",
+      "checkOutTime": "12:00"
+    }
+  },
+  {
+    "vendorId": "69558890c263664d295678ab",
+    "category": "shortlet",
+    "title": "READYHOMES APARTMENT",
+    "location": {
+      "address": "Bodija,mokola,ui, samonda, ringroad, Ibadan",
+      "area": "Bodija, Mokola, UI, Samonda, Ringroad",
+      "geolocation": {
+        "lat": null,
+        "lng": null
+      }
+    },
+    "contactInformation": {
+      "phone": "9167499130",
+      "whatsapp": "9167499130"
+    },
+    "images": [
+      "https://res.cloudinary.com/debpabo0a/image/upload/v1765569335/g2eurjx2hpmrig539p27.jpg",
+      "https://res.cloudinary.com/debpabo0a/image/upload/v1765569336/qv6zl4a522nzgi0mnsga.jpg",
+      "https://res.cloudinary.com/debpabo0a/image/upload/v1765569336/wfmfxtksqw78cbmiecrz.jpg"
+    ],
+    "price": 55000,
+    "details": {
+      "pricePerNight": 55000,
+      "maxGuests": 2,
+      "amenities": []
+    }
+  },
+  {
+    "vendorId": "69558890c263664d295678ab",
+    "category": "hotel",
+    "title": "REAL CHOICE HOTEL",
+    "location": {
+      "address": "Opp. Highland specialist hospital, Yemetu, Ibadan",
+      "area": "Yemetu",
+      "geolocation": {
+        "lat": null,
+        "lng": null
+      }
+    },
+    "contactInformation": {
+      "phone": "8023339585",
+      "whatsapp": "8023339585"
+    },
+    "images": [
+      "https://res.cloudinary.com/debpabo0a/image/upload/v1765569406/bwkdhbqsrbylqxypurx9.jpg",
+      "https://res.cloudinary.com/debpabo0a/image/upload/v1765569406/gv6czxhkawgwdu7kczjn.jpg",
+      "https://res.cloudinary.com/debpabo0a/image/upload/v1765569407/jba4xqm71ew0dfuueiqd.jpg"
+    ],
+    "details": {
+      "roomTypes": [
+        {
+          "name": "Standard Room",
+          "capacity": 2,
+          "amenities": []
+        }
+      ],
+      "checkInTime": "14:00",
+      "checkOutTime": "12:00"
+    }
+  },
+  {
+    "vendorId": "69558890c263664d295678ab",
+    "category": "hotel",
+    "title": "REAL DIAMOND HOTEL",
+    "location": {
+      "address": "Anfani road",
+      "area": "Anfani",
+      "geolocation": {
+        "lat": null,
+        "lng": null
+      }
+    },
+    "contactInformation": {
+      "phone": "8085729293",
+      "whatsapp": "8085729293"
+    },
+    "images": [
+      "https://res.cloudinary.com/debpabo0a/image/upload/v1765569471/cmll36vorrwcr12uuqus.jpg",
+      "https://res.cloudinary.com/debpabo0a/image/upload/v1765569471/gxyceiccnysoyybrdoom.jpg"
+    ],
+    "details": {
+      "roomTypes": [
+        {
+          "name": "Standard Room",
+          "capacity": 2,
+          "amenities": []
+        }
+      ],
+      "checkInTime": "14:00",
+      "checkOutTime": "12:00"
+    }
+  },
+  {
+    "vendorId": "69558890c263664d295678ab",
+    "category": "hotel",
+    "title": "Revolution Suites ",
+    "description": "Revolution Suit Hotel Bodija, Ibadan is centrally Located Close to UI, UCH, SECRETARIAT Pocket Friendly Tariff Very Secured Environment Spotless Rooms Clean Toilets and Bathrooms Wonderful Service Friendly...\n",
+    "location": {
+      "address": "Secretariat/UCH Road, Opp. Union Bank, Agodi, GRA, Ibadan",
+      "area": "Bodija",
+      "geolocation": {
+        "lat": 3.9147,
+        "lng": 7.4762
+      }
+    },
+    "contactInformation": {
+      "phone": null,
+      "whatsapp": null
+    },
+    "images": [
+      "https://res.cloudinary.com/debpabo0a/image/upload/v1761042344/vjva30vedmbbll6snqph.webp",
+      "https://res.cloudinary.com/debpabo0a/image/upload/v1765569577/kzw5n81ti7d1na7ywztx.webp"
+    ],
+    "price": 27000,
+    "details": {
+      "roomTypes": [
+        {
+          "name": "Standard Room",
+          "pricePerNight": 27000,
+          "capacity": 2,
+          "amenities": []
+        }
+      ],
+      "checkInTime": "14:00",
+      "checkOutTime": "12:00"
+    }
+  },
+  {
+    "vendorId": "69558890c263664d295678ab",
+    "category": "hotel",
+    "title": "ROFEL HOTEL",
+    "location": {
+      "address": "15-18 Moremi street,off Aare Avenue, New Bodija,Ibadan",
+      "area": "Bodija",
+      "geolocation": {
+        "lat": null,
+        "lng": null
+      }
+    },
+    "contactInformation": {
+      "phone": "8034644248",
+      "whatsapp": "8034644248"
+    },
+    "images": [
+      "https://res.cloudinary.com/debpabo0a/image/upload/v1765569736/slmgis1nm36c1l7aryyf.jpg",
+      "https://res.cloudinary.com/debpabo0a/image/upload/v1765569735/phlepgi1hzhvcmglyggn.jpg",
+      "https://res.cloudinary.com/debpabo0a/image/upload/v1765569770/ugqqqv7txfqumswqgwck.jpg"
+    ],
+    "price": 50000,
+    "details": {
+      "roomTypes": [
+        {
+          "name": "Standard Room",
+          "pricePerNight": 50000,
+          "capacity": 2,
+          "amenities": []
+        }
+      ],
+      "checkInTime": "14:00",
+      "checkOutTime": "12:00"
+    }
+  },
+  {
+    "vendorId": "69558890c263664d295678ab",
+    "category": "hotel",
+    "title": "ROYAL B HOTEL",
+    "location": {
+      "address": "27 David ola ojeniyi street",
+      "area": "Olubadan Estate",
+      "geolocation": {
+        "lat": null,
+        "lng": null
+      }
+    },
+    "contactInformation": {
+      "phone": null,
+      "whatsapp": null
+    },
+    "images": [],
+    "details": {
+      "roomTypes": [
+        {
+          "name": "Standard Room",
+          "capacity": 2,
+          "amenities": []
+        }
+      ],
+      "checkInTime": "14:00",
+      "checkOutTime": "12:00"
+    }
+  },
+  {
+    "vendorId": "69558890c263664d295678ab",
+    "category": "hotel",
+    "title": "ROYAL CEDAR HOTEL AND APARTMENTS",
+    "location": {
+      "address": "Plot 7, GRA ibadan, block 7, iyaganku, Oluyole",
+      "area": "Iyaganku",
+      "geolocation": {
+        "lat": null,
+        "lng": null
+      }
+    },
+    "contactInformation": {
+      "phone": "8035634300",
+      "whatsapp": "8035634300"
+    },
+    "images": [],
+    "price": 22000,
+    "details": {
+      "roomTypes": [
+        {
+          "name": "Standard Room",
+          "pricePerNight": 22000,
+          "capacity": 2,
+          "amenities": []
+        }
+      ],
+      "checkInTime": "14:00",
+      "checkOutTime": "12:00"
+    }
+  },
+  {
+    "vendorId": "69558890c263664d295678ab",
+    "category": "hotel",
+    "title": "ROYAL HOTELS",
+    "location": {
+      "address": "Apata",
+      "area": "Apata",
+      "geolocation": {
+        "lat": null,
+        "lng": null
+      }
+    },
+    "contactInformation": {
+      "phone": "8137172397",
+      "whatsapp": "8137172397"
+    },
+    "images": [],
+    "price": 15000,
+    "details": {
+      "roomTypes": [
+        {
+          "name": "Standard Room",
+          "pricePerNight": 15000,
+          "capacity": 2,
+          "amenities": []
+        }
+      ],
+      "checkInTime": "14:00",
+      "checkOutTime": "12:00"
+    }
+  },
+  {
+    "vendorId": "69558890c263664d295678ab",
+    "category": "hotel",
+    "title": "ROYAL PALACE HOTEL",
+    "location": {
+      "address": "Alafia street, mokola hill, ibadan",
+      "area": "Mokola",
+      "geolocation": {
+        "lat": null,
+        "lng": null
+      }
+    },
+    "contactInformation": {
+      "phone": "9015525389",
+      "whatsapp": "9015525389"
+    },
+    "images": [],
+    "price": 25000,
+    "details": {
+      "roomTypes": [
+        {
+          "name": "Standard Room",
+          "pricePerNight": 25000,
+          "capacity": 2,
+          "amenities": []
+        }
+      ],
+      "checkInTime": "14:00",
+      "checkOutTime": "12:00"
+    }
+  },
+  {
+    "vendorId": "69558890c263664d295678ab",
+    "category": "hotel",
+    "title": "ROYAL RESORT IBADAN",
+    "location": {
+      "address": "Jibowu crescent iyaganku, GRA",
+      "area": "Iyaganku",
+      "geolocation": {
+        "lat": null,
+        "lng": null
+      }
+    },
+    "contactInformation": {
+      "phone": "7030703400",
+      "whatsapp": "7030703400"
+    },
+    "images": [],
+    "details": {
+      "roomTypes": [
+        {
+          "name": "Standard Room",
+          "capacity": 2,
+          "amenities": []
+        }
+      ],
+      "checkInTime": "14:00",
+      "checkOutTime": "12:00"
+    }
+  },
+  {
+    "vendorId": "69558890c263664d295678ab",
+    "category": "hotel",
+    "title": "ROYAL RESORTS IYAGANKU GRA",
+    "location": {
+      "address": "Plot 2A&B Oodua Way, Behind King's Court Off Jibowu Crescent Iyaganku GRA, Ibadan 200261",
+      "area": "Iyaganku",
+      "geolocation": {
+        "lat": null,
+        "lng": null
+      }
+    },
+    "contactInformation": {
+      "phone": "7030703400",
+      "whatsapp": "7030703400"
+    },
+    "images": [],
+    "price": 35000,
+    "details": {
+      "roomTypes": [
+        {
+          "name": "Standard Room",
+          "pricePerNight": 35000,
+          "capacity": 2,
+          "amenities": []
+        }
+      ],
+      "checkInTime": "14:00",
+      "checkOutTime": "12:00"
+    }
+  },
+  {
+    "vendorId": "69558890c263664d295678ab",
+    "category": "hotel",
+    "title": "ROYAL SIGNATURE HOTEL & SUITES",
+    "location": {
+      "address": "AKOBO, IBADAN",
+      "area": "Akobo",
+      "geolocation": {
+        "lat": null,
+        "lng": null
+      }
+    },
+    "contactInformation": {
+      "phone": "8164265137",
+      "whatsapp": "8164265137"
+    },
+    "images": [],
+    "price": 17500,
+    "details": {
+      "roomTypes": [
+        {
+          "name": "Standard Room",
+          "pricePerNight": 17500,
+          "capacity": 2,
+          "amenities": []
+        }
+      ],
+      "checkInTime": "14:00",
+      "checkOutTime": "12:00"
+    }
+  },
+  {
+    "vendorId": "69558890c263664d295678ab",
+    "category": "hotel",
+    "title": "SADIM GUEST HOUSE",
+    "location": {
+      "address": "7 Aina adefolayan street,secretatariat",
+      "area": "Bodija",
+      "geolocation": {
+        "lat": null,
+        "lng": null
+      }
+    },
+    "contactInformation": {
+      "phone": "7008808800",
+      "whatsapp": "7008808800"
+    },
+    "images": [
+      "https://res.cloudinary.com/debpabo0a/image/upload/v1765569870/oi1d5qbopcgob0mpvtex.jpg",
+      "https://res.cloudinary.com/debpabo0a/image/upload/v1765569869/njl6kcbcblybhubkotqs.jpg",
+      "https://res.cloudinary.com/debpabo0a/image/upload/v1765569870/gij5fzzkg7a89l0ky4gf.jpg"
+    ],
+    "price": 25000,
+    "details": {
+      "roomTypes": [
+        {
+          "name": "Standard Room",
+          "pricePerNight": 25000,
+          "capacity": 2,
+          "amenities": []
+        }
+      ],
+      "checkInTime": "14:00",
+      "checkOutTime": "12:00"
+    }
+  },
+  {
+    "vendorId": "69558890c263664d295678ab",
+    "category": "hotel",
+    "title": "SAIRE HOTEL",
+    "location": {
+      "address": "new bodija extension, Bamgbola ave",
+      "area": "Bodija",
+      "geolocation": {
+        "lat": null,
+        "lng": null
+      }
+    },
+    "contactInformation": {
+      "phone": "7025005640",
+      "whatsapp": "7025005640"
+    },
+    "images": [
+      "https://res.cloudinary.com/debpabo0a/image/upload/v1765569938/iyrwqus9jykg2ije4cmv.jpg",
+      "https://res.cloudinary.com/debpabo0a/image/upload/v1765569939/f1oqxlvfslltsnjzsjyu.jpg",
+      "https://res.cloudinary.com/debpabo0a/image/upload/v1765569939/j5quoocfjww9mt9gvyo0.jpg",
+      "https://res.cloudinary.com/debpabo0a/image/upload/v1765569939/rtcstugbwmukcdrui2dp.jpg"
+    ],
+    "price": 28000,
+    "details": {
+      "roomTypes": [
+        {
+          "name": "Standard Room",
+          "pricePerNight": 28000,
+          "capacity": 2,
+          "amenities": []
+        }
+      ],
+      "checkInTime": "14:00",
+      "checkOutTime": "12:00"
+    }
+  },
+  {
+    "vendorId": "69558890c263664d295678ab",
+    "category": "hotel",
+    "title": "SCROLAB EXECUTIVE HOTELS",
+    "location": {
+      "address": "Imalealafia street, Oke Ado Ibadan",
+      "area": "Oke Ado",
+      "geolocation": {
+        "lat": null,
+        "lng": null
+      }
+    },
+    "contactInformation": {
+      "phone": "8032225235",
+      "whatsapp": "8032225235"
+    },
+    "images": [],
+    "price": 25000,
+    "details": {
+      "roomTypes": [
+        {
+          "name": "Standard Room",
+          "pricePerNight": 25000,
+          "capacity": 2,
+          "amenities": []
+        }
+      ],
+      "checkInTime": "14:00",
+      "checkOutTime": "12:00"
+    }
+  },
+  {
+    "vendorId": "69558890c263664d295678ab",
+    "category": "hotel",
+    "title": "SCROLAB EXECUTIVE HOTELS",
+    "location": {
+      "address": "FELELE, IBADAN",
+      "area": "Felele",
+      "geolocation": {
+        "lat": null,
+        "lng": null
+      }
+    },
+    "contactInformation": {
+      "phone": "8032501176",
+      "whatsapp": "8032501176"
+    },
+    "images": [
+      "https://res.cloudinary.com/debpabo0a/image/upload/v1765570017/pnej7ydaez5826davtpo.jpg",
+      "https://res.cloudinary.com/debpabo0a/image/upload/v1765570017/c0d6h0nmnx3jozzjixrb.jpg",
+      "https://res.cloudinary.com/debpabo0a/image/upload/v1765570017/e4gb3epwt4ln5xldig1f.jpg",
+      "https://res.cloudinary.com/debpabo0a/image/upload/v1765570017/n4u7dn6s0q6cjojm3bhh.jpg"
+    ],
+    "price": 25000,
+    "details": {
+      "roomTypes": [
+        {
+          "name": "Standard Room",
+          "pricePerNight": 25000,
+          "capacity": 2,
+          "amenities": []
+        }
+      ],
+      "checkInTime": "14:00",
+      "checkOutTime": "12:00"
+    }
+  },
+  {
+    "vendorId": "69558890c263664d295678ab",
+    "category": "shortlet",
+    "title": "Self contain (single rooms) shortlet",
+    "description": "Studio apartment\n",
+    "location": {
+      "address": "S & T Estate, Jericho Gra, Ibadan ",
+      "area": "Jericho",
+      "geolocation": {
+        "lat": 3.9147,
+        "lng": 7.4762
+      }
+    },
+    "contactInformation": {
+      "phone": "2348143789707",
+      "whatsapp": "2348143789707"
+    },
+    "images": [
+      "https://res.cloudinary.com/debpabo0a/image/upload/v1761827139/e9m9d6wpwbhslggx6utq.jpg"
+    ],
+    "price": 65000,
+    "details": {
+      "pricePerNight": 65000,
+      "maxGuests": 2,
+      "amenities": []
+    }
+  },
+  {
+    "vendorId": "69558890c263664d295678ab",
+    "category": "hotel",
+    "title": "SHUGALAND HOTEL",
+    "location": {
+      "address": "Plot B, shugaland bus stop,odo ona, Apata, Ibadan",
+      "area": "Apata",
+      "geolocation": {
+        "lat": null,
+        "lng": null
+      }
+    },
+    "contactInformation": {
+      "phone": "7061276981",
+      "whatsapp": "7061276981"
+    },
+    "images": [
+      "https://res.cloudinary.com/debpabo0a/image/upload/v1765570079/yajt7pvti9pouxtio9ta.jpg",
+      "https://res.cloudinary.com/debpabo0a/image/upload/v1765570079/lnkeikgygv8lylgwl1yg.jpg",
+      "https://res.cloudinary.com/debpabo0a/image/upload/v1765570079/hviefgpdzlespnvn92ky.jpg",
+      "https://res.cloudinary.com/debpabo0a/image/upload/v1765570095/t435cjonm08xmkxeiwor.jpg"
+    ],
+    "price": 35000,
+    "details": {
+      "roomTypes": [
+        {
+          "name": "Standard Room",
+          "pricePerNight": 35000,
+          "capacity": 2,
+          "amenities": []
+        }
+      ],
+      "checkInTime": "14:00",
+      "checkOutTime": "12:00"
+    }
+  },
+  {
+    "vendorId": "69558890c263664d295678ab",
+    "category": "hotel",
+    "title": "SL HOTEL AND SUITES",
+    "location": {
+      "address": "Taiwo Oyeleru street, boluwaji bustop",
+      "area": "Boluwaji",
+      "geolocation": {
+        "lat": null,
+        "lng": null
+      }
+    },
+    "contactInformation": {
+      "phone": "8140132719",
+      "whatsapp": "8140132719"
+    },
+    "images": [
+      "https://res.cloudinary.com/debpabo0a/image/upload/v1765570189/fvylutiizkkrqfvlz7xf.jpg",
+      "https://res.cloudinary.com/debpabo0a/image/upload/v1765570189/whfxaoakowedlsbe0run.jpg",
+      "https://res.cloudinary.com/debpabo0a/image/upload/v1765570189/eieh1dj6drsyqzmcawwe.jpg",
+      "https://res.cloudinary.com/debpabo0a/image/upload/v1765570190/xgk0yho8ih8duqyw2mbd.jpg"
+    ],
+    "price": 30000,
+    "details": {
+      "roomTypes": [
+        {
+          "name": "Standard Room",
+          "pricePerNight": 30000,
+          "capacity": 2,
+          "amenities": []
+        }
+      ],
+      "checkInTime": "14:00",
+      "checkOutTime": "12:00"
+    }
+  },
+  {
+    "vendorId": "69558890c263664d295678ab",
+    "category": "hotel",
+    "title": "SOLAM HOTEL",
+    "location": {
+      "address": "Annex 2 block7, alaafin avenue, Oluyole estate",
+      "area": "Oluyole",
+      "geolocation": {
+        "lat": null,
+        "lng": null
+      }
+    },
+    "contactInformation": {
+      "phone": "8134735536",
+      "whatsapp": "8134735536"
+    },
+    "images": [
+      "https://res.cloudinary.com/debpabo0a/image/upload/v1765570277/gxsybvmqiktrn63kflwz.jpg"
+    ],
+    "details": {
+      "roomTypes": [
+        {
+          "name": "Standard Room",
+          "capacity": 2,
+          "amenities": []
+        }
+      ],
+      "checkInTime": "14:00",
+      "checkOutTime": "12:00"
+    }
+  },
+  {
+    "vendorId": "69558890c263664d295678ab",
+    "category": "services",
+    "title": "Speed Touch",
+    "description": "At SpeedTouch Cleaning and Hygiene Service, we believe that a clean space is a healthy space. We're committed to delivering top-tier cleaning solutions that not only refresh your environment but also promote well-being and peace of mind.\n\nWith a passion for excellence and a keen eye for detail, our team is trained to handle residential, commercial, and specialized cleaning services — from deep-cleaning and disinfection to routine maintenance and hygiene care. We use eco-friendly products and modern tools to ensure every corner shines without compromise.",
+    "location": {
+      "address": "7, Oluyoro Street, Bodija",
+      "area": "Bodija",
+      "geolocation": {
+        "lat": 3.9147,
+        "lng": 7.4762
+      }
+    },
+    "contactInformation": {
+      "phone": "2348085428181",
+      "whatsapp": "2348085428181"
+    },
+    "images": [
+      "https://res.cloudinary.com/debpabo0a/image/upload/v1760708869/fvdjdedh6pq24ew8ukcw.jpg"
+    ],
+    "price": 1000,
+    "details": {
+      "priceType": "fixed",
+      "price": 1000,
+      "availability": ["Mon-Fri"]
+    }
+  },
+  {
+    "vendorId": "69558890c263664d295678ab",
+    "category": "shortlet",
+    "title": "STELLA HOLIDAY INN- APARTMENTS & HOTELS",
+    "location": {
+      "address": "Plot 20 bell-air estate, off alao akala, express, oluyole, Ibadan",
+      "area": "Oluyole",
+      "geolocation": {
+        "lat": null,
+        "lng": null
+      }
+    },
+    "contactInformation": {
+      "phone": "7053911237",
+      "whatsapp": "7053911237"
+    },
+    "images": [
+      "https://res.cloudinary.com/debpabo0a/image/upload/v1765570364/ly5uebzhiqqk3rhhch7r.jpg",
+      "https://res.cloudinary.com/debpabo0a/image/upload/v1765570364/jte0d1mwfygpjrtmz2md.jpg"
+    ],
+    "price": 30000,
+    "details": {
+      "pricePerNight": 30000,
+      "maxGuests": 2,
+      "amenities": []
+    }
+  },
+  {
+    "vendorId": "69558890c263664d295678ab",
+    "category": "hotel",
+    "title": "SubKem leading Hotels & Suites",
+    "description": "SubKem leading Hotels and Suites is a model Hotel with the state of the art facility, 24hr Electricity with Compliementry breakfast. A secured place to stay.",
+    "location": {
+      "address": "Mechanic scheme, Plot 3 New Garage Road, opposite Ajimobi New Garage, Ibadan",
+      "area": "New Garage",
+      "geolocation": {
+        "lat": 3.9147,
+        "lng": 7.4762
+      }
+    },
+    "contactInformation": {
+      "phone": "2349048218600",
+      "whatsapp": "2349048218600"
+    },
+    "images": [
+      "https://res.cloudinary.com/debpabo0a/image/upload/v1761733748/dyhrehxkjztsmcbdcdbv.png"
+    ],
+    "price": 25000,
+    "details": {
+      "roomTypes": [
+        {
+          "name": "Standard Room",
+          "pricePerNight": 25000,
+          "capacity": 2,
+          "amenities": []
+        }
+      ],
+      "checkInTime": "14:00",
+      "checkOutTime": "12:00"
+    }
+  },
+  {
+    "vendorId": "69558890c263664d295678ab",
+    "category": "hotel",
+    "title": "SUGAR HOUSE SUITES & LOUNGE",
+    "location": {
+      "address": "159,POLYTECHNIC ELEYELE EXPRESSWAY,\n IBADAN",
+      "area": "Eleyele",
+      "geolocation": {
+        "lat": null,
+        "lng": null
+      }
+    },
+    "contactInformation": {
+      "phone": "8163127579",
+      "whatsapp": "8163127579"
+    },
+    "images": [
+      "https://res.cloudinary.com/debpabo0a/image/upload/v1765570460/e4yljjqnfhno44hxfavf.jpg",
+      "https://res.cloudinary.com/debpabo0a/image/upload/v1765570460/cm4uormtvnekpwmd71jk.jpg",
+      "https://res.cloudinary.com/debpabo0a/image/upload/v1765570461/h2ktjzrejhitlmpk2xg6.jpg",
+      "https://res.cloudinary.com/debpabo0a/image/upload/v1765570478/mughhc9fzzav6nob6k5z.jpg"
+    ],
+    "details": {
+      "roomTypes": [
+        {
+          "name": "Standard Room",
+          "capacity": 2,
+          "amenities": []
+        }
+      ],
+      "checkInTime": "14:00",
+      "checkOutTime": "12:00"
+    }
+  },
+  {
+    "vendorId": "69558890c263664d295678ab",
+    "category": "hotel",
+    "title": "SUPREME HOTELS",
+    "location": {
+      "address": "2, AMERICAN QTR, AGODI GRA, IDI-APE,\n IBADAN",
+      "area": "Idi Ape",
+      "geolocation": {
+        "lat": null,
+        "lng": null
+      }
+    },
+    "contactInformation": {
+      "phone": "7066171300",
+      "whatsapp": "7066171300"
+    },
+    "images": [],
+    "price": 22000,
+    "details": {
+      "roomTypes": [
+        {
+          "name": "Standard Room",
+          "pricePerNight": 22000,
+          "capacity": 2,
+          "amenities": []
+        }
+      ],
+      "checkInTime": "14:00",
+      "checkOutTime": "12:00"
+    }
+  },
+  {
+    "vendorId": "69558890c263664d295678ab",
+    "category": "hotel",
+    "title": "SYLVIA'S PLACE HOTEL",
+    "location": {
+      "address": "No 10, Bale Atiba Street, Ring Road, \n Jibowu Crescent, Iyaganku, Ibadan",
+      "area": "Iyaganku",
+      "geolocation": {
+        "lat": null,
+        "lng": null
+      }
+    },
+    "contactInformation": {
+      "phone": "08076609976",
+      "whatsapp": "08076609976"
+    },
+    "images": [],
+    "price": 15000,
+    "details": {
+      "roomTypes": [
+        {
+          "name": "Standard Room",
+          "pricePerNight": 15000,
+          "capacity": 2,
+          "amenities": []
+        }
+      ],
+      "checkInTime": "14:00",
+      "checkOutTime": "12:00"
+    }
+  },
+  {
+    "vendorId": "69558890c263664d295678ab",
+    "category": "restaurant",
+    "title": "Tamberma",
+    "description": "Indian | Nigerian | Chinese | Continental | BBQ & Grill",
+    "location": {
+      "address": "1, Oba Aleshinloye Crescent, lyaganku GRA, lbadan",
+      "area": "Iyaganku",
+      "geolocation": {
+        "lat": 3.9147,
+        "lng": 3.4762
+      }
+    },
+    "contactInformation": {
+      "phone": "2348075590939",
+      "whatsapp": "2348075590939"
+    },
+    "images": [
+      "https://res.cloudinary.com/debpabo0a/image/upload/v1761054338/w73820nnajpse5yxtjev.webp"
+    ],
+    "price": 2000,
+    "details": {
+      "cuisines": [],
+      "openingHours": "09:00-21:00",
+      "acceptsReservations": false,
+      "maxGuestsPerReservation": 10
+    }
+  },
+  {
+    "vendorId": "69558890c263664d295678ab",
+    "category": "hotel",
+    "title": "THE BRIDGE HOTEL",
+    "location": {
+      "address": "Kolapo Ishola GRA, Akobo, Ibadan, Oyo State",
+      "area": "Akobo",
+      "geolocation": {
+        "lat": null,
+        "lng": null
+      }
+    },
+    "contactInformation": {
+      "phone": "9160003690",
+      "whatsapp": "9160003690"
+    },
+    "images": [
+      "https://res.cloudinary.com/debpabo0a/image/upload/v1765570534/s5n0nkzpfuinrxsrtsik.jpg"
+    ],
+    "price": 90000,
+    "details": {
+      "roomTypes": [
+        {
+          "name": "Standard Room",
+          "pricePerNight": 90000,
+          "capacity": 2,
+          "amenities": []
+        }
+      ],
+      "checkInTime": "14:00",
+      "checkOutTime": "12:00"
+    }
+  },
+  {
+    "vendorId": "69558890c263664d295678ab",
+    "category": "hotel",
+    "title": "The Carlton Gate Hotel",
+    "description": "Located in Ibadan, The Carlton Gate Hotel is within a 5-minute drive of Agodi Gardens and Ventura Mall. This hotel is 2.9 mi (4.7 km) from Adamasingba Stadium and 3 mi (4.8 km) from Bower's Tower.\nThis hotel offers designated smoking areas.\nAt The Carlton Gate Hotel, enjoy a satisfying meal at the restaurant. Wrap up your day with a drink at the bar/lounge. A complimentary local cuisine breakfast is served daily from 7:00 AM to 10:00 AM.\nFeatured amenities include dry cleaning/laundry services, a 24-hour front desk, and laundry facilities. Free self parking is available onsite.\nMake yourself at home in one of the 33 air-conditioned rooms featuring flat-screen televisions. Complimentary wireless internet access keeps you connected, and satellite programming is available for your entertainment. Bathrooms have showers and complimentary toiletries. Conveniences include safes, and housekeeping is provided daily.",
+    "location": {
+      "address": "29 Idi Ape Rd, Agodi, Ibadan",
+      "area": "Agodi",
+      "geolocation": {
+        "lat": 3.9147,
+        "lng": 7.4762
+      }
+    },
+    "contactInformation": {
+      "phone": "2348030830123",
+      "whatsapp": "2348030830123"
+    },
+    "images": [
+      "https://res.cloudinary.com/debpabo0a/image/upload/v1761734846/xxa6qgsyqepmzlyg9shr.jpg"
+    ],
+    "price": 45000,
+    "details": {
+      "roomTypes": [
+        {
+          "name": "Standard Room",
+          "pricePerNight": 45000,
+          "capacity": 2,
+          "amenities": []
+        }
+      ],
+      "checkInTime": "14:00",
+      "checkOutTime": "12:00"
+    }
+  },
+  {
+    "vendorId": "69558890c263664d295678ab",
+    "category": "hotel",
+    "title": "THE CITRON HOTEL",
+    "location": {
+      "address": "11 kudeti ave,onireke GRA Ibadan",
+      "area": "Onireke",
+      "geolocation": {
+        "lat": null,
+        "lng": null
+      }
+    },
+    "contactInformation": {
+      "phone": "09134445907",
+      "whatsapp": "09134445907"
+    },
+    "images": [
+      "https://res.cloudinary.com/debpabo0a/image/upload/v1765570620/zlktirhxji6gctllkvm4.jpg",
+      "https://res.cloudinary.com/debpabo0a/image/upload/v1765570620/nfxuvpex4n9uyscoz2ku.jpg",
+      "https://res.cloudinary.com/debpabo0a/image/upload/v1765570620/hmy8gqf0pl3cp00jo2sf.jpg"
+    ],
+    "price": 25000,
+    "details": {
+      "roomTypes": [
+        {
+          "name": "Standard Room",
+          "pricePerNight": 25000,
+          "capacity": 2,
+          "amenities": []
+        }
+      ],
+      "checkInTime": "14:00",
+      "checkOutTime": "12:00"
+    }
+  },
+  {
+    "vendorId": "69558890c263664d295678ab",
+    "category": "hotel",
+    "title": "THE HAVEN BY NHS GLOBAL",
+    "location": {
+      "address": "5A, Apampa Bashorun, jericho, ibadan",
+      "area": "Jericho",
+      "geolocation": {
+        "lat": null,
+        "lng": null
+      }
+    },
+    "contactInformation": {
+      "phone": "9134446531",
+      "whatsapp": "9134446531"
+    },
+    "images": [
+      "https://res.cloudinary.com/debpabo0a/image/upload/v1765570701/rjnz3vwhbygicteshuhm.jpg",
+      "https://res.cloudinary.com/debpabo0a/image/upload/v1765570701/jo7eptqfd3zadup55sfj.jpg",
+      "https://res.cloudinary.com/debpabo0a/image/upload/v1765570701/lnhddbrvdqdsimn56mwp.jpg"
+    ],
+    "price": 60000,
+    "details": {
+      "roomTypes": [
+        {
+          "name": "Standard Room",
+          "pricePerNight": 60000,
+          "capacity": 2,
+          "amenities": []
+        }
+      ],
+      "checkInTime": "14:00",
+      "checkOutTime": "12:00"
+    }
+  },
+  {
+    "vendorId": "69558890c263664d295678ab",
+    "category": "hotel",
+    "title": "THE JAGZ HOTEL",
+    "location": {
+      "address": "4 Simeon, Adebo Street, Iyaganku GRA, Ibadan, Oyo",
+      "area": "Iyaganku",
+      "geolocation": {
+        "lat": null,
+        "lng": null
+      }
+    },
+    "contactInformation": {
+      "phone": "9055748552",
+      "whatsapp": "9055748552"
+    },
+    "images": [
+      "https://res.cloudinary.com/debpabo0a/image/upload/v1765570795/r6yqop9jkhpyrvecnjcg.jpg",
+      "https://res.cloudinary.com/debpabo0a/image/upload/v1765570795/omux7kvi2mmsd7foujlq.jpg",
+      "https://res.cloudinary.com/debpabo0a/image/upload/v1765570816/dyrwsxnrsyvavdbpzjcn.jpg",
+      "https://res.cloudinary.com/debpabo0a/image/upload/v1765570816/akypw6lh1iintohjjxts.jpg"
+    ],
+    "price": 135000,
+    "details": {
+      "roomTypes": [
+        {
+          "name": "Standard Room",
+          "pricePerNight": 135000,
+          "capacity": 2,
+          "amenities": []
+        }
+      ],
+      "checkInTime": "14:00",
+      "checkOutTime": "12:00"
+    }
+  },
+  {
+    "vendorId": "69558890c263664d295678ab",
+    "category": "hotel",
+    "title": "The Mathos Court",
+    "description": "The Mathos Court Ibadan is a boutique hotel that blends elegance with comfort, offering modern facilities in a serene environment. Located along Ologuneru–Eleyele axis, it provides easy access to iconic landmarks such as the University of Ibadan, Cocoa House, Agodi Gardens, Mapo Hall, and Ibadan Golf Club. The hotel features stylish rooms with air-conditioning, WiFi, flat-screen TVs, and balconies overlooking the city. Guests enjoy 24-hour front desk service, restaurant, bar, room service, and\n\nsecure parking. With its warm hospitality and calm ambiance, The Mathos Court is ideal for business travellers, leisure seekers, and families visiting the historic city of Ibadan.",
+    "location": {
+      "address": "15, Eruwa road, Ibadan",
+      "area": "Ologuneru",
+      "geolocation": {
+        "lat": 3.9147,
+        "lng": 7.4762
+      }
+    },
+    "contactInformation": {
+      "phone": "2348063115253",
+      "whatsapp": "2348063115253"
+    },
+    "images": [
+      "https://res.cloudinary.com/debpabo0a/image/upload/v1761312521/nrrlvtcfqijzz3mvvfkb.jpg",
+      "https://res.cloudinary.com/debpabo0a/image/upload/v1765567674/lbaiiucu0ojt1ao8nfkr.jpg"
+    ],
+    "price": 40000,
+    "details": {
+      "roomTypes": [
+        {
+          "name": "Standard Room",
+          "pricePerNight": 40000,
+          "capacity": 2,
+          "amenities": []
+        }
+      ],
+      "checkInTime": "14:00",
+      "checkOutTime": "12:00"
+    }
+  },
+  {
+    "vendorId": "69558890c263664d295678ab",
+    "category": "restaurant",
+    "title": "The Patio",
+    "description": "The Patio Ibadan Restaurant, Lounge & Nightlife Experience Welcome to The Patio, Ibadan’s ultimate destination for fine dining, premium cocktails, and electrifying nightlife. Whether you're looking for the best restaurants in Ibadan, a stylish lounge in Ibadan for relaxed vibes, or an energetic club in Ibadan to dance the night away, we offer it all under one roof. When the weekend hits, The Patio becomes one of the best spot in Ibadan, featuring pulsating Afrobeat, Amapiano, and Hip-Hop from top DJs, a spacious dance floor and high-energy atmosphere, exclusive bottle service and VIP tables, and themed party nights with special performances.",
+    "location": {
+      "address": "Along BCOS, Ile Akede, Bashorun, Ibadan",
+      "area": "Bashorun",
+      "geolocation": {
+        "lat": 3.9147,
+        "lng": 7.472
+      }
+    },
+    "contactInformation": {
+      "phone": "2349115465458",
+      "whatsapp": "2349115465458"
+    },
+    "images": [
+      "https://res.cloudinary.com/debpabo0a/image/upload/v1761134790/sr6z5rpqwo7rfj4lcdvf.jpg"
+    ],
+    "price": 1000,
+    "details": {
+      "cuisines": [],
+      "openingHours": "09:00-21:00",
+      "acceptsReservations": false,
+      "maxGuestsPerReservation": 10
+    }
+  },
+  {
+    "vendorId": "69558890c263664d295678ab",
+    "category": "shortlet",
+    "title": "TLMshortlets",
+    "description": "Apartment with all amenities starting from #30,000",
+    "location": {
+      "address": "17, Anike Balogun Close, Stargate Estate, Oluyole",
+      "area": "Oluyole",
+      "geolocation": {
+        "lat": 3.9147,
+        "lng": 7.4762
+      }
+    },
+    "contactInformation": {
+      "phone": "2349110228947",
+      "whatsapp": "2349110228947"
+    },
+    "images": [
+      "https://res.cloudinary.com/debpabo0a/image/upload/v1761750747/bagpsdg8h1uwrn0u1anm.png"
+    ],
+    "price": 30000,
+    "details": {
+      "pricePerNight": 30000,
+      "maxGuests": 2,
+      "amenities": []
+    }
+  },
+  {
+    "vendorId": "69558890c263664d295678ab",
+    "category": "hotel",
+    "title": "TM ROYAL HOTEL",
+    "location": {
+      "address": "Ayodele adelaja st, sonso road, ibadan",
+      "area": "Ido",
+      "geolocation": {
+        "lat": null,
+        "lng": null
+      }
+    },
+    "contactInformation": {
+      "phone": "8115633636",
+      "whatsapp": "8115633636"
+    },
+    "images": [
+      "https://res.cloudinary.com/debpabo0a/image/upload/v1765570951/fhgghmcsbxoecw0xcx6a.jpg",
+      "https://res.cloudinary.com/debpabo0a/image/upload/v1765570951/onvvbfonxwg4ebzyhorz.jpg",
+      "https://res.cloudinary.com/debpabo0a/image/upload/v1765570951/x5dzv4ylifga9wih9ecp.jpg"
+    ],
+    "price": 15000,
+    "details": {
+      "roomTypes": [
+        {
+          "name": "Standard Room",
+          "pricePerNight": 15000,
+          "capacity": 2,
+          "amenities": []
+        }
+      ],
+      "checkInTime": "14:00",
+      "checkOutTime": "12:00"
+    }
+  },
+  {
+    "vendorId": "69558890c263664d295678ab",
+    "category": "hotel",
+    "title": "TRAVEL HOUSE HOTEL, IBADAN",
+    "location": {
+      "address": "Plot 22A, Block X, mko way,next to Access bank",
+      "area": "Ringroad",
+      "geolocation": {
+        "lat": null,
+        "lng": null
+      }
+    },
+    "contactInformation": {
+      "phone": "9139375467",
+      "whatsapp": "9139375467"
+    },
+    "images": [
+      "https://res.cloudinary.com/debpabo0a/image/upload/v1765571047/qqk18k88jqsujoal4zsa.jpg",
+      "https://res.cloudinary.com/debpabo0a/image/upload/v1765571047/fv7upukw8134uazktre1.jpg",
+      "https://res.cloudinary.com/debpabo0a/image/upload/v1765571047/rqy5hpmjg7lsrtmn8goc.jpg",
+      "https://res.cloudinary.com/debpabo0a/image/upload/v1765571047/wwtjkhk4wfilsfhxonz3.jpg"
+    ],
+    "price": 25000,
+    "details": {
+      "roomTypes": [
+        {
+          "name": "Standard Room",
+          "pricePerNight": 25000,
+          "capacity": 2,
+          "amenities": []
+        }
+      ],
+      "checkInTime": "14:00",
+      "checkOutTime": "12:00"
+    }
+  },
+  {
+    "vendorId": "69558890c263664d295678ab",
+    "category": "hotel",
+    "title": "TRAVELLERS MISSION GUEST HOUSE",
+    "location": {
+      "address": "No 2, Selia Amoke Close Adenuga street",
+      "area": "Bodija",
+      "geolocation": {
+        "lat": null,
+        "lng": null
+      }
+    },
+    "contactInformation": {
+      "phone": "09069892915",
+      "whatsapp": "09069892915"
+    },
+    "images": [
+      "https://res.cloudinary.com/debpabo0a/image/upload/v1765571102/jglm4urczwdfttameue9.jpg",
+      "https://res.cloudinary.com/debpabo0a/image/upload/v1765571117/tmvrn24oxoepi4xcuyvg.jpg"
+    ],
+    "price": 10000,
+    "details": {
+      "roomTypes": [
+        {
+          "name": "Standard Room",
+          "pricePerNight": 10000,
+          "capacity": 2,
+          "amenities": []
+        }
+      ],
+      "checkInTime": "14:00",
+      "checkOutTime": "12:00"
+    }
+  },
+  {
+    "vendorId": "69558890c263664d295678ab",
+    "category": "hotel",
+    "title": "TRINICH HOTEL AND SUITES",
+    "location": {
+      "address": "Kuola junction, off akala expressway",
+      "area": "Akala Express",
+      "geolocation": {
+        "lat": null,
+        "lng": null
+      }
+    },
+    "contactInformation": {
+      "phone": "8101591843",
+      "whatsapp": "8101591843"
+    },
+    "images": [
+      "https://res.cloudinary.com/debpabo0a/image/upload/v1765571205/xbhxydbl5teb940hmd6d.jpg",
+      "https://res.cloudinary.com/debpabo0a/image/upload/v1765571204/g6eawcchg9ojn8aybqrw.jpg",
+      "https://res.cloudinary.com/debpabo0a/image/upload/v1765571205/zjcv3ibyskyyusyrwfsj.jpg"
+    ],
+    "price": 35000,
+    "details": {
+      "roomTypes": [
+        {
+          "name": "Standard Room",
+          "pricePerNight": 35000,
+          "capacity": 2,
+          "amenities": []
+        }
+      ],
+      "checkInTime": "14:00",
+      "checkOutTime": "12:00"
+    }
+  },
+  {
+    "vendorId": "69558890c263664d295678ab",
+    "category": "hotel",
+    "title": "Trois Ore Residences",
+    "description": "Situated in Ibadan, 16 km from IITA Forest Reserve, Trois Ore Residences & Green Earth Bistro features accommodation with a garden, free private parking, a shared lounge and a terrace. Among the facilities of this property are a restaurant, room service and a 24-hour front desk, along with free WiFi throughout the property. The accommodation provides a hot tub, evening entertainment and family rooms. The rooms at the hotel come with air conditioning, a seating area, a flat-screen TV with cable channels, a safety deposit box and a private bathroom with a shower, free toiletries and a hairdryer. Rooms have a coffee machine, while certain rooms are fitted with a balcony and others also boast garden views. All rooms will provide guests with a desk and a kettle. A continental, vegetarian or vegan breakfast is available at the property. Ibadan Airport is 14 km from the property.",
+    "location": {
+      "address": "Oba Akenzua Crescent Plot 7, Commercial Subdivision - Onireke Gra, Ibadan",
+      "area": "Jericho",
+      "geolocation": {
+        "lat": 3.9147,
+        "lng": 7.4762
+      }
+    },
+    "contactInformation": {
+      "phone": "2347054212060",
+      "whatsapp": "2347054212060"
+    },
+    "images": [
+      "https://res.cloudinary.com/debpabo0a/image/upload/v1761045198/lx5hwmv7zai9bvyduao9.jpg",
+      "https://res.cloudinary.com/debpabo0a/image/upload/v1765571295/tmaexknnmat6gyx6bjhg.jpg",
+      "https://res.cloudinary.com/debpabo0a/image/upload/v1765571295/ux2vvknacpgjqgka6s9g.jpg",
+      "https://res.cloudinary.com/debpabo0a/image/upload/v1765571296/h0xpxrzvwxzmpskpoue3.jpg"
+    ],
+    "price": 75000,
+    "details": {
+      "roomTypes": [
+        {
+          "name": "Standard Room",
+          "pricePerNight": 75000,
+          "capacity": 2,
+          "amenities": []
+        }
+      ],
+      "checkInTime": "14:00",
+      "checkOutTime": "12:00"
+    }
+  },
+  {
+    "vendorId": "69558890c263664d295678ab",
+    "category": "shortlet",
+    "title": "Two bedroom bungalow",
+    "description": "2 Bedroom Bungalow",
+    "location": {
+      "address": "Kolapo Ishola GRA, Akobo",
+      "area": "Akobo",
+      "geolocation": {
+        "lat": 3.9147,
+        "lng": 7.4762
+      }
+    },
+    "contactInformation": {
+      "phone": "2349167499130",
+      "whatsapp": "2349167499130"
+    },
+    "images": [
+      "https://res.cloudinary.com/debpabo0a/image/upload/v1761829492/rmjrl4crtai3ksdw7oxw.jpg"
+    ],
+    "price": 110000,
+    "details": {
+      "pricePerNight": 110000,
+      "maxGuests": 2,
+      "amenities": []
+    }
+  },
+  {
+    "vendorId": "69558890c263664d295678ab",
+    "category": "hotel",
+    "title": "U.I HOTEL",
+    "location": {
+      "address": "Opp chapel of resurrection, university of Ibadan",
+      "area": "UI",
+      "geolocation": {
+        "lat": null,
+        "lng": null
+      }
+    },
+    "contactInformation": {
+      "phone": "07084000002",
+      "whatsapp": "07084000002"
+    },
+    "images": [
+      "https://res.cloudinary.com/debpabo0a/image/upload/v1765571410/dgmhsleqddg6mn5kudqy.jpg",
+      "https://res.cloudinary.com/debpabo0a/image/upload/v1765571411/kicxza6dqzfsu5zwgb6p.jpg",
+      "https://res.cloudinary.com/debpabo0a/image/upload/v1765571411/df700lf9a5oylmv6y4el.jpg",
+      "https://res.cloudinary.com/debpabo0a/image/upload/v1765571411/ns74n4axx5e5ocyrla28.jpg"
+    ],
+    "price": 25000,
+    "details": {
+      "roomTypes": [
+        {
+          "name": "Standard Room",
+          "pricePerNight": 25000,
+          "capacity": 2,
+          "amenities": []
+        }
+      ],
+      "checkInTime": "14:00",
+      "checkOutTime": "12:00"
+    }
+  },
+  {
+    "vendorId": "69558890c263664d295678ab",
+    "category": "event",
+    "title": "UI International Conference Centre",
+    "description": "The Centre The UIEF International Conference Centre (UICC) is expected to provide an ideal location for exciting small and large events. Ideal for, large receptions or goals and other special events, concerts, consumer and trade shows of local and international standards\nNo doubt, the centre would play host to several international, Regional and National, Social, Cultural, Economic and Religious conferences, summits, meetings, seminars, ceremonies and programmes.\nThe ICC has five halls together and their capacities are as follows:\n1. Professor Oristsejolomi Thomas Hall - 5000 sitting capacity\n2. Dr Micheal O. Omolayole Hall - 600 sitting capacity\n3. Dr gamaliel Onosode Hall - 500 sitting capacity\n4. Dr Olabode Ogunlana - 300 sitting capacity\n5. Dr Olusegun Aganga Hall - 300 sitting capacity",
+    "location": {
+      "address": "University of Ibadan, 2nd gate",
+      "area": "Agbowo",
+      "geolocation": {
+        "lat": 3.9147,
+        "lng": 7.4762
+      }
+    },
+    "contactInformation": {
+      "phone": "2349030021777",
+      "whatsapp": "2349030021777"
+    },
+    "images": [
+      "https://res.cloudinary.com/debpabo0a/image/upload/v1761736199/obpwf07bzzvihueuoy8z.jpg"
+    ],
+    "price": 400000,
+    "details": {
+      "eventDate": "2025-12-29T15:13:50.600Z",
+      "venue": "University of Ibadan, 2nd gate",
+      "capacity": 50
+    }
+  },
+  {
+    "vendorId": "69558890c263664d295678ab",
+    "category": "restaurant",
+    "title": "Ultima Restaurant",
+    "description": "We are dedicated to serving you the best of tasteful and appetizing traditional and intercontinental delicacies you won’t be able to resist that are both Healthy and Delicious",
+    "location": {
+      "address": "Secretariat Road, adjacent to the NSCDC Command, Customs, Bodija ",
+      "area": "Bodija",
+      "geolocation": {
+        "lat": 3.9147,
+        "lng": 7.4762
+      }
+    },
+    "contactInformation": {
+      "phone": "2348034227575",
+      "whatsapp": "2348034227575"
+    },
+    "images": [
+      "https://res.cloudinary.com/debpabo0a/image/upload/v1761052274/h8dewxarz378qtrz28l6.jpg"
+    ],
+    "price": 2000,
+    "details": {
+      "cuisines": [],
+      "openingHours": "09:00-21:00",
+      "acceptsReservations": false,
+      "maxGuestsPerReservation": 10
+    }
+  },
+  {
+    "vendorId": "69558890c263664d295678ab",
+    "category": "hotel",
+    "title": "WAVELENGTH HOTEL AND SUITES",
+    "location": {
+      "address": "17, 21 wavelength street,podo estate",
+      "area": "Podo",
+      "geolocation": {
+        "lat": null,
+        "lng": null
+      }
+    },
+    "contactInformation": {
+      "phone": "9038245760",
+      "whatsapp": "9038245760"
+    },
+    "images": [
+      "https://res.cloudinary.com/debpabo0a/image/upload/v1765571520/y3ztivvkk2yk9waobm1v.jpg",
+      "https://res.cloudinary.com/debpabo0a/image/upload/v1765571521/ffyuipmx7dpl7oijamxp.jpg",
+      "https://res.cloudinary.com/debpabo0a/image/upload/v1765571520/qi37qrnnx1zaifgbxopv.jpg",
+      "https://res.cloudinary.com/debpabo0a/image/upload/v1765571521/oowunhy2ddro1qkkqvb8.jpg"
+    ],
+    "price": 15000,
+    "details": {
+      "roomTypes": [
+        {
+          "name": "Standard Room",
+          "pricePerNight": 15000,
+          "capacity": 2,
+          "amenities": []
+        }
+      ],
+      "checkInTime": "14:00",
+      "checkOutTime": "12:00"
+    }
+  },
+  {
+    "vendorId": "69558890c263664d295678ab",
+    "category": "hotel",
+    "title": "WETLAND HOTELS",
+    "location": {
+      "address": "AKOBO, IBADAN",
+      "area": "Akobo",
+      "geolocation": {
+        "lat": null,
+        "lng": null
+      }
+    },
+    "contactInformation": {
+      "phone": "8101435921",
+      "whatsapp": "8101435921"
+    },
+    "images": [],
+    "price": 22400,
+    "details": {
+      "roomTypes": [
+        {
+          "name": "Standard Room",
+          "pricePerNight": 22400,
+          "capacity": 2,
+          "amenities": []
+        }
+      ],
+      "checkInTime": "14:00",
+      "checkOutTime": "12:00"
+    }
+  },
+  {
+    "vendorId": "69558890c263664d295678ab",
+    "category": "shortlet",
+    "title": "Shortlet @ Jericho",
+    "description": "One Bedroom shortlet apartment at Onireke GRA, Main Jericho.\n\nFeatures\n\n-24/7 Power supply\n-Internet subscription\n-Prime Video, Netflix\n-Serene and Secured\n-Play station 4\n\n75k per day\n30k caution deposit\n",
+    "location": {
+      "address": "Onireke Gra, Golf Club, Jericho, Ibadan",
+      "area": "Jericho",
+      "geolocation": {
+        "lat": 3.9147,
+        "lng": 7.4762
+      }
+    },
+    "contactInformation": {
+      "phone": "2348143789707",
+      "whatsapp": "2348143789707"
+    },
+    "images": [
+      "https://res.cloudinary.com/debpabo0a/image/upload/v1761828128/zjqb6wzwhq2nouwa9ejv.jpg"
+    ],
+    "price": 75000,
+    "details": {
+      "pricePerNight": 75000,
+      "maxGuests": 2,
+      "amenities": []
+    }
+  }
+]
