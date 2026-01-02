@@ -11,6 +11,7 @@ import authRoutes from "./routes/auth.routes.js";
 import userRoutes from "./routes/user.routes.js";
 import listingRoutes from "./routes/listing.routes.js";
 import adminRoutes from "./routes/admin.routes.js";
+import uploadRoutes from "./routes/upload.routes.js";
 
 dotenv.config({ path: ".env.local" });
 const app = express();
@@ -67,6 +68,7 @@ app.use("/api/v1/auth", authRoutes);
 app.use("/api/v1/users", userRoutes);
 app.use("/api/v1/listings", listingRoutes);
 app.use("/api/v1/admin", adminRoutes);
+app.use("/api/v1/images", uploadRoutes);
 
 app.use(errorHandler);
 

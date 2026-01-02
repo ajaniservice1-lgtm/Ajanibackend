@@ -1,11 +1,18 @@
 import mongoose from "mongoose";
 import validator from "validator";
+import { normalizeImages } from "../utils/imageHelpers.js";
 
 const HotelDetailsSchema = new mongoose.Schema(
   {
     roomTypes: [
       {
-        name: { type: String, required: true },
+        name: {
+          type: String,
+          required: true,
+          enums: ["basic", "standard", "premium", "luxury"],
+          lowercase: true,
+          trim: true,
+        },
         pricePerNight: { type: Number, required: true },
         capacity: { type: Number, required: true },
         amenities: [String],
@@ -87,7 +94,7 @@ function validateDetails() {
       return Array.isArray(details.cuisines) && typeof details.openingHours === "string";
     }
 
-    if (category === "service provider") {
+    if (category === "services") {
       // Service details: priceType, availability
       return (
         ["fixed", "hourly", "negotiable"].includes(details.priceType) &&
@@ -169,18 +176,35 @@ const listingSchema = new mongoose.Schema(
     },
 
     images: {
-      type: [String],
-      required: [true, "Images are required"],
-      validate: {
-        validator: function (arr) {
-          return arr.every(url => validator.isURL(url));
+      type: mongoose.Schema.Types.Mixed,
+      validate: [
+        {
+          validator: function (val) {
+            if (!Array.isArray(val)) {
+              return false;
+            }
+            // Accept both formats: URL strings or objects with url/public_id
+            return val.every(
+              img =>
+                typeof img === "string" ||
+                (typeof img === "object" && img !== null && (img.url || img.public_id))
+            );
+          },
+          message: "Images must be an array of URL strings or objects with url/public_id",
         },
-        message: "Please provide valid image URLs",
-      },
-      lowercase: true,
-      trim: true,
-      minlength: [1, "At least one image is required"],
-      maxlength: [4, "Maximum 4 images are allowed"],
+        {
+          validator: function (val) {
+            return Array.isArray(val) && val.length >= 1;
+          },
+          message: "At least one image is required",
+        },
+        {
+          validator: function (val) {
+            return Array.isArray(val) && val.length <= 4;
+          },
+          message: "Maximum 4 images are allowed",
+        },
+      ],
     },
 
     price: {
@@ -233,6 +257,16 @@ const listingSchema = new mongoose.Schema(
 
 //   next();
 // });
+
+// Normalize images to new format (objects with url and public_id) before saving
+listingSchema.pre("save", function () {
+  if (this.images && Array.isArray(this.images)) {
+    const normalized = normalizeImages(this.images);
+    if (normalized.length > 0) {
+      this.images = normalized;
+    }
+  }
+});
 
 listingSchema.pre("validate", function () {
   const categorySchemas = {

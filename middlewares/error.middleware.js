@@ -8,6 +8,19 @@ const handleDuplicateFieldsDB = err => {
   return new AppError(400, message);
 };
 
+const handleMulterError = err => {
+  if (err.code === "MISSING_FIELD_NAME") {
+    return new AppError(400, "Please send files with field name 'images'");
+  }
+  if (err.code === "LIMIT_UNEXPECTED_FILE" || err.message === "Unexpected field") {
+    return new AppError(
+      400,
+      "Unexpected field name. Please use 'images' as the field name for file uploads"
+    );
+  }
+  return new AppError(400, err.message || "File upload error");
+};
+
 // Send error in development
 const sendErrorDev = (err, res) => {
   console.log(err);
@@ -47,11 +60,13 @@ const errorHandler = (err, req, res, next) => {
     let error = { ...err, message: err.message };
 
     if (error.code === 11000) error = handleDuplicateFieldsDB(error);
+    if (error.name === "MulterError") error = handleMulterError(error);
 
     sendErrorDev(error, res);
   } else if (process.env.NODE_ENV === "production") {
     let error = { ...err, message: err.message };
     if (error.code === 11000) error = handleDuplicateFieldsDB(error);
+    if (error.name === "MulterError") error = handleMulterError(error);
     sendErrorProd(error, res);
   }
 };

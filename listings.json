@@ -2,7 +2,7 @@
   {
     "vendorId": "69558890c263664d295678ab",
     "category": "shortlet",
-    "title": "1 Bedroom mini flat ",
+    "title": "1 Bedroom mini flat Aare New Bodija",
     "description": "One bedroom apartment with gym facility, WiFi, and uninterrupted electricity 24/7 at Aare New Bodija 70k per day. Plus 50k caution deposit\n\n",
     "location": {
       "address": "Aare, New Bodija, Ibadan",
@@ -17,7 +17,10 @@
       "whatsapp": "2348143789707"
     },
     "images": [
-      "https://res.cloudinary.com/debpabo0a/image/upload/v1761828191/wzpfaj1eijplrfcgnsof.jpg"
+      {
+        "url": "https://res.cloudinary.com/debpabo0a/image/upload/v1761828191/wzpfaj1eijplrfcgnsof.jpg",
+        "public_id": "wzpfaj1eijplrfcgnsof"
+      }
     ],
     "price": 75000,
     "details": {
@@ -29,7 +32,7 @@
   {
     "vendorId": "69558890c263664d295678ab",
     "category": "shortlet",
-    "title": "1 bedroom mini flat (room and parlour) short let",
+    "title": "1 bedroom mini flat (room and parlour) short let Felele",
     "description": "Wifi, Netflix, YouTube..Fantastic modern, comfortable self contained one bedroom apartment ( No AC) apartment in central Ibadan for the budget conscious travellers.\n\nSpacious unit with bathroom /toilet, kitchen area with cooking facilities, very private.\n",
     "location": {
       "address": "Felele Raab, Ibadan",
@@ -44,7 +47,10 @@
       "whatsapp": "8062329981"
     },
     "images": [
-      "https://res.cloudinary.com/debpabo0a/image/upload/v1761827750/yyg569mzlihvdkys0lhn.jpg"
+      {
+        "url": "https://res.cloudinary.com/debpabo0a/image/upload/v1761827750/yyg569mzlihvdkys0lhn.jpg",
+        "public_id": "yyg569mzlihvdkys0lhn"
+      }
     ],
     "price": 30000,
     "details": {
@@ -56,7 +62,7 @@
   {
     "vendorId": "69558890c263664d295678ab",
     "category": "shortlet",
-    "title": "1 bedroom mini flat (room and parlour) short let ",
+    "title": "1 bedroom mini flat (room and parlour) short let Awosika Avenue",
     "description": "One bedroom apartment now available for bookings at Oba Akinyele, Awosika Avenue, Old Bodija.\n\nOne bedroom apartment - 65k per day\n\nFacilities ---\n\nSmart TVs\nBalcony View\n24/7 power supply\nFree Wi-Fi connection\n",
     "location": {
       "address": "Awosika Avenue, Old Bodija, Ibadan",
@@ -71,7 +77,10 @@
       "whatsapp": "2348143789707"
     },
     "images": [
-      "https://res.cloudinary.com/debpabo0a/image/upload/v1761827259/xh84oerzcxgl4egvdkyo.jpg"
+      {
+        "url": "https://res.cloudinary.com/debpabo0a/image/upload/v1761827259/xh84oerzcxgl4egvdkyo.jpg",
+        "public_id": "xh84oerzcxgl4egvdkyo"
+      }
     ],
     "price": 65000,
     "details": {
@@ -83,7 +92,7 @@
   {
     "vendorId": "69558890c263664d295678ab",
     "category": "shortlet",
-    "title": "1 bedroom mini flat (room and parlour) short let ",
+    "title": "1 bedroom mini flat (room and parlour) short let Old Bodija",
     "description": "One bedroom shortlet apartment at Old Bodija, Along sluggers.\n\n- 24/7 power supply\n- ⁠Top notch security\n- ⁠Maximum privacy\n- ⁠Cleaning services\n- ⁠Comfy chairs\n- ⁠Ps5 games\n- ⁠Starlink WiFi\n\n\n100k per day\n50k caution deposit\n",
     "location": {
       "address": "Sluggers, Old Bodija, Ibadan",
@@ -98,7 +107,10 @@
       "whatsapp": "2348143789707"
     },
     "images": [
-      "https://res.cloudinary.com/debpabo0a/image/upload/v1761827684/s4kksye1ev0kkqobuklr.jpg"
+      {
+        "url": "https://res.cloudinary.com/debpabo0a/image/upload/v1761827684/s4kksye1ev0kkqobuklr.jpg",
+        "public_id": "s4kksye1ev0kkqobuklr"
+      }
     ],
     "price": 100000,
     "details": {
@@ -124,15 +136,30 @@
       "whatsapp": "9133666056"
     },
     "images": [
-      "https://res.cloudinary.com/debpabo0a/image/upload/v1765456419/izlgu0h6z49xcu151zxb.jpg",
-      "https://res.cloudinary.com/debpabo0a/image/upload/v1765457410/j9ldhphxkixi69ymtngn.jpg",
-      "https://res.cloudinary.com/debpabo0a/image/upload/v1765457410/b4c9fzlhpvoj7kedap9s.jpg",
-      "https://res.cloudinary.com/debpabo0a/image/upload/v1765457410/qyj0rir0rfvyzpxvzi6b.jpg"
+      {
+        "url": "https://res.cloudinary.com/debpabo0a/image/upload/v1765456419/izlgu0h6z49xcu151zxb.jpg",
+        "public_id": "izlgu0h6z49xcu151zxb"
+      },
+      {
+        "url": "https://res.cloudinary.com/debpabo0a/image/upload/v1765457410/j9ldhphxkixi69ymtngn.jpg",
+        "public_id": "j9ldhphxkixi69ymtngn"
+      },
+      {
+        "url": "https://res.cloudinary.com/debpabo0a/image/upload/v1765457410/b4c9fzlhpvoj7kedap9s.jpg",
+        "public_id": "b4c9fzlhpvoj7kedap9s"
+      },
+      {
+        "url": "https://res.cloudinary.com/debpabo0a/image/upload/v1765457410/qyj0rir0rfvyzpxvzi6b.jpg",
+        "public_id": "qyj0rir0rfvyzpxvzi6b"
+      }
     ],
     "details": {
+      "pricePerNight": 100000,
       "maxGuests": 2,
       "amenities": []
-    }
+    },
+    "description": "3G GARDENS AND APARTMENTS - Quality service and excellent facilities.",
+    "price": 100000
   },
   {
     "vendorId": "69558890c263664d295678ab",
@@ -152,7 +179,10 @@
       "whatsapp": "2349167499130"
     },
     "images": [
-      "https://res.cloudinary.com/debpabo0a/image/upload/v1761829645/zbpznot0qrqzkrs43rll.jpg"
+      {
+        "url": "https://res.cloudinary.com/debpabo0a/image/upload/v1761829645/zbpznot0qrqzkrs43rll.jpg",
+        "public_id": "zbpznot0qrqzkrs43rll"
+      }
     ],
     "price": 160000,
     "details": {
@@ -177,12 +207,17 @@
       "phone": "2349075180431",
       "whatsapp": "2349075180431"
     },
-    "images": [],
+    "images": [
+      {
+        "url": "https://res.cloudinary.com/debpabo0a/image/upload/v1761828191/wzpfaj1eijplrfcgnsof.jpg",
+        "public_id": "wzpfaj1eijplrfcgnsof"
+      }
+    ],
     "price": 25500,
     "details": {
       "roomTypes": [
         {
-          "name": "Standard Room",
+          "name": "standard",
           "pricePerNight": 25500,
           "capacity": 2,
           "amenities": []
@@ -190,7 +225,8 @@
       ],
       "checkInTime": "14:00",
       "checkOutTime": "12:00"
-    }
+    },
+    "description": "4 BRASS HOTEL - Quality service and excellent facilities."
   },
   {
     "vendorId": "69558890c263664d295678ab",
@@ -208,12 +244,17 @@
       "phone": "07014714717",
       "whatsapp": "07014714717"
     },
-    "images": [],
+    "images": [
+      {
+        "url": "https://res.cloudinary.com/debpabo0a/image/upload/v1761828191/wzpfaj1eijplrfcgnsof.jpg",
+        "public_id": "wzpfaj1eijplrfcgnsof"
+      }
+    ],
     "price": 13000,
     "details": {
       "roomTypes": [
         {
-          "name": "Standard Room",
+          "name": "standard",
           "pricePerNight": 13000,
           "capacity": 2,
           "amenities": []
@@ -221,12 +262,13 @@
       ],
       "checkInTime": "14:00",
       "checkOutTime": "12:00"
-    }
+    },
+    "description": "A3 HOTEL & SUITE - Quality service and excellent facilities."
   },
   {
     "vendorId": "69558890c263664d295678ab",
     "category": "hotel",
-    "title": "ACADEMY SUITES",
+    "title": "ACADEMY SUITES Oke Ado",
     "location": {
       "address": "74, Ososami road, Oke Ado, Ibadan, Oyo\n State",
       "area": "Oke Ado",
@@ -240,16 +282,28 @@
       "whatsapp": "8092930000"
     },
     "images": [
-      "https://res.cloudinary.com/debpabo0a/image/upload/v1765458018/ig3yitazghmqempvnfea.jpg",
-      "https://res.cloudinary.com/debpabo0a/image/upload/v1765458019/zkhsyrz81gg7mecvgcxr.jpg",
-      "https://res.cloudinary.com/debpabo0a/image/upload/v1765458019/fhr6jt4sknzlto2nxjiu.jpg",
-      "https://res.cloudinary.com/debpabo0a/image/upload/v1765458019/dxrh2dkmphz5flulv2wo.jpg"
+      {
+        "url": "https://res.cloudinary.com/debpabo0a/image/upload/v1765458018/ig3yitazghmqempvnfea.jpg",
+        "public_id": "ig3yitazghmqempvnfea"
+      },
+      {
+        "url": "https://res.cloudinary.com/debpabo0a/image/upload/v1765458019/zkhsyrz81gg7mecvgcxr.jpg",
+        "public_id": "zkhsyrz81gg7mecvgcxr"
+      },
+      {
+        "url": "https://res.cloudinary.com/debpabo0a/image/upload/v1765458019/fhr6jt4sknzlto2nxjiu.jpg",
+        "public_id": "fhr6jt4sknzlto2nxjiu"
+      },
+      {
+        "url": "https://res.cloudinary.com/debpabo0a/image/upload/v1765458019/dxrh2dkmphz5flulv2wo.jpg",
+        "public_id": "dxrh2dkmphz5flulv2wo"
+      }
     ],
     "price": 20000,
     "details": {
       "roomTypes": [
         {
-          "name": "Standard Room",
+          "name": "standard",
           "pricePerNight": 20000,
           "capacity": 2,
           "amenities": []
@@ -257,12 +311,13 @@
       ],
       "checkInTime": "14:00",
       "checkOutTime": "12:00"
-    }
+    },
+    "description": "ACADEMY SUITES - Quality service and excellent facilities."
   },
   {
     "vendorId": "69558890c263664d295678ab",
     "category": "hotel",
-    "title": "ACADEMY SUITES",
+    "title": "ACADEMY SUITES Old Ife Road",
     "location": {
       "address": "Old Ife Road, Ibadan,",
       "area": "Old-Ife Road",
@@ -276,16 +331,28 @@
       "whatsapp": "8176666602"
     },
     "images": [
-      "https://res.cloudinary.com/debpabo0a/image/upload/v1765458018/ig3yitazghmqempvnfea.jpg",
-      "https://res.cloudinary.com/debpabo0a/image/upload/v1765458019/zkhsyrz81gg7mecvgcxr.jpg",
-      "https://res.cloudinary.com/debpabo0a/image/upload/v1765458019/fhr6jt4sknzlto2nxjiu.jpg",
-      "https://res.cloudinary.com/debpabo0a/image/upload/v1765458019/dxrh2dkmphz5flulv2wo.jpg"
+      {
+        "url": "https://res.cloudinary.com/debpabo0a/image/upload/v1765458018/ig3yitazghmqempvnfea.jpg",
+        "public_id": "ig3yitazghmqempvnfea"
+      },
+      {
+        "url": "https://res.cloudinary.com/debpabo0a/image/upload/v1765458019/zkhsyrz81gg7mecvgcxr.jpg",
+        "public_id": "zkhsyrz81gg7mecvgcxr"
+      },
+      {
+        "url": "https://res.cloudinary.com/debpabo0a/image/upload/v1765458019/fhr6jt4sknzlto2nxjiu.jpg",
+        "public_id": "fhr6jt4sknzlto2nxjiu"
+      },
+      {
+        "url": "https://res.cloudinary.com/debpabo0a/image/upload/v1765458019/dxrh2dkmphz5flulv2wo.jpg",
+        "public_id": "dxrh2dkmphz5flulv2wo"
+      }
     ],
     "price": 20000,
     "details": {
       "roomTypes": [
         {
-          "name": "Standard Room",
+          "name": "standard",
           "pricePerNight": 20000,
           "capacity": 2,
           "amenities": []
@@ -293,7 +360,8 @@
       ],
       "checkInTime": "14:00",
       "checkOutTime": "12:00"
-    }
+    },
+    "description": "ACADEMY SUITES - Quality service and excellent facilities."
   },
   {
     "vendorId": "69558890c263664d295678ab",
@@ -311,12 +379,17 @@
       "phone": "8169339395",
       "whatsapp": "8169339395"
     },
-    "images": [],
+    "images": [
+      {
+        "url": "https://res.cloudinary.com/debpabo0a/image/upload/v1761828191/wzpfaj1eijplrfcgnsof.jpg",
+        "public_id": "wzpfaj1eijplrfcgnsof"
+      }
+    ],
     "price": 25000,
     "details": {
       "roomTypes": [
         {
-          "name": "Standard Room",
+          "name": "standard",
           "pricePerNight": 25000,
           "capacity": 2,
           "amenities": []
@@ -324,7 +397,8 @@
       ],
       "checkInTime": "14:00",
       "checkOutTime": "12:00"
-    }
+    },
+    "description": "ADIS HOTELS IBADAN - Quality service and excellent facilities."
   },
   {
     "vendorId": "69558890c263664d295678ab",
@@ -344,17 +418,28 @@
       "whatsapp": "2348108732743"
     },
     "images": [
-      "https://res.cloudinary.com/debpabo0a/image/upload/v1760704725/ceelkdwjbvczfbib0pcl.jpg",
-      "https://res.cloudinary.com/debpabo0a/image/upload/v1765458211/y6n02glz8rsxi5hpslwi.jpg",
-      "https://res.cloudinary.com/debpabo0a/image/upload/v1765458211/xhowm1hltlcfhlilo4x2.jpg",
-      "https://res.cloudinary.com/debpabo0a/image/upload/v1765458211/i3txh0oebbenbvgxume7.jpg",
-      "https://res.cloudinary.com/debpabo0a/image/upload/v1765458211/tceqrhxeyu9jdbjovg59.jpg"
+      {
+        "url": "https://res.cloudinary.com/debpabo0a/image/upload/v1760704725/ceelkdwjbvczfbib0pcl.jpg",
+        "public_id": "ceelkdwjbvczfbib0pcl"
+      },
+      {
+        "url": "https://res.cloudinary.com/debpabo0a/image/upload/v1765458211/y6n02glz8rsxi5hpslwi.jpg",
+        "public_id": "y6n02glz8rsxi5hpslwi"
+      },
+      {
+        "url": "https://res.cloudinary.com/debpabo0a/image/upload/v1765458211/xhowm1hltlcfhlilo4x2.jpg",
+        "public_id": "xhowm1hltlcfhlilo4x2"
+      },
+      {
+        "url": "https://res.cloudinary.com/debpabo0a/image/upload/v1765458211/i3txh0oebbenbvgxume7.jpg",
+        "public_id": "i3txh0oebbenbvgxume7"
+      }
     ],
     "price": 50000,
     "details": {
       "roomTypes": [
         {
-          "name": "Standard Room",
+          "name": "standard",
           "pricePerNight": 50000,
           "capacity": 2,
           "amenities": []
@@ -376,16 +461,18 @@
         "lng": null
       }
     },
-    "contactInformation": {
-      "phone": null,
-      "whatsapp": null
-    },
-    "images": [],
+    "contactInformation": {},
+    "images": [
+      {
+        "url": "https://res.cloudinary.com/debpabo0a/image/upload/v1761828191/wzpfaj1eijplrfcgnsof.jpg",
+        "public_id": "wzpfaj1eijplrfcgnsof"
+      }
+    ],
     "price": 15000,
     "details": {
       "roomTypes": [
         {
-          "name": "Standard Room",
+          "name": "standard",
           "pricePerNight": 15000,
           "capacity": 2,
           "amenities": []
@@ -393,7 +480,8 @@
       ],
       "checkInTime": "14:00",
       "checkOutTime": "12:00"
-    }
+    },
+    "description": "AKINLAF HOTEL - Quality service and excellent facilities."
   },
   {
     "vendorId": "69558890c263664d295678ab",
@@ -412,16 +500,28 @@
       "whatsapp": "7047981039"
     },
     "images": [
-      "https://res.cloudinary.com/debpabo0a/image/upload/v1765458434/hcbpflg89juih5wkq4ar.jpg",
-      "https://res.cloudinary.com/debpabo0a/image/upload/v1765458460/ioabrdd5upea9dvnkj3e.jpg",
-      "https://res.cloudinary.com/debpabo0a/image/upload/v1765458461/reah9a2mlaveeuwitnep.jpg",
-      "https://res.cloudinary.com/debpabo0a/image/upload/v1765458460/vjiloouzhhmsqv1j66xt.jpg"
+      {
+        "url": "https://res.cloudinary.com/debpabo0a/image/upload/v1765458434/hcbpflg89juih5wkq4ar.jpg",
+        "public_id": "hcbpflg89juih5wkq4ar"
+      },
+      {
+        "url": "https://res.cloudinary.com/debpabo0a/image/upload/v1765458460/ioabrdd5upea9dvnkj3e.jpg",
+        "public_id": "ioabrdd5upea9dvnkj3e"
+      },
+      {
+        "url": "https://res.cloudinary.com/debpabo0a/image/upload/v1765458461/reah9a2mlaveeuwitnep.jpg",
+        "public_id": "reah9a2mlaveeuwitnep"
+      },
+      {
+        "url": "https://res.cloudinary.com/debpabo0a/image/upload/v1765458460/vjiloouzhhmsqv1j66xt.jpg",
+        "public_id": "vjiloouzhhmsqv1j66xt"
+      }
     ],
     "price": 20000,
     "details": {
       "roomTypes": [
         {
-          "name": "Standard Room",
+          "name": "standard",
           "pricePerNight": 20000,
           "capacity": 2,
           "amenities": []
@@ -429,7 +529,8 @@
       ],
       "checkInTime": "14:00",
       "checkOutTime": "12:00"
-    }
+    },
+    "description": "ALIVIAR HOTEL - Quality service and excellent facilities."
   },
   {
     "vendorId": "69558890c263664d295678ab",
@@ -449,7 +550,10 @@
       "whatsapp": "2349093965346"
     },
     "images": [
-      "https://res.cloudinary.com/debpabo0a/image/upload/v1761314257/huds0o0tlbgdjvfmtoiz.jpg"
+      {
+        "url": "https://res.cloudinary.com/debpabo0a/image/upload/v1761314257/huds0o0tlbgdjvfmtoiz.jpg",
+        "public_id": "huds0o0tlbgdjvfmtoiz"
+      }
     ],
     "price": 2500,
     "details": {
@@ -476,15 +580,30 @@
       "whatsapp": "8059071891"
     },
     "images": [
-      "https://res.cloudinary.com/debpabo0a/image/upload/v1765458558/mbayzbddj7cgfyi8pdvv.jpg",
-      "https://res.cloudinary.com/debpabo0a/image/upload/v1765458558/tyufvvge8wzuedohumgd.jpg",
-      "https://res.cloudinary.com/debpabo0a/image/upload/v1765458558/ihbffsambvtkqglxwpps.jpg",
-      "https://res.cloudinary.com/debpabo0a/image/upload/v1765458559/pqccaej48rb2kohkazlh.jpg"
+      {
+        "url": "https://res.cloudinary.com/debpabo0a/image/upload/v1765458558/mbayzbddj7cgfyi8pdvv.jpg",
+        "public_id": "mbayzbddj7cgfyi8pdvv"
+      },
+      {
+        "url": "https://res.cloudinary.com/debpabo0a/image/upload/v1765458558/tyufvvge8wzuedohumgd.jpg",
+        "public_id": "tyufvvge8wzuedohumgd"
+      },
+      {
+        "url": "https://res.cloudinary.com/debpabo0a/image/upload/v1765458558/ihbffsambvtkqglxwpps.jpg",
+        "public_id": "ihbffsambvtkqglxwpps"
+      },
+      {
+        "url": "https://res.cloudinary.com/debpabo0a/image/upload/v1765458559/pqccaej48rb2kohkazlh.jpg",
+        "public_id": "pqccaej48rb2kohkazlh"
+      }
     ],
     "details": {
       "maxGuests": 2,
-      "amenities": []
-    }
+      "amenities": [],
+      "pricePerNight": 1000
+    },
+    "description": "AMAZING GRACE HOSTEL AND INTERNATIONAL SERVICED APARTMENTS - Quality service and excellent facilities.",
+    "price": 1000
   },
   {
     "vendorId": "69558890c263664d295678ab",
@@ -503,13 +622,16 @@
       "whatsapp": "8141352464"
     },
     "images": [
-      "https://res.cloudinary.com/debpabo0a/image/upload/v1765458782/vbnn2rznr23rkhefvcxq.jpg"
+      {
+        "url": "https://res.cloudinary.com/debpabo0a/image/upload/v1765458782/vbnn2rznr23rkhefvcxq.jpg",
+        "public_id": "vbnn2rznr23rkhefvcxq"
+      }
     ],
     "price": 18000,
     "details": {
       "roomTypes": [
         {
-          "name": "Standard Room",
+          "name": "standard",
           "pricePerNight": 18000,
           "capacity": 2,
           "amenities": []
@@ -517,7 +639,8 @@
       ],
       "checkInTime": "14:00",
       "checkOutTime": "12:00"
-    }
+    },
+    "description": "AMIGOS HOTEL - Quality service and excellent facilities."
   },
   {
     "vendorId": "69558890c263664d295678ab",
@@ -536,16 +659,28 @@
       "whatsapp": "9063684603"
     },
     "images": [
-      "https://res.cloudinary.com/debpabo0a/image/upload/v1765458640/e4zkm3ffdurmnaomhgjl.jpg",
-      "https://res.cloudinary.com/debpabo0a/image/upload/v1765458640/iaionjj7ekybskhiw8y1.jpg",
-      "https://res.cloudinary.com/debpabo0a/image/upload/v1765458640/d4iwtyv3wchxf7cgbom4.jpg",
-      "https://res.cloudinary.com/debpabo0a/image/upload/v1765458641/yfoovtynv6qx0o2d87bm.jpg"
+      {
+        "url": "https://res.cloudinary.com/debpabo0a/image/upload/v1765458640/e4zkm3ffdurmnaomhgjl.jpg",
+        "public_id": "e4zkm3ffdurmnaomhgjl"
+      },
+      {
+        "url": "https://res.cloudinary.com/debpabo0a/image/upload/v1765458640/iaionjj7ekybskhiw8y1.jpg",
+        "public_id": "iaionjj7ekybskhiw8y1"
+      },
+      {
+        "url": "https://res.cloudinary.com/debpabo0a/image/upload/v1765458640/d4iwtyv3wchxf7cgbom4.jpg",
+        "public_id": "d4iwtyv3wchxf7cgbom4"
+      },
+      {
+        "url": "https://res.cloudinary.com/debpabo0a/image/upload/v1765458641/yfoovtynv6qx0o2d87bm.jpg",
+        "public_id": "yfoovtynv6qx0o2d87bm"
+      }
     ],
     "price": 10000,
     "details": {
       "roomTypes": [
         {
-          "name": "Standard Room",
+          "name": "standard",
           "pricePerNight": 10000,
           "capacity": 2,
           "amenities": []
@@ -553,7 +688,8 @@
       ],
       "checkInTime": "14:00",
       "checkOutTime": "12:00"
-    }
+    },
+    "description": "AYOTOZ HOTEL - Quality service and excellent facilities."
   },
   {
     "vendorId": "69558890c263664d295678ab",
@@ -571,12 +707,17 @@
       "phone": "07076948259",
       "whatsapp": "07076948259"
     },
-    "images": [],
+    "images": [
+      {
+        "url": "https://res.cloudinary.com/debpabo0a/image/upload/v1761828191/wzpfaj1eijplrfcgnsof.jpg",
+        "public_id": "wzpfaj1eijplrfcgnsof"
+      }
+    ],
     "price": 35000,
     "details": {
       "roomTypes": [
         {
-          "name": "Standard Room",
+          "name": "standard",
           "pricePerNight": 35000,
           "capacity": 2,
           "amenities": []
@@ -584,7 +725,8 @@
       ],
       "checkInTime": "14:00",
       "checkOutTime": "12:00"
-    }
+    },
+    "description": "BAYSEONE ONE PREMIUM - Quality service and excellent facilities."
   },
   {
     "vendorId": "69558890c263664d295678ab",
@@ -603,16 +745,28 @@
       "whatsapp": "8150402025"
     },
     "images": [
-      "https://res.cloudinary.com/debpabo0a/image/upload/v1765458901/o9vvginysdwqdszzi2tm.jpg",
-      "https://res.cloudinary.com/debpabo0a/image/upload/v1765458917/luhgllhcsn93x4loxs4y.jpg",
-      "https://res.cloudinary.com/debpabo0a/image/upload/v1765458917/j0mtkelxxhtqz6yhhu6w.jpg",
-      "https://res.cloudinary.com/debpabo0a/image/upload/v1765458917/sakxlspzufdcbrveffmd.jpg"
+      {
+        "url": "https://res.cloudinary.com/debpabo0a/image/upload/v1765458901/o9vvginysdwqdszzi2tm.jpg",
+        "public_id": "o9vvginysdwqdszzi2tm"
+      },
+      {
+        "url": "https://res.cloudinary.com/debpabo0a/image/upload/v1765458917/luhgllhcsn93x4loxs4y.jpg",
+        "public_id": "luhgllhcsn93x4loxs4y"
+      },
+      {
+        "url": "https://res.cloudinary.com/debpabo0a/image/upload/v1765458917/j0mtkelxxhtqz6yhhu6w.jpg",
+        "public_id": "j0mtkelxxhtqz6yhhu6w"
+      },
+      {
+        "url": "https://res.cloudinary.com/debpabo0a/image/upload/v1765458917/sakxlspzufdcbrveffmd.jpg",
+        "public_id": "sakxlspzufdcbrveffmd"
+      }
     ],
     "price": 70000,
     "details": {
       "roomTypes": [
         {
-          "name": "Standard Room",
+          "name": "standard",
           "pricePerNight": 70000,
           "capacity": 2,
           "amenities": []
@@ -620,7 +774,8 @@
       ],
       "checkInTime": "14:00",
       "checkOutTime": "12:00"
-    }
+    },
+    "description": "BEST WESTERN PLUS - Quality service and excellent facilities."
   },
   {
     "vendorId": "69558890c263664d295678ab",
@@ -639,16 +794,28 @@
       "whatsapp": "9165751129"
     },
     "images": [
-      "https://res.cloudinary.com/debpabo0a/image/upload/v1765459050/sug2sdmegfdf6qwua20s.jpg",
-      "https://res.cloudinary.com/debpabo0a/image/upload/v1765459077/q0lya6uz5cc1ryclppou.jpg",
-      "https://res.cloudinary.com/debpabo0a/image/upload/v1765459076/j04ng3vyoypt5hplnoh1.jpg",
-      "https://res.cloudinary.com/debpabo0a/image/upload/v1765459076/wc5n0xmdlqmjec1gkegt.jpg"
+      {
+        "url": "https://res.cloudinary.com/debpabo0a/image/upload/v1765459050/sug2sdmegfdf6qwua20s.jpg",
+        "public_id": "sug2sdmegfdf6qwua20s"
+      },
+      {
+        "url": "https://res.cloudinary.com/debpabo0a/image/upload/v1765459077/q0lya6uz5cc1ryclppou.jpg",
+        "public_id": "q0lya6uz5cc1ryclppou"
+      },
+      {
+        "url": "https://res.cloudinary.com/debpabo0a/image/upload/v1765459076/j04ng3vyoypt5hplnoh1.jpg",
+        "public_id": "j04ng3vyoypt5hplnoh1"
+      },
+      {
+        "url": "https://res.cloudinary.com/debpabo0a/image/upload/v1765459076/wc5n0xmdlqmjec1gkegt.jpg",
+        "public_id": "wc5n0xmdlqmjec1gkegt"
+      }
     ],
     "price": 30000,
     "details": {
       "roomTypes": [
         {
-          "name": "Standard Room",
+          "name": "standard",
           "pricePerNight": 30000,
           "capacity": 2,
           "amenities": []
@@ -656,7 +823,8 @@
       ],
       "checkInTime": "14:00",
       "checkOutTime": "12:00"
-    }
+    },
+    "description": "BILLIONAIRE HOTEL - Quality service and excellent facilities."
   },
   {
     "vendorId": "69558890c263664d295678ab",
@@ -674,12 +842,17 @@
       "phone": "8033935014",
       "whatsapp": "8033935014"
     },
-    "images": [],
+    "images": [
+      {
+        "url": "https://res.cloudinary.com/debpabo0a/image/upload/v1761828191/wzpfaj1eijplrfcgnsof.jpg",
+        "public_id": "wzpfaj1eijplrfcgnsof"
+      }
+    ],
     "price": 12000,
     "details": {
       "roomTypes": [
         {
-          "name": "Standard Room",
+          "name": "standard",
           "pricePerNight": 12000,
           "capacity": 2,
           "amenities": []
@@ -687,7 +860,8 @@
       ],
       "checkInTime": "14:00",
       "checkOutTime": "12:00"
-    }
+    },
+    "description": "BINO HOTEL - Quality service and excellent facilities."
   },
   {
     "vendorId": "69558890c263664d295678ab",
@@ -706,14 +880,20 @@
       "whatsapp": "8039271152"
     },
     "images": [
-      "https://res.cloudinary.com/debpabo0a/image/upload/v1765459208/ol8xi6pvz5zyl5sgtus4.jpg",
-      "https://res.cloudinary.com/debpabo0a/image/upload/v1765459208/z04dnjybjmxo3auklrkv.jpg"
+      {
+        "url": "https://res.cloudinary.com/debpabo0a/image/upload/v1765459208/ol8xi6pvz5zyl5sgtus4.jpg",
+        "public_id": "ol8xi6pvz5zyl5sgtus4"
+      },
+      {
+        "url": "https://res.cloudinary.com/debpabo0a/image/upload/v1765459208/z04dnjybjmxo3auklrkv.jpg",
+        "public_id": "z04dnjybjmxo3auklrkv"
+      }
     ],
     "price": 15000,
     "details": {
       "roomTypes": [
         {
-          "name": "Standard Room",
+          "name": "standard",
           "pricePerNight": 15000,
           "capacity": 2,
           "amenities": []
@@ -721,7 +901,8 @@
       ],
       "checkInTime": "14:00",
       "checkOutTime": "12:00"
-    }
+    },
+    "description": "BLACK GOLD GUESTHOUSE - Quality service and excellent facilities."
   },
   {
     "vendorId": "69558890c263664d295678ab",
@@ -739,12 +920,17 @@
       "phone": "08022666235",
       "whatsapp": "08022666235"
     },
-    "images": [],
+    "images": [
+      {
+        "url": "https://res.cloudinary.com/debpabo0a/image/upload/v1761828191/wzpfaj1eijplrfcgnsof.jpg",
+        "public_id": "wzpfaj1eijplrfcgnsof"
+      }
+    ],
     "price": 65000,
     "details": {
       "roomTypes": [
         {
-          "name": "Standard Room",
+          "name": "standard",
           "pricePerNight": 65000,
           "capacity": 2,
           "amenities": []
@@ -752,7 +938,8 @@
       ],
       "checkInTime": "14:00",
       "checkOutTime": "12:00"
-    }
+    },
+    "description": "BON HOTELS IBADAN - Quality service and excellent facilities."
   },
   {
     "vendorId": "69558890c263664d295678ab",
@@ -772,17 +959,28 @@
       "whatsapp": "2348022666235"
     },
     "images": [
-      "https://res.cloudinary.com/debpabo0a/image/upload/v1760706969/bvu3yc2znvk4ggpxk7ir.jpg",
-      "https://res.cloudinary.com/debpabo0a/image/upload/v1765459298/rywauwh8amdwqiv3pumr.jpg",
-      "https://res.cloudinary.com/debpabo0a/image/upload/v1765459298/vcvqanrfxsxfhjjyy8al.jpg",
-      "https://res.cloudinary.com/debpabo0a/image/upload/v1765459298/xbzjdqoqwdhmzcnntygp.jpg",
-      "https://res.cloudinary.com/debpabo0a/image/upload/v1765459298/eso1sluxumsfbecekfzp.jpg"
+      {
+        "url": "https://res.cloudinary.com/debpabo0a/image/upload/v1760706969/bvu3yc2znvk4ggpxk7ir.jpg",
+        "public_id": "bvu3yc2znvk4ggpxk7ir"
+      },
+      {
+        "url": "https://res.cloudinary.com/debpabo0a/image/upload/v1765459298/rywauwh8amdwqiv3pumr.jpg",
+        "public_id": "rywauwh8amdwqiv3pumr"
+      },
+      {
+        "url": "https://res.cloudinary.com/debpabo0a/image/upload/v1765459298/vcvqanrfxsxfhjjyy8al.jpg",
+        "public_id": "vcvqanrfxsxfhjjyy8al"
+      },
+      {
+        "url": "https://res.cloudinary.com/debpabo0a/image/upload/v1765459298/xbzjdqoqwdhmzcnntygp.jpg",
+        "public_id": "xbzjdqoqwdhmzcnntygp"
+      }
     ],
     "price": 60000,
     "details": {
       "roomTypes": [
         {
-          "name": "Standard Room",
+          "name": "standard",
           "pricePerNight": 60000,
           "capacity": 2,
           "amenities": []
@@ -808,12 +1006,17 @@
       "phone": "7047000608",
       "whatsapp": "7047000608"
     },
-    "images": [],
+    "images": [
+      {
+        "url": "https://res.cloudinary.com/debpabo0a/image/upload/v1761828191/wzpfaj1eijplrfcgnsof.jpg",
+        "public_id": "wzpfaj1eijplrfcgnsof"
+      }
+    ],
     "price": 60000,
     "details": {
       "roomTypes": [
         {
-          "name": "Standard Room",
+          "name": "standard",
           "pricePerNight": 60000,
           "capacity": 2,
           "amenities": []
@@ -821,7 +1024,8 @@
       ],
       "checkInTime": "14:00",
       "checkOutTime": "12:00"
-    }
+    },
+    "description": "BRAVA HOTEL - Quality service and excellent facilities."
   },
   {
     "vendorId": "69558890c263664d295678ab",
@@ -840,16 +1044,28 @@
       "whatsapp": "09167641873"
     },
     "images": [
-      "https://res.cloudinary.com/debpabo0a/image/upload/v1765459452/agd93vhfvsgtc8a2ucwo.jpg",
-      "https://res.cloudinary.com/debpabo0a/image/upload/v1765459452/fpjkmvxcdekjuz2y1u7k.jpg",
-      "https://res.cloudinary.com/debpabo0a/image/upload/v1765459452/pavlavqpepaghbrnbfya.jpg",
-      "https://res.cloudinary.com/debpabo0a/image/upload/v1765459470/uxgvqjqecettf4aksazl.jpg"
+      {
+        "url": "https://res.cloudinary.com/debpabo0a/image/upload/v1765459452/agd93vhfvsgtc8a2ucwo.jpg",
+        "public_id": "agd93vhfvsgtc8a2ucwo"
+      },
+      {
+        "url": "https://res.cloudinary.com/debpabo0a/image/upload/v1765459452/fpjkmvxcdekjuz2y1u7k.jpg",
+        "public_id": "fpjkmvxcdekjuz2y1u7k"
+      },
+      {
+        "url": "https://res.cloudinary.com/debpabo0a/image/upload/v1765459452/pavlavqpepaghbrnbfya.jpg",
+        "public_id": "pavlavqpepaghbrnbfya"
+      },
+      {
+        "url": "https://res.cloudinary.com/debpabo0a/image/upload/v1765459470/uxgvqjqecettf4aksazl.jpg",
+        "public_id": "uxgvqjqecettf4aksazl"
+      }
     ],
     "price": 28000,
     "details": {
       "roomTypes": [
         {
-          "name": "Standard Room",
+          "name": "standard",
           "pricePerNight": 28000,
           "capacity": 2,
           "amenities": []
@@ -857,7 +1073,8 @@
       ],
       "checkInTime": "14:00",
       "checkOutTime": "12:00"
-    }
+    },
+    "description": "BRIGHTON HOTEL & SUITES - Quality service and excellent facilities."
   },
   {
     "vendorId": "69558890c263664d295678ab",
@@ -877,9 +1094,18 @@
       "whatsapp": "2348099903274"
     },
     "images": [
-      "https://res.cloudinary.com/debpabo0a/image/upload/v1761051348/fnluud3v5qeqratt2vqz.jpg",
-      "https://res.cloudinary.com/debpabo0a/image/upload/v1765462728/d8jzgj7ecs03fs4pgd4c.jpg",
-      "https://res.cloudinary.com/debpabo0a/image/upload/v1765462728/fokreguvcth8dpfsj84r.jpg"
+      {
+        "url": "https://res.cloudinary.com/debpabo0a/image/upload/v1761051348/fnluud3v5qeqratt2vqz.jpg",
+        "public_id": "fnluud3v5qeqratt2vqz"
+      },
+      {
+        "url": "https://res.cloudinary.com/debpabo0a/image/upload/v1765462728/d8jzgj7ecs03fs4pgd4c.jpg",
+        "public_id": "d8jzgj7ecs03fs4pgd4c"
+      },
+      {
+        "url": "https://res.cloudinary.com/debpabo0a/image/upload/v1765462728/fokreguvcth8dpfsj84r.jpg",
+        "public_id": "fokreguvcth8dpfsj84r"
+      }
     ],
     "price": 5000,
     "details": {
@@ -905,12 +1131,17 @@
       "phone": "8069957931",
       "whatsapp": "8069957931"
     },
-    "images": [],
+    "images": [
+      {
+        "url": "https://res.cloudinary.com/debpabo0a/image/upload/v1761828191/wzpfaj1eijplrfcgnsof.jpg",
+        "public_id": "wzpfaj1eijplrfcgnsof"
+      }
+    ],
     "price": 11000,
     "details": {
       "roomTypes": [
         {
-          "name": "Standard Room",
+          "name": "standard",
           "pricePerNight": 11000,
           "capacity": 2,
           "amenities": []
@@ -918,7 +1149,8 @@
       ],
       "checkInTime": "14:00",
       "checkOutTime": "12:00"
-    }
+    },
+    "description": "CAPITAL HOTELS - Quality service and excellent facilities."
   },
   {
     "vendorId": "69558890c263664d295678ab",
@@ -938,13 +1170,17 @@
       "whatsapp": "2348033775152"
     },
     "images": [
-      "https://res.cloudinary.com/debpabo0a/image/upload/v1761050288/vk6ba8oofhjs9pd66q5n.jpg"
+      {
+        "url": "https://res.cloudinary.com/debpabo0a/image/upload/v1761050288/vk6ba8oofhjs9pd66q5n.jpg",
+        "public_id": "vk6ba8oofhjs9pd66q5n"
+      }
     ],
     "price": 1000,
     "details": {
       "eventDate": "2025-12-29T15:13:50.599Z",
       "venue": "Omolayo Estate Akobo Ibadan",
-      "capacity": 50
+      "capacity": 50,
+      "ticketPrice": 1000
     }
   },
   {
@@ -959,16 +1195,18 @@
         "lng": null
       }
     },
-    "contactInformation": {
-      "phone": null,
-      "whatsapp": null
-    },
-    "images": [],
+    "contactInformation": {},
+    "images": [
+      {
+        "url": "https://res.cloudinary.com/debpabo0a/image/upload/v1761828191/wzpfaj1eijplrfcgnsof.jpg",
+        "public_id": "wzpfaj1eijplrfcgnsof"
+      }
+    ],
     "price": 60000,
     "details": {
       "roomTypes": [
         {
-          "name": "Standard Room",
+          "name": "standard",
           "pricePerNight": 60000,
           "capacity": 2,
           "amenities": []
@@ -976,7 +1214,8 @@
       ],
       "checkInTime": "14:00",
       "checkOutTime": "12:00"
-    }
+    },
+    "description": "CHECKINN PRIME SUITES AND RESORTS - Quality service and excellent facilities."
   },
   {
     "vendorId": "69558890c263664d295678ab",
@@ -996,14 +1235,20 @@
       "whatsapp": "2348123298591"
     },
     "images": [
-      "https://res.cloudinary.com/debpabo0a/image/upload/v1761308892/g5xgo1gj890i9w6nicj0.jpg",
-      "https://res.cloudinary.com/debpabo0a/image/upload/v1765462828/gm6b7sewwtpxmggn5pnj.jpg"
+      {
+        "url": "https://res.cloudinary.com/debpabo0a/image/upload/v1761308892/g5xgo1gj890i9w6nicj0.jpg",
+        "public_id": "g5xgo1gj890i9w6nicj0"
+      },
+      {
+        "url": "https://res.cloudinary.com/debpabo0a/image/upload/v1765462828/gm6b7sewwtpxmggn5pnj.jpg",
+        "public_id": "gm6b7sewwtpxmggn5pnj"
+      }
     ],
     "price": 50000,
     "details": {
       "roomTypes": [
         {
-          "name": "Standard Room",
+          "name": "standard",
           "pricePerNight": 50000,
           "capacity": 2,
           "amenities": []
@@ -1030,15 +1275,30 @@
       "whatsapp": "8034836279"
     },
     "images": [
-      "https://res.cloudinary.com/debpabo0a/image/upload/v1765463013/h2s48frxhliv4yqf5czq.jpg",
-      "https://res.cloudinary.com/debpabo0a/image/upload/v1765463013/q9n2q2aidos1axh382ek.jpg",
-      "https://res.cloudinary.com/debpabo0a/image/upload/v1765463013/exu7eq6q82penfiyuuqd.jpg",
-      "https://res.cloudinary.com/debpabo0a/image/upload/v1765463044/ktgvi7aqn6dxk5xrm9bh.jpg"
+      {
+        "url": "https://res.cloudinary.com/debpabo0a/image/upload/v1765463013/h2s48frxhliv4yqf5czq.jpg",
+        "public_id": "h2s48frxhliv4yqf5czq"
+      },
+      {
+        "url": "https://res.cloudinary.com/debpabo0a/image/upload/v1765463013/q9n2q2aidos1axh382ek.jpg",
+        "public_id": "q9n2q2aidos1axh382ek"
+      },
+      {
+        "url": "https://res.cloudinary.com/debpabo0a/image/upload/v1765463013/exu7eq6q82penfiyuuqd.jpg",
+        "public_id": "exu7eq6q82penfiyuuqd"
+      },
+      {
+        "url": "https://res.cloudinary.com/debpabo0a/image/upload/v1765463044/ktgvi7aqn6dxk5xrm9bh.jpg",
+        "public_id": "ktgvi7aqn6dxk5xrm9bh"
+      }
     ],
     "details": {
       "maxGuests": 2,
-      "amenities": []
-    }
+      "amenities": [],
+      "pricePerNight": 1000
+    },
+    "description": "CLARUS APARTMENT - Quality service and excellent facilities.",
+    "price": 1000
   },
   {
     "vendorId": "69558890c263664d295678ab",
@@ -1057,16 +1317,28 @@
       "whatsapp": "9039591450"
     },
     "images": [
-      "https://res.cloudinary.com/debpabo0a/image/upload/v1765463117/x5hnxjyn3h2nbznlv9ul.jpg",
-      "https://res.cloudinary.com/debpabo0a/image/upload/v1765463117/fzlh9tff7n8nsgaexbw0.jpg",
-      "https://res.cloudinary.com/debpabo0a/image/upload/v1765463162/xo2wx4u3unchcy3jxmcf.jpg",
-      "https://res.cloudinary.com/debpabo0a/image/upload/v1765463162/amqiyqpcqc5tmmtzypqz.jpg"
+      {
+        "url": "https://res.cloudinary.com/debpabo0a/image/upload/v1765463117/x5hnxjyn3h2nbznlv9ul.jpg",
+        "public_id": "x5hnxjyn3h2nbznlv9ul"
+      },
+      {
+        "url": "https://res.cloudinary.com/debpabo0a/image/upload/v1765463117/fzlh9tff7n8nsgaexbw0.jpg",
+        "public_id": "fzlh9tff7n8nsgaexbw0"
+      },
+      {
+        "url": "https://res.cloudinary.com/debpabo0a/image/upload/v1765463162/xo2wx4u3unchcy3jxmcf.jpg",
+        "public_id": "xo2wx4u3unchcy3jxmcf"
+      },
+      {
+        "url": "https://res.cloudinary.com/debpabo0a/image/upload/v1765463162/amqiyqpcqc5tmmtzypqz.jpg",
+        "public_id": "amqiyqpcqc5tmmtzypqz"
+      }
     ],
     "price": 25000,
     "details": {
       "roomTypes": [
         {
-          "name": "Standard Room",
+          "name": "standard",
           "pricePerNight": 25000,
           "capacity": 2,
           "amenities": []
@@ -1074,7 +1346,8 @@
       ],
       "checkInTime": "14:00",
       "checkOutTime": "12:00"
-    }
+    },
+    "description": "CLASSICUS INN - Quality service and excellent facilities."
   },
   {
     "vendorId": "69558890c263664d295678ab",
@@ -1093,16 +1366,28 @@
       "whatsapp": "07030962950"
     },
     "images": [
-      "https://res.cloudinary.com/debpabo0a/image/upload/v1765463273/qe7bpw4dnvvoifxnf0ii.jpg",
-      "https://res.cloudinary.com/debpabo0a/image/upload/v1765463273/ctuhyffnxrutpnq2rh7m.jpg",
-      "https://res.cloudinary.com/debpabo0a/image/upload/v1765463273/duhhbbdir5ncd4tsopid.jpg",
-      "https://res.cloudinary.com/debpabo0a/image/upload/v1765463273/ifv30wolsibcjirkrl7y.jpg"
+      {
+        "url": "https://res.cloudinary.com/debpabo0a/image/upload/v1765463273/qe7bpw4dnvvoifxnf0ii.jpg",
+        "public_id": "qe7bpw4dnvvoifxnf0ii"
+      },
+      {
+        "url": "https://res.cloudinary.com/debpabo0a/image/upload/v1765463273/ctuhyffnxrutpnq2rh7m.jpg",
+        "public_id": "ctuhyffnxrutpnq2rh7m"
+      },
+      {
+        "url": "https://res.cloudinary.com/debpabo0a/image/upload/v1765463273/duhhbbdir5ncd4tsopid.jpg",
+        "public_id": "duhhbbdir5ncd4tsopid"
+      },
+      {
+        "url": "https://res.cloudinary.com/debpabo0a/image/upload/v1765463273/ifv30wolsibcjirkrl7y.jpg",
+        "public_id": "ifv30wolsibcjirkrl7y"
+      }
     ],
     "price": 15000,
     "details": {
       "roomTypes": [
         {
-          "name": "Standard Room",
+          "name": "standard",
           "pricePerNight": 15000,
           "capacity": 2,
           "amenities": []
@@ -1110,13 +1395,14 @@
       ],
       "checkInTime": "14:00",
       "checkOutTime": "12:00"
-    }
+    },
+    "description": "CLINCLIA HOTEL - Quality service and excellent facilities."
   },
   {
     "vendorId": "69558890c263664d295678ab",
     "category": "hotel",
     "title": "Damjay Hotel and Suites",
-    "description": "Damjay Hotels and Suites is a 3-Star lodging facility located at Ikolaba-Agodi GRA, Ibadan. Oyo State. If you’re looking for a comfortable, well secured hotel with latest facilities in Ibadan and major cities in Nigeria, then consider making Damjay Hotel and Suites your first choice\n\nDamjay Hotels are carefully designed with state of the art amenities to suit all forms of leisure and resort experience. We understand the essence of hospitality and we are proud to be your best choice when it comes to classic and luxurious hospitable facilities around the country. We provide our guests with the best experience possible. You can’t know it until you’re there.",
+    "description": "Damjay Hotels and Suites is a 3-Star lodging facility located at Ikolaba-Agodi GRA, Ibadan. Oyo State. If you’re looking for a comfortable, well secured hotel with latest facilities in Ibadan and major cities in Nigeria, then consider making Damjay Hotel and Suites your first choice\n\nDamjay Hotels are carefully designed with state of the art amenities to suit all forms of leisure and resort experience. We understand the essence of hospitality and we are proud to be your best choice when it co...",
     "location": {
       "address": "19 Osungbekun Avenue, Agodi, GRA, Ibadan.",
       "area": "Ikolaba",
@@ -1130,17 +1416,28 @@
       "whatsapp": "2348039900400"
     },
     "images": [
-      "https://res.cloudinary.com/debpabo0a/image/upload/v1761734182/gysb6soxziqoi7mwqddr.jpg",
-      "https://res.cloudinary.com/debpabo0a/image/upload/v1765463381/f7avveplmcqjr007pjei.jpg",
-      "https://res.cloudinary.com/debpabo0a/image/upload/v1765463381/as9mqc3dgpoprspjc5zo.jpg",
-      "https://res.cloudinary.com/debpabo0a/image/upload/v1765463382/woy9saubeitjavwsydrw.jpg",
-      "https://res.cloudinary.com/debpabo0a/image/upload/v1765463381/aumue4fpoukegtry4g3w.jpg"
+      {
+        "url": "https://res.cloudinary.com/debpabo0a/image/upload/v1761734182/gysb6soxziqoi7mwqddr.jpg",
+        "public_id": "gysb6soxziqoi7mwqddr"
+      },
+      {
+        "url": "https://res.cloudinary.com/debpabo0a/image/upload/v1765463381/f7avveplmcqjr007pjei.jpg",
+        "public_id": "f7avveplmcqjr007pjei"
+      },
+      {
+        "url": "https://res.cloudinary.com/debpabo0a/image/upload/v1765463381/as9mqc3dgpoprspjc5zo.jpg",
+        "public_id": "as9mqc3dgpoprspjc5zo"
+      },
+      {
+        "url": "https://res.cloudinary.com/debpabo0a/image/upload/v1765463382/woy9saubeitjavwsydrw.jpg",
+        "public_id": "woy9saubeitjavwsydrw"
+      }
     ],
     "price": 26000,
     "details": {
       "roomTypes": [
         {
-          "name": "Standard Room",
+          "name": "standard",
           "pricePerNight": 26000,
           "capacity": 2,
           "amenities": []
@@ -1167,15 +1464,24 @@
       "whatsapp": "8165920792"
     },
     "images": [
-      "https://res.cloudinary.com/debpabo0a/image/upload/v1765463527/jyui0rhx059s1p3u8pgq.jpg",
-      "https://res.cloudinary.com/debpabo0a/image/upload/v1765463528/zefsz0enjoptqzzfeykg.jpg",
-      "https://res.cloudinary.com/debpabo0a/image/upload/v1765463629/imchtko4fqbpkidlhjbm.jpg"
+      {
+        "url": "https://res.cloudinary.com/debpabo0a/image/upload/v1765463527/jyui0rhx059s1p3u8pgq.jpg",
+        "public_id": "jyui0rhx059s1p3u8pgq"
+      },
+      {
+        "url": "https://res.cloudinary.com/debpabo0a/image/upload/v1765463528/zefsz0enjoptqzzfeykg.jpg",
+        "public_id": "zefsz0enjoptqzzfeykg"
+      },
+      {
+        "url": "https://res.cloudinary.com/debpabo0a/image/upload/v1765463629/imchtko4fqbpkidlhjbm.jpg",
+        "public_id": "imchtko4fqbpkidlhjbm"
+      }
     ],
     "price": 35000,
     "details": {
       "roomTypes": [
         {
-          "name": "Standard Room",
+          "name": "standard",
           "pricePerNight": 35000,
           "capacity": 2,
           "amenities": []
@@ -1183,7 +1489,8 @@
       ],
       "checkInTime": "14:00",
       "checkOutTime": "12:00"
-    }
+    },
+    "description": "DANEST HOTEL AND SUITES - Quality service and excellent facilities."
   },
   {
     "vendorId": "69558890c263664d295678ab",
@@ -1201,12 +1508,17 @@
       "phone": "7038305301",
       "whatsapp": "7038305301"
     },
-    "images": [],
+    "images": [
+      {
+        "url": "https://res.cloudinary.com/debpabo0a/image/upload/v1761828191/wzpfaj1eijplrfcgnsof.jpg",
+        "public_id": "wzpfaj1eijplrfcgnsof"
+      }
+    ],
     "price": 25000,
     "details": {
       "roomTypes": [
         {
-          "name": "Standard Room",
+          "name": "standard",
           "pricePerNight": 25000,
           "capacity": 2,
           "amenities": []
@@ -1214,7 +1526,8 @@
       ],
       "checkInTime": "14:00",
       "checkOutTime": "12:00"
-    }
+    },
+    "description": "DARLINGTON PALACE HOTEL NIG.LTD - Quality service and excellent facilities."
   },
   {
     "vendorId": "69558890c263664d295678ab",
@@ -1233,16 +1546,28 @@
       "whatsapp": "9120032156"
     },
     "images": [
-      "https://res.cloudinary.com/debpabo0a/image/upload/v1765463697/dtb5zlciubl5dcksq1w7.jpg",
-      "https://res.cloudinary.com/debpabo0a/image/upload/v1765463697/armxbf0ae5dlinfckebt.jpg",
-      "https://res.cloudinary.com/debpabo0a/image/upload/v1765463698/psndokt53o7vs7dqnlec.jpg",
-      "https://res.cloudinary.com/debpabo0a/image/upload/v1765463698/oukoxswecb0jo5um7ddj.jpg"
+      {
+        "url": "https://res.cloudinary.com/debpabo0a/image/upload/v1765463697/dtb5zlciubl5dcksq1w7.jpg",
+        "public_id": "dtb5zlciubl5dcksq1w7"
+      },
+      {
+        "url": "https://res.cloudinary.com/debpabo0a/image/upload/v1765463697/armxbf0ae5dlinfckebt.jpg",
+        "public_id": "armxbf0ae5dlinfckebt"
+      },
+      {
+        "url": "https://res.cloudinary.com/debpabo0a/image/upload/v1765463698/psndokt53o7vs7dqnlec.jpg",
+        "public_id": "psndokt53o7vs7dqnlec"
+      },
+      {
+        "url": "https://res.cloudinary.com/debpabo0a/image/upload/v1765463698/oukoxswecb0jo5um7ddj.jpg",
+        "public_id": "oukoxswecb0jo5um7ddj"
+      }
     ],
     "price": 40000,
     "details": {
       "roomTypes": [
         {
-          "name": "Standard Room",
+          "name": "standard",
           "pricePerNight": 40000,
           "capacity": 2,
           "amenities": []
@@ -1250,7 +1575,8 @@
       ],
       "checkInTime": "14:00",
       "checkOutTime": "12:00"
-    }
+    },
+    "description": "DAVIES HOTEL - Quality service and excellent facilities."
   },
   {
     "vendorId": "69558890c263664d295678ab",
@@ -1269,16 +1595,28 @@
       "whatsapp": "07047300026"
     },
     "images": [
-      "https://res.cloudinary.com/debpabo0a/image/upload/v1765463792/vuzagim3pmvibthlbsfs.jpg",
-      "https://res.cloudinary.com/debpabo0a/image/upload/v1765463792/fgmg9snkwyrbv1vgb38d.jpg",
-      "https://res.cloudinary.com/debpabo0a/image/upload/v1765463815/vptyhsrleytdo6owrfcb.jpg",
-      "https://res.cloudinary.com/debpabo0a/image/upload/v1765463815/mliayspijl0ulrgd5n73.jpg"
+      {
+        "url": "https://res.cloudinary.com/debpabo0a/image/upload/v1765463792/vuzagim3pmvibthlbsfs.jpg",
+        "public_id": "vuzagim3pmvibthlbsfs"
+      },
+      {
+        "url": "https://res.cloudinary.com/debpabo0a/image/upload/v1765463792/fgmg9snkwyrbv1vgb38d.jpg",
+        "public_id": "fgmg9snkwyrbv1vgb38d"
+      },
+      {
+        "url": "https://res.cloudinary.com/debpabo0a/image/upload/v1765463815/vptyhsrleytdo6owrfcb.jpg",
+        "public_id": "vptyhsrleytdo6owrfcb"
+      },
+      {
+        "url": "https://res.cloudinary.com/debpabo0a/image/upload/v1765463815/mliayspijl0ulrgd5n73.jpg",
+        "public_id": "mliayspijl0ulrgd5n73"
+      }
     ],
     "price": 105000,
     "details": {
       "roomTypes": [
         {
-          "name": "Standard Room",
+          "name": "standard",
           "pricePerNight": 105000,
           "capacity": 2,
           "amenities": []
@@ -1286,7 +1624,8 @@
       ],
       "checkInTime": "14:00",
       "checkOutTime": "12:00"
-    }
+    },
+    "description": "DE SIGNATURE TOWER - Quality service and excellent facilities."
   },
   {
     "vendorId": "69558890c263664d295678ab",
@@ -1305,16 +1644,28 @@
       "whatsapp": "8148717017"
     },
     "images": [
-      "https://res.cloudinary.com/debpabo0a/image/upload/v1765464168/vlwsmqs4gxri8usihvad.jpg",
-      "https://res.cloudinary.com/debpabo0a/image/upload/v1765464168/vdeqx2mw1gapjbthq5gh.jpg",
-      "https://res.cloudinary.com/debpabo0a/image/upload/v1765464168/cdkpggn6rm6hczpm0ml4.jpg",
-      "https://res.cloudinary.com/debpabo0a/image/upload/v1765464168/qyzo8xe2zneeumsklgwi.jpg"
+      {
+        "url": "https://res.cloudinary.com/debpabo0a/image/upload/v1765464168/vlwsmqs4gxri8usihvad.jpg",
+        "public_id": "vlwsmqs4gxri8usihvad"
+      },
+      {
+        "url": "https://res.cloudinary.com/debpabo0a/image/upload/v1765464168/vdeqx2mw1gapjbthq5gh.jpg",
+        "public_id": "vdeqx2mw1gapjbthq5gh"
+      },
+      {
+        "url": "https://res.cloudinary.com/debpabo0a/image/upload/v1765464168/cdkpggn6rm6hczpm0ml4.jpg",
+        "public_id": "cdkpggn6rm6hczpm0ml4"
+      },
+      {
+        "url": "https://res.cloudinary.com/debpabo0a/image/upload/v1765464168/qyzo8xe2zneeumsklgwi.jpg",
+        "public_id": "qyzo8xe2zneeumsklgwi"
+      }
     ],
     "price": 45000,
     "details": {
       "roomTypes": [
         {
-          "name": "Standard Room",
+          "name": "standard",
           "pricePerNight": 45000,
           "capacity": 2,
           "amenities": []
@@ -1322,7 +1673,8 @@
       ],
       "checkInTime": "14:00",
       "checkOutTime": "12:00"
-    }
+    },
+    "description": "DE'MANCHY HOTELS AND SUITES - Quality service and excellent facilities."
   },
   {
     "vendorId": "69558890c263664d295678ab",
@@ -1342,15 +1694,24 @@
       "whatsapp": "2348133690856"
     },
     "images": [
-      "https://res.cloudinary.com/debpabo0a/image/upload/v1760706477/jz91tiermvp28g6lwtfq.jpg",
-      "https://res.cloudinary.com/debpabo0a/image/upload/v1765464388/arbgzilusp9bhdi3aq8f.jpg",
-      "https://res.cloudinary.com/debpabo0a/image/upload/v1761309086/vlvyihoigtupsz3sr9cp.jpg"
+      {
+        "url": "https://res.cloudinary.com/debpabo0a/image/upload/v1760706477/jz91tiermvp28g6lwtfq.jpg",
+        "public_id": "jz91tiermvp28g6lwtfq"
+      },
+      {
+        "url": "https://res.cloudinary.com/debpabo0a/image/upload/v1765464388/arbgzilusp9bhdi3aq8f.jpg",
+        "public_id": "arbgzilusp9bhdi3aq8f"
+      },
+      {
+        "url": "https://res.cloudinary.com/debpabo0a/image/upload/v1761309086/vlvyihoigtupsz3sr9cp.jpg",
+        "public_id": "vlvyihoigtupsz3sr9cp"
+      }
     ],
     "price": 25000,
     "details": {
       "roomTypes": [
         {
-          "name": "Standard Room",
+          "name": "standard",
           "pricePerNight": 25000,
           "capacity": 2,
           "amenities": []
@@ -1378,13 +1739,16 @@
       "whatsapp": "2348177777971"
     },
     "images": [
-      "https://res.cloudinary.com/debpabo0a/image/upload/v1761733305/pflgfvxmduymjtjmyolk.jpg"
+      {
+        "url": "https://res.cloudinary.com/debpabo0a/image/upload/v1761733305/pflgfvxmduymjtjmyolk.jpg",
+        "public_id": "pflgfvxmduymjtjmyolk"
+      }
     ],
     "price": 24000,
     "details": {
       "roomTypes": [
         {
-          "name": "Standard Room",
+          "name": "standard",
           "pricePerNight": 24000,
           "capacity": 2,
           "amenities": []
@@ -1411,15 +1775,24 @@
       "whatsapp": "8148808800"
     },
     "images": [
-      "https://res.cloudinary.com/debpabo0a/image/upload/v1765464481/hlcunogxi4wgpkj92nwq.jpg",
-      "https://res.cloudinary.com/debpabo0a/image/upload/v1765464481/dgj57aws0ycen9onqm8i.jpg",
-      "https://res.cloudinary.com/debpabo0a/image/upload/v1765464524/gez1xbgvupvretnc3zsc.jpg"
+      {
+        "url": "https://res.cloudinary.com/debpabo0a/image/upload/v1765464481/hlcunogxi4wgpkj92nwq.jpg",
+        "public_id": "hlcunogxi4wgpkj92nwq"
+      },
+      {
+        "url": "https://res.cloudinary.com/debpabo0a/image/upload/v1765464481/dgj57aws0ycen9onqm8i.jpg",
+        "public_id": "dgj57aws0ycen9onqm8i"
+      },
+      {
+        "url": "https://res.cloudinary.com/debpabo0a/image/upload/v1765464524/gez1xbgvupvretnc3zsc.jpg",
+        "public_id": "gez1xbgvupvretnc3zsc"
+      }
     ],
     "price": 22000,
     "details": {
       "roomTypes": [
         {
-          "name": "Standard Room",
+          "name": "standard",
           "pricePerNight": 22000,
           "capacity": 2,
           "amenities": []
@@ -1427,7 +1800,8 @@
       ],
       "checkInTime": "14:00",
       "checkOutTime": "12:00"
-    }
+    },
+    "description": "Development Support Center (DSC)\n HOTEL - Quality service and excellent facilities."
   },
   {
     "vendorId": "69558890c263664d295678ab",
@@ -1447,13 +1821,16 @@
       "whatsapp": "2349152299586"
     },
     "images": [
-      "https://res.cloudinary.com/debpabo0a/image/upload/v1761735155/gpplxa19cggjnpt6cbiw.jpg"
+      {
+        "url": "https://res.cloudinary.com/debpabo0a/image/upload/v1761735155/gpplxa19cggjnpt6cbiw.jpg",
+        "public_id": "gpplxa19cggjnpt6cbiw"
+      }
     ],
     "price": 20000,
     "details": {
       "roomTypes": [
         {
-          "name": "Standard Room",
+          "name": "standard",
           "pricePerNight": 20000,
           "capacity": 2,
           "amenities": []
@@ -1480,13 +1857,16 @@
       "whatsapp": "7040437168"
     },
     "images": [
-      "https://res.cloudinary.com/debpabo0a/image/upload/v1765464612/djoqvat9r3zzdkh2re9v.jpg"
+      {
+        "url": "https://res.cloudinary.com/debpabo0a/image/upload/v1765464612/djoqvat9r3zzdkh2re9v.jpg",
+        "public_id": "djoqvat9r3zzdkh2re9v"
+      }
     ],
     "price": 25000,
     "details": {
       "roomTypes": [
         {
-          "name": "Standard Room",
+          "name": "standard",
           "pricePerNight": 25000,
           "capacity": 2,
           "amenities": []
@@ -1494,7 +1874,8 @@
       ],
       "checkInTime": "14:00",
       "checkOutTime": "12:00"
-    }
+    },
+    "description": "DOPAD HILLS HOTEL & SUITES - Quality service and excellent facilities."
   },
   {
     "vendorId": "69558890c263664d295678ab",
@@ -1513,15 +1894,24 @@
       "whatsapp": "8061488057"
     },
     "images": [
-      "https://res.cloudinary.com/debpabo0a/image/upload/v1765464694/y2kc19nl2og7pmxgf3zz.jpg",
-      "https://res.cloudinary.com/debpabo0a/image/upload/v1765464694/qu95d8nwpjkrmxeax1hy.jpg",
-      "https://res.cloudinary.com/debpabo0a/image/upload/v1765464694/txktehoalsmyxqudtghf.jpg"
+      {
+        "url": "https://res.cloudinary.com/debpabo0a/image/upload/v1765464694/y2kc19nl2og7pmxgf3zz.jpg",
+        "public_id": "y2kc19nl2og7pmxgf3zz"
+      },
+      {
+        "url": "https://res.cloudinary.com/debpabo0a/image/upload/v1765464694/qu95d8nwpjkrmxeax1hy.jpg",
+        "public_id": "qu95d8nwpjkrmxeax1hy"
+      },
+      {
+        "url": "https://res.cloudinary.com/debpabo0a/image/upload/v1765464694/txktehoalsmyxqudtghf.jpg",
+        "public_id": "txktehoalsmyxqudtghf"
+      }
     ],
     "price": 29000,
     "details": {
       "roomTypes": [
         {
-          "name": "Standard Room",
+          "name": "standard",
           "pricePerNight": 29000,
           "capacity": 2,
           "amenities": []
@@ -1529,7 +1919,8 @@
       ],
       "checkInTime": "14:00",
       "checkOutTime": "12:00"
-    }
+    },
+    "description": "DREAM SUITES - Quality service and excellent facilities."
   },
   {
     "vendorId": "69558890c263664d295678ab",
@@ -1548,21 +1939,33 @@
       "whatsapp": "8025612883"
     },
     "images": [
-      "https://res.cloudinary.com/debpabo0a/image/upload/v1765464789/elqi90il8lkx6loba7mw.jpg",
-      "https://res.cloudinary.com/debpabo0a/image/upload/v1765464790/ziwtxspybzk4yb2upq8y.jpg",
-      "https://res.cloudinary.com/debpabo0a/image/upload/v1765464789/hgt348wl1yazwogrqwxj.jpg"
+      {
+        "url": "https://res.cloudinary.com/debpabo0a/image/upload/v1765464789/elqi90il8lkx6loba7mw.jpg",
+        "public_id": "elqi90il8lkx6loba7mw"
+      },
+      {
+        "url": "https://res.cloudinary.com/debpabo0a/image/upload/v1765464790/ziwtxspybzk4yb2upq8y.jpg",
+        "public_id": "ziwtxspybzk4yb2upq8y"
+      },
+      {
+        "url": "https://res.cloudinary.com/debpabo0a/image/upload/v1765464789/hgt348wl1yazwogrqwxj.jpg",
+        "public_id": "hgt348wl1yazwogrqwxj"
+      }
     ],
     "details": {
       "roomTypes": [
         {
-          "name": "Standard Room",
+          "name": "standard",
           "capacity": 2,
-          "amenities": []
+          "amenities": [],
+          "pricePerNight": 1000
         }
       ],
       "checkInTime": "14:00",
       "checkOutTime": "12:00"
-    }
+    },
+    "description": "DUKE RESIDENCE - Quality service and excellent facilities.",
+    "price": 1000
   },
   {
     "vendorId": "69558890c263664d295678ab",
@@ -1581,16 +1984,28 @@
       "whatsapp": "07051420707"
     },
     "images": [
-      "https://res.cloudinary.com/debpabo0a/image/upload/v1765465259/qjm5da90nnllftc8ksgd.jpg",
-      "https://res.cloudinary.com/debpabo0a/image/upload/v1765465259/zkp711lwqiad0rkueyq7.jpg",
-      "https://res.cloudinary.com/debpabo0a/image/upload/v1765465280/ikbexl7lkpfceaz2qpfa.jpg",
-      "https://res.cloudinary.com/debpabo0a/image/upload/v1765465280/rt4dr7rwzx8khe6ujacw.jpg"
+      {
+        "url": "https://res.cloudinary.com/debpabo0a/image/upload/v1765465259/qjm5da90nnllftc8ksgd.jpg",
+        "public_id": "qjm5da90nnllftc8ksgd"
+      },
+      {
+        "url": "https://res.cloudinary.com/debpabo0a/image/upload/v1765465259/zkp711lwqiad0rkueyq7.jpg",
+        "public_id": "zkp711lwqiad0rkueyq7"
+      },
+      {
+        "url": "https://res.cloudinary.com/debpabo0a/image/upload/v1765465280/ikbexl7lkpfceaz2qpfa.jpg",
+        "public_id": "ikbexl7lkpfceaz2qpfa"
+      },
+      {
+        "url": "https://res.cloudinary.com/debpabo0a/image/upload/v1765465280/rt4dr7rwzx8khe6ujacw.jpg",
+        "public_id": "rt4dr7rwzx8khe6ujacw"
+      }
     ],
     "price": 30000,
     "details": {
       "roomTypes": [
         {
-          "name": "Standard Room",
+          "name": "standard",
           "pricePerNight": 30000,
           "capacity": 2,
           "amenities": []
@@ -1598,7 +2013,8 @@
       ],
       "checkInTime": "14:00",
       "checkOutTime": "12:00"
-    }
+    },
+    "description": "E-EXCLUSIVE HOTEL & SUITES - Quality service and excellent facilities."
   },
   {
     "vendorId": "69558890c263664d295678ab",
@@ -1617,22 +2033,37 @@
       "whatsapp": "8031563934"
     },
     "images": [
-      "https://res.cloudinary.com/debpabo0a/image/upload/v1765464959/xadfyccqi691zppbuvgv.jpg",
-      "https://res.cloudinary.com/debpabo0a/image/upload/v1765464959/sxsfpa378z6o7xzuai73.jpg",
-      "https://res.cloudinary.com/debpabo0a/image/upload/v1765464959/brsuefigrcrn7c5aidjl.jpg",
-      "https://res.cloudinary.com/debpabo0a/image/upload/v1765464983/ofgapp6rlxvv0nwvpwhl.jpg"
+      {
+        "url": "https://res.cloudinary.com/debpabo0a/image/upload/v1765464959/xadfyccqi691zppbuvgv.jpg",
+        "public_id": "xadfyccqi691zppbuvgv"
+      },
+      {
+        "url": "https://res.cloudinary.com/debpabo0a/image/upload/v1765464959/sxsfpa378z6o7xzuai73.jpg",
+        "public_id": "sxsfpa378z6o7xzuai73"
+      },
+      {
+        "url": "https://res.cloudinary.com/debpabo0a/image/upload/v1765464959/brsuefigrcrn7c5aidjl.jpg",
+        "public_id": "brsuefigrcrn7c5aidjl"
+      },
+      {
+        "url": "https://res.cloudinary.com/debpabo0a/image/upload/v1765464983/ofgapp6rlxvv0nwvpwhl.jpg",
+        "public_id": "ofgapp6rlxvv0nwvpwhl"
+      }
     ],
     "details": {
       "roomTypes": [
         {
-          "name": "Standard Room",
+          "name": "standard",
           "capacity": 2,
-          "amenities": []
+          "amenities": [],
+          "pricePerNight": 1000
         }
       ],
       "checkInTime": "14:00",
       "checkOutTime": "12:00"
-    }
+    },
+    "description": "EASHREACH COURT HOTEL - Quality service and excellent facilities.",
+    "price": 1000
   },
   {
     "vendorId": "69558890c263664d295678ab",
@@ -1651,16 +2082,28 @@
       "whatsapp": "7041004932"
     },
     "images": [
-      "https://res.cloudinary.com/debpabo0a/image/upload/v1765465160/wclq0cmr1mc60arbmqsx.jpg",
-      "https://res.cloudinary.com/debpabo0a/image/upload/v1765465160/uaguglzs6ppfwuefigoi.jpg",
-      "https://res.cloudinary.com/debpabo0a/image/upload/v1765465160/xhijfoeawa1bf5abxwxq.jpg",
-      "https://res.cloudinary.com/debpabo0a/image/upload/v1765465161/prh5vabdowsxhpjtzo8c.jpg"
+      {
+        "url": "https://res.cloudinary.com/debpabo0a/image/upload/v1765465160/wclq0cmr1mc60arbmqsx.jpg",
+        "public_id": "wclq0cmr1mc60arbmqsx"
+      },
+      {
+        "url": "https://res.cloudinary.com/debpabo0a/image/upload/v1765465160/uaguglzs6ppfwuefigoi.jpg",
+        "public_id": "uaguglzs6ppfwuefigoi"
+      },
+      {
+        "url": "https://res.cloudinary.com/debpabo0a/image/upload/v1765465160/xhijfoeawa1bf5abxwxq.jpg",
+        "public_id": "xhijfoeawa1bf5abxwxq"
+      },
+      {
+        "url": "https://res.cloudinary.com/debpabo0a/image/upload/v1765465161/prh5vabdowsxhpjtzo8c.jpg",
+        "public_id": "prh5vabdowsxhpjtzo8c"
+      }
     ],
     "price": 70000,
     "details": {
       "roomTypes": [
         {
-          "name": "Standard Room",
+          "name": "standard",
           "pricePerNight": 70000,
           "capacity": 2,
           "amenities": []
@@ -1668,13 +2111,14 @@
       ],
       "checkInTime": "14:00",
       "checkOutTime": "12:00"
-    }
+    },
+    "description": "ED & DRE LUXURIA HOTEL - Quality service and excellent facilities."
   },
   {
     "vendorId": "69558890c263664d295678ab",
     "category": "hotel",
     "title": "Emmaag Hotel",
-    "description": "Discover the essence of comfort and elegance at Emmaag Hotel Ibadan, your premier destination for luxury accommodation in the vibrant city of Ibadan. Our hotel is thoughtfully designed to provide an unparalleled experience for both business and leisure travelers, blending modern amenities with the warmth of Nigerian hospitality. Our beautifully appointed rooms and suites offer a serene retreat from the bustling city, featuring contemporary furnishings, plush bedding, and s\n\ntunning views. Each room is equipped with high-speed Wi-Fi, flat-screen TVs, and a well-stocked minibar, ensuring that your stay is as comfortable and convenient as possible. Savor a culinary journey at our on-site restaurant, where our talented chefs craft a delightful array of local and international dishes using the freshest ingredients. Whether you’re enjoying a hearty breakfast, a leisurely lunch, or a gourmet dinner, our dining experience is sure to satisfy. Our stylish bar is the perfect place to unwind with a selection of fine wines, cocktails, and beverages. At Emmaag Hotel Ibadan, we offer a range of amenities to enhance your stay. Relax and rejuvenate at our wellness center, which features a variety of spa treatments and a fully equipped fitness center. Our inviting outdoor swimming pool is ideal for a refreshing dip or lounging by the poolside. For meetings, conferences, and special events, our versatile event spaces are equipped with the latest technology and supported by our dedicated team to ensure every detail is flawlessly executed. From intimate gatherings to grand celebrations, we provide the perfect setting and exceptional service. Conveniently located, Emmaag Hotel Ibadan offers easy access to the city’s major attractions, business districts, and cultural sites. Whether you’re here for business or leisure, our hotel promises a memorable stay marked by luxury, comfort, and attentive service. Experience the perfect blend of style and convenience at Emmaag Hotel Ibadan, where your satisfaction is our top priority.",
+    "description": "Discover the essence of comfort and elegance at Emmaag Hotel Ibadan, your premier destination for luxury accommodation in the vibrant city of Ibadan. Our hotel is thoughtfully designed to provide an unparalleled experience for both business and leisure travelers, blending modern amenities with the warmth of Nigerian hospitality. Our beautifully appointed rooms and suites offer a serene retreat from the bustling city, featuring contemporary furnishings, plush bedding, and s\n\ntunning views. Eac...",
     "location": {
       "address": "1, Ondo Street, Off Osuntokun Avenue, Old Bodija",
       "area": "Bodija",
@@ -1688,13 +2132,16 @@
       "whatsapp": "2348150833330"
     },
     "images": [
-      "https://res.cloudinary.com/debpabo0a/image/upload/v1761311898/sospvfzvgnhuwhmatoab.jpg"
+      {
+        "url": "https://res.cloudinary.com/debpabo0a/image/upload/v1761311898/sospvfzvgnhuwhmatoab.jpg",
+        "public_id": "sospvfzvgnhuwhmatoab"
+      }
     ],
     "price": 38000,
     "details": {
       "roomTypes": [
         {
-          "name": "Standard Room",
+          "name": "standard",
           "pricePerNight": 38000,
           "capacity": 2,
           "amenities": []
@@ -1721,13 +2168,16 @@
       "whatsapp": "8150833330"
     },
     "images": [
-      "https://res.cloudinary.com/debpabo0a/image/upload/v1765465423/xq4pvymzqqqesh33pr0m.jpg"
+      {
+        "url": "https://res.cloudinary.com/debpabo0a/image/upload/v1765465423/xq4pvymzqqqesh33pr0m.jpg",
+        "public_id": "xq4pvymzqqqesh33pr0m"
+      }
     ],
     "price": 45000,
     "details": {
       "roomTypes": [
         {
-          "name": "Standard Room",
+          "name": "standard",
           "pricePerNight": 45000,
           "capacity": 2,
           "amenities": []
@@ -1735,7 +2185,8 @@
       ],
       "checkInTime": "14:00",
       "checkOutTime": "12:00"
-    }
+    },
+    "description": "EMMAAG HOTEL - Quality service and excellent facilities."
   },
   {
     "vendorId": "69558890c263664d295678ab",
@@ -1754,20 +2205,29 @@
       "whatsapp": "8160055078"
     },
     "images": [
-      "https://res.cloudinary.com/debpabo0a/image/upload/v1765465535/c4rjjvspajhp3f6sqg4v.jpg",
-      "https://res.cloudinary.com/debpabo0a/image/upload/v1765465535/kbwf8etksajyo9xadiyz.jpg"
+      {
+        "url": "https://res.cloudinary.com/debpabo0a/image/upload/v1765465535/c4rjjvspajhp3f6sqg4v.jpg",
+        "public_id": "c4rjjvspajhp3f6sqg4v"
+      },
+      {
+        "url": "https://res.cloudinary.com/debpabo0a/image/upload/v1765465535/kbwf8etksajyo9xadiyz.jpg",
+        "public_id": "kbwf8etksajyo9xadiyz"
+      }
     ],
     "details": {
       "roomTypes": [
         {
-          "name": "Standard Room",
+          "name": "standard",
           "capacity": 2,
-          "amenities": []
+          "amenities": [],
+          "pricePerNight": 1000
         }
       ],
       "checkInTime": "14:00",
       "checkOutTime": "12:00"
-    }
+    },
+    "description": "ENIKE HOTEL - Quality service and excellent facilities.",
+    "price": 1000
   },
   {
     "vendorId": "69558890c263664d295678ab",
@@ -1785,12 +2245,17 @@
       "phone": "9070965739",
       "whatsapp": "9070965739"
     },
-    "images": [],
+    "images": [
+      {
+        "url": "https://res.cloudinary.com/debpabo0a/image/upload/v1761828191/wzpfaj1eijplrfcgnsof.jpg",
+        "public_id": "wzpfaj1eijplrfcgnsof"
+      }
+    ],
     "price": 20000,
     "details": {
       "roomTypes": [
         {
-          "name": "Standard Room",
+          "name": "standard",
           "pricePerNight": 20000,
           "capacity": 2,
           "amenities": []
@@ -1798,7 +2263,8 @@
       ],
       "checkInTime": "14:00",
       "checkOutTime": "12:00"
-    }
+    },
+    "description": "EURO HOTEL - Quality service and excellent facilities."
   },
   {
     "vendorId": "69558890c263664d295678ab",
@@ -1816,18 +2282,26 @@
       "phone": "8120766000",
       "whatsapp": "8120766000"
     },
-    "images": [],
+    "images": [
+      {
+        "url": "https://res.cloudinary.com/debpabo0a/image/upload/v1761828191/wzpfaj1eijplrfcgnsof.jpg",
+        "public_id": "wzpfaj1eijplrfcgnsof"
+      }
+    ],
     "details": {
       "roomTypes": [
         {
-          "name": "Standard Room",
+          "name": "standard",
           "capacity": 2,
-          "amenities": []
+          "amenities": [],
+          "pricePerNight": 1000
         }
       ],
       "checkInTime": "14:00",
       "checkOutTime": "12:00"
-    }
+    },
+    "description": "EXCLUSIVE HOTELS IBADAN - Quality service and excellent facilities.",
+    "price": 1000
   },
   {
     "vendorId": "69558890c263664d295678ab",
@@ -1847,7 +2321,10 @@
       "whatsapp": "2348165970343"
     },
     "images": [
-      "https://res.cloudinary.com/debpabo0a/image/upload/v1761132215/ron6gnyzksybs5hgiobt.jpg"
+      {
+        "url": "https://res.cloudinary.com/debpabo0a/image/upload/v1761132215/ron6gnyzksybs5hgiobt.jpg",
+        "public_id": "ron6gnyzksybs5hgiobt"
+      }
     ],
     "price": 50000,
     "details": {
@@ -1873,16 +2350,28 @@
       "whatsapp": "8105479934"
     },
     "images": [
-      "https://res.cloudinary.com/debpabo0a/image/upload/v1765465631/wddtg9dyc1plzt6ucwu2.jpg",
-      "https://res.cloudinary.com/debpabo0a/image/upload/v1765465631/jlx6o9cgvlqbocpgntb8.jpg",
-      "https://res.cloudinary.com/debpabo0a/image/upload/v1765465631/i2acqmgxu4bbptmbdo1d.jpg",
-      "https://res.cloudinary.com/debpabo0a/image/upload/v1765465631/rzoxvqs3e17bwizsch3j.jpg"
+      {
+        "url": "https://res.cloudinary.com/debpabo0a/image/upload/v1765465631/wddtg9dyc1plzt6ucwu2.jpg",
+        "public_id": "wddtg9dyc1plzt6ucwu2"
+      },
+      {
+        "url": "https://res.cloudinary.com/debpabo0a/image/upload/v1765465631/jlx6o9cgvlqbocpgntb8.jpg",
+        "public_id": "jlx6o9cgvlqbocpgntb8"
+      },
+      {
+        "url": "https://res.cloudinary.com/debpabo0a/image/upload/v1765465631/i2acqmgxu4bbptmbdo1d.jpg",
+        "public_id": "i2acqmgxu4bbptmbdo1d"
+      },
+      {
+        "url": "https://res.cloudinary.com/debpabo0a/image/upload/v1765465631/rzoxvqs3e17bwizsch3j.jpg",
+        "public_id": "rzoxvqs3e17bwizsch3j"
+      }
     ],
     "price": 35000,
     "details": {
       "roomTypes": [
         {
-          "name": "Standard Room",
+          "name": "standard",
           "pricePerNight": 35000,
           "capacity": 2,
           "amenities": []
@@ -1890,7 +2379,8 @@
       ],
       "checkInTime": "14:00",
       "checkOutTime": "12:00"
-    }
+    },
+    "description": "FAWZY HOTEL - Quality service and excellent facilities."
   },
   {
     "vendorId": "69558890c263664d295678ab",
@@ -1910,7 +2400,10 @@
       "whatsapp": "2347055560034"
     },
     "images": [
-      "https://res.cloudinary.com/debpabo0a/image/upload/v1761051974/wzlg34majyicw00dtenw.jpg"
+      {
+        "url": "https://res.cloudinary.com/debpabo0a/image/upload/v1761051974/wzlg34majyicw00dtenw.jpg",
+        "public_id": "wzlg34majyicw00dtenw"
+      }
     ],
     "price": 5000,
     "details": {
@@ -1938,8 +2431,14 @@
       "whatsapp": "2348164835744"
     },
     "images": [
-      "https://res.cloudinary.com/debpabo0a/image/upload/v1761314655/g1xmur2fvn3idzcckpp3.jpg",
-      "https://res.cloudinary.com/debpabo0a/image/upload/v1765465894/r85g0fxcswqlcb0tuizy.jpg"
+      {
+        "url": "https://res.cloudinary.com/debpabo0a/image/upload/v1761314655/g1xmur2fvn3idzcckpp3.jpg",
+        "public_id": "g1xmur2fvn3idzcckpp3"
+      },
+      {
+        "url": "https://res.cloudinary.com/debpabo0a/image/upload/v1765465894/r85g0fxcswqlcb0tuizy.jpg",
+        "public_id": "r85g0fxcswqlcb0tuizy"
+      }
     ],
     "price": 50003,
     "details": {
@@ -1966,7 +2465,10 @@
       "whatsapp": "7058319154"
     },
     "images": [
-      "https://res.cloudinary.com/debpabo0a/image/upload/v1761634864/mhw6mfd05wjcddlexo3f.jpg"
+      {
+        "url": "https://res.cloudinary.com/debpabo0a/image/upload/v1761634864/mhw6mfd05wjcddlexo3f.jpg",
+        "public_id": "mhw6mfd05wjcddlexo3f"
+      }
     ],
     "price": 2500,
     "details": {
@@ -1993,23 +2495,37 @@
       "whatsapp": "7055567775"
     },
     "images": [
-      "https://res.cloudinary.com/debpabo0a/image/upload/v1765466508/pzguut2hih8g8lxsdglr.jpg",
-      "https://res.cloudinary.com/debpabo0a/image/upload/v1765466508/rvigi1ip2e5bawmedpec.jpg",
-      "https://res.cloudinary.com/debpabo0a/image/upload/v1765466508/uqvpc3n7u3wfu2rsi9li.jpg",
-      "https://res.cloudinary.com/debpabo0a/image/upload/v1765466508/umpxcul5oxcukwgyysc5.jpg"
+      {
+        "url": "https://res.cloudinary.com/debpabo0a/image/upload/v1765466508/pzguut2hih8g8lxsdglr.jpg",
+        "public_id": "pzguut2hih8g8lxsdglr"
+      },
+      {
+        "url": "https://res.cloudinary.com/debpabo0a/image/upload/v1765466508/rvigi1ip2e5bawmedpec.jpg",
+        "public_id": "rvigi1ip2e5bawmedpec"
+      },
+      {
+        "url": "https://res.cloudinary.com/debpabo0a/image/upload/v1765466508/uqvpc3n7u3wfu2rsi9li.jpg",
+        "public_id": "uqvpc3n7u3wfu2rsi9li"
+      },
+      {
+        "url": "https://res.cloudinary.com/debpabo0a/image/upload/v1765466508/umpxcul5oxcukwgyysc5.jpg",
+        "public_id": "umpxcul5oxcukwgyysc5"
+      }
     ],
     "price": 50000,
     "details": {
       "eventDate": "2025-12-29T15:13:50.599Z",
       "venue": "No 1 abel awe close off oladele ajao, Jericho, Ibadan",
-      "capacity": 50
-    }
+      "capacity": 50,
+      "ticketPrice": 50000
+    },
+    "description": "GALLANISUITES HOTEL, JERICHO - Quality service and excellent facilities."
   },
   {
     "vendorId": "69558890c263664d295678ab",
     "category": "event",
     "title": "GEEKS EVENT PLACE",
-    "description": "Geeks Event Place is proud to call itself one of Ibadan most elegant yet affordable Marquee Event Centre. 🖊Main Banquet Hall; 600guests 🖊Small Banquet Hall; 70 guests * Ibadan’s First and only Complete Glass Marquee. * 600 Banquet seating capacity (Dior & VIP chairs) * Fully Air Conditioned * State of the art Restroom facilities * Gold Crystal Chandeliers * Ample Car Parking Space * Multimedia Display Screens * ONGOING 30% DISCOUNT! With Geeks Event Centre wide range of services and amenities, your Ibadan event is sure to be a success",
+    "description": "Geeks Event Place is proud to call itself one of Ibadan most elegant yet affordable Marquee Event Centre. 🖊Main Banquet Hall; 600guests 🖊Small Banquet Hall; 70 guests * Ibadan’s First and only Complete Glass Marquee. * 600 Banquet seating capacity (Dior & VIP chairs) * Fully Air Conditioned * State of the art Restroom facilities * Gold Crystal Chandeliers * Ample Car Parking Space * Multimedia Display Screens * ONGOING 30% DISCOUNT! With Geeks Event Centre wide range of services and ameniti...",
     "location": {
       "address": "Challenge Expressway, Falana Bus-Stop, Challenge, Ibadan",
       "area": "Challenge",
@@ -2023,13 +2539,17 @@
       "whatsapp": "2348141397546"
     },
     "images": [
-      "https://res.cloudinary.com/debpabo0a/image/upload/v1761737047/h0iv4czh5dzn9hi4cjrn.jpg"
+      {
+        "url": "https://res.cloudinary.com/debpabo0a/image/upload/v1761737047/h0iv4czh5dzn9hi4cjrn.jpg",
+        "public_id": "h0iv4czh5dzn9hi4cjrn"
+      }
     ],
     "price": 100000,
     "details": {
       "eventDate": "2025-12-29T15:13:50.599Z",
       "venue": "Challenge Expressway, Falana Bus-Stop, Challenge, Ibadan",
-      "capacity": 50
+      "capacity": 50,
+      "ticketPrice": 100000
     }
   },
   {
@@ -2049,17 +2569,30 @@
       "whatsapp": "8139436277"
     },
     "images": [
-      "https://res.cloudinary.com/debpabo0a/image/upload/v1765524982/tzpxbi1mgmre590tmflp.jpg",
-      "https://res.cloudinary.com/debpabo0a/image/upload/v1765524982/zx3jwl0exvgcibhi5gey.jpg",
-      "https://res.cloudinary.com/debpabo0a/image/upload/v1765524982/gvky0r6tt5uky5lfojcw.jpg",
-      "https://res.cloudinary.com/debpabo0a/image/upload/v1765524983/tjvjfcjz41o1q1sohbae.jpg"
+      {
+        "url": "https://res.cloudinary.com/debpabo0a/image/upload/v1765524982/tzpxbi1mgmre590tmflp.jpg",
+        "public_id": "tzpxbi1mgmre590tmflp"
+      },
+      {
+        "url": "https://res.cloudinary.com/debpabo0a/image/upload/v1765524982/zx3jwl0exvgcibhi5gey.jpg",
+        "public_id": "zx3jwl0exvgcibhi5gey"
+      },
+      {
+        "url": "https://res.cloudinary.com/debpabo0a/image/upload/v1765524982/gvky0r6tt5uky5lfojcw.jpg",
+        "public_id": "gvky0r6tt5uky5lfojcw"
+      },
+      {
+        "url": "https://res.cloudinary.com/debpabo0a/image/upload/v1765524983/tjvjfcjz41o1q1sohbae.jpg",
+        "public_id": "tjvjfcjz41o1q1sohbae"
+      }
     ],
     "price": 70000,
     "details": {
       "pricePerNight": 70000,
       "maxGuests": 2,
       "amenities": []
-    }
+    },
+    "description": "GEZA LUXURY APARTMENTS - Quality service and excellent facilities."
   },
   {
     "vendorId": "69558890c263664d295678ab",
@@ -2078,15 +2611,24 @@
       "whatsapp": "9060004988"
     },
     "images": [
-      "https://res.cloudinary.com/debpabo0a/image/upload/v1765525075/ex9hxin7xzsijkcrnh6r.jpg",
-      "https://res.cloudinary.com/debpabo0a/image/upload/v1765525075/vgzhb1qy1usogoigzh9p.jpg",
-      "https://res.cloudinary.com/debpabo0a/image/upload/v1765525107/yewepmypeseh55jxlqcq.jpg"
+      {
+        "url": "https://res.cloudinary.com/debpabo0a/image/upload/v1765525075/ex9hxin7xzsijkcrnh6r.jpg",
+        "public_id": "ex9hxin7xzsijkcrnh6r"
+      },
+      {
+        "url": "https://res.cloudinary.com/debpabo0a/image/upload/v1765525075/vgzhb1qy1usogoigzh9p.jpg",
+        "public_id": "vgzhb1qy1usogoigzh9p"
+      },
+      {
+        "url": "https://res.cloudinary.com/debpabo0a/image/upload/v1765525107/yewepmypeseh55jxlqcq.jpg",
+        "public_id": "yewepmypeseh55jxlqcq"
+      }
     ],
     "price": 120000,
     "details": {
       "roomTypes": [
         {
-          "name": "Standard Room",
+          "name": "standard",
           "pricePerNight": 120000,
           "capacity": 2,
           "amenities": []
@@ -2094,7 +2636,8 @@
       ],
       "checkInTime": "14:00",
       "checkOutTime": "12:00"
-    }
+    },
+    "description": "GOLDEN TULIP HOTEL - Quality service and excellent facilities."
   },
   {
     "vendorId": "69558890c263664d295678ab",
@@ -2113,15 +2656,30 @@
       "whatsapp": "9118297664"
     },
     "images": [
-      "https://res.cloudinary.com/debpabo0a/image/upload/v1765525226/aphaqeu7q0uw5rpidt1u.jpg",
-      "https://res.cloudinary.com/debpabo0a/image/upload/v1765525226/bpxbppdl7qsweinb4jfy.jpg",
-      "https://res.cloudinary.com/debpabo0a/image/upload/v1765525226/kyjrw3gawzdigsll7rsh.jpg",
-      "https://res.cloudinary.com/debpabo0a/image/upload/v1765525227/cde30m85psz2umo5900w.jpg"
+      {
+        "url": "https://res.cloudinary.com/debpabo0a/image/upload/v1765525226/aphaqeu7q0uw5rpidt1u.jpg",
+        "public_id": "aphaqeu7q0uw5rpidt1u"
+      },
+      {
+        "url": "https://res.cloudinary.com/debpabo0a/image/upload/v1765525226/bpxbppdl7qsweinb4jfy.jpg",
+        "public_id": "bpxbppdl7qsweinb4jfy"
+      },
+      {
+        "url": "https://res.cloudinary.com/debpabo0a/image/upload/v1765525226/kyjrw3gawzdigsll7rsh.jpg",
+        "public_id": "kyjrw3gawzdigsll7rsh"
+      },
+      {
+        "url": "https://res.cloudinary.com/debpabo0a/image/upload/v1765525227/cde30m85psz2umo5900w.jpg",
+        "public_id": "cde30m85psz2umo5900w"
+      }
     ],
     "details": {
       "maxGuests": 2,
-      "amenities": []
-    }
+      "amenities": [],
+      "pricePerNight": 1000
+    },
+    "description": "GRACE APARTMENTS - Quality service and excellent facilities.",
+    "price": 1000
   },
   {
     "vendorId": "69558890c263664d295678ab",
@@ -2139,13 +2697,19 @@
       "phone": "8101818730",
       "whatsapp": "8101818730"
     },
-    "images": [],
+    "images": [
+      {
+        "url": "https://res.cloudinary.com/debpabo0a/image/upload/v1761828191/wzpfaj1eijplrfcgnsof.jpg",
+        "public_id": "wzpfaj1eijplrfcgnsof"
+      }
+    ],
     "price": 200000,
     "details": {
       "pricePerNight": 200000,
       "maxGuests": 2,
       "amenities": []
-    }
+    },
+    "description": "GRACELITE RESIDENCES - Quality service and excellent facilities."
   },
   {
     "vendorId": "69558890c263664d295678ab",
@@ -2164,16 +2728,28 @@
       "whatsapp": "8066619313"
     },
     "images": [
-      "https://res.cloudinary.com/debpabo0a/image/upload/v1765565036/rkdgfm9whurklff20r6r.jpg",
-      "https://res.cloudinary.com/debpabo0a/image/upload/v1765565037/xf9ouqr4m7vswsly40ly.jpg",
-      "https://res.cloudinary.com/debpabo0a/image/upload/v1765565037/cjjotasudquc78kds2dh.jpg",
-      "https://res.cloudinary.com/debpabo0a/image/upload/v1765565037/n1ckbwxgfvgud1ty2os6.jpg"
+      {
+        "url": "https://res.cloudinary.com/debpabo0a/image/upload/v1765565036/rkdgfm9whurklff20r6r.jpg",
+        "public_id": "rkdgfm9whurklff20r6r"
+      },
+      {
+        "url": "https://res.cloudinary.com/debpabo0a/image/upload/v1765565037/xf9ouqr4m7vswsly40ly.jpg",
+        "public_id": "xf9ouqr4m7vswsly40ly"
+      },
+      {
+        "url": "https://res.cloudinary.com/debpabo0a/image/upload/v1765565037/cjjotasudquc78kds2dh.jpg",
+        "public_id": "cjjotasudquc78kds2dh"
+      },
+      {
+        "url": "https://res.cloudinary.com/debpabo0a/image/upload/v1765565037/n1ckbwxgfvgud1ty2os6.jpg",
+        "public_id": "n1ckbwxgfvgud1ty2os6"
+      }
     ],
     "price": 30000,
     "details": {
       "roomTypes": [
         {
-          "name": "Standard Room",
+          "name": "standard",
           "pricePerNight": 30000,
           "capacity": 2,
           "amenities": []
@@ -2181,7 +2757,8 @@
       ],
       "checkInTime": "14:00",
       "checkOutTime": "12:00"
-    }
+    },
+    "description": "GRAND SERENE HOTELS - Quality service and excellent facilities."
   },
   {
     "vendorId": "69558890c263664d295678ab",
@@ -2200,22 +2777,37 @@
       "whatsapp": "9127894561"
     },
     "images": [
-      "https://res.cloudinary.com/debpabo0a/image/upload/v1765565147/tiikquvnoz0dxxmskoyd.jpg",
-      "https://res.cloudinary.com/debpabo0a/image/upload/v1765565147/y5vdulr8uq8ta2acan0q.jpg",
-      "https://res.cloudinary.com/debpabo0a/image/upload/v1765565147/or7g3nvgpb5cikibbjiy.jpg",
-      "https://res.cloudinary.com/debpabo0a/image/upload/v1765565177/gu5cxpsy0rgyutneedil.jpg"
+      {
+        "url": "https://res.cloudinary.com/debpabo0a/image/upload/v1765565147/tiikquvnoz0dxxmskoyd.jpg",
+        "public_id": "tiikquvnoz0dxxmskoyd"
+      },
+      {
+        "url": "https://res.cloudinary.com/debpabo0a/image/upload/v1765565147/y5vdulr8uq8ta2acan0q.jpg",
+        "public_id": "y5vdulr8uq8ta2acan0q"
+      },
+      {
+        "url": "https://res.cloudinary.com/debpabo0a/image/upload/v1765565147/or7g3nvgpb5cikibbjiy.jpg",
+        "public_id": "or7g3nvgpb5cikibbjiy"
+      },
+      {
+        "url": "https://res.cloudinary.com/debpabo0a/image/upload/v1765565177/gu5cxpsy0rgyutneedil.jpg",
+        "public_id": "gu5cxpsy0rgyutneedil"
+      }
     ],
     "details": {
       "roomTypes": [
         {
-          "name": "Standard Room",
+          "name": "standard",
           "capacity": 2,
-          "amenities": []
+          "amenities": [],
+          "pricePerNight": 1000
         }
       ],
       "checkInTime": "14:00",
       "checkOutTime": "12:00"
-    }
+    },
+    "description": "GRANDFIELD HOTELS - Quality service and excellent facilities.",
+    "price": 1000
   },
   {
     "vendorId": "69558890c263664d295678ab",
@@ -2229,19 +2821,22 @@
         "lng": null
       }
     },
-    "contactInformation": {
-      "phone": null,
-      "whatsapp": null
-    },
+    "contactInformation": {},
     "images": [
-      "https://res.cloudinary.com/debpabo0a/image/upload/v1765564903/cjdsswiozorci5jy4yid.jpg",
-      "https://res.cloudinary.com/debpabo0a/image/upload/v1765564903/ki65gaj1qwbrn1lytak5.jpg"
+      {
+        "url": "https://res.cloudinary.com/debpabo0a/image/upload/v1765564903/cjdsswiozorci5jy4yid.jpg",
+        "public_id": "cjdsswiozorci5jy4yid"
+      },
+      {
+        "url": "https://res.cloudinary.com/debpabo0a/image/upload/v1765564903/ki65gaj1qwbrn1lytak5.jpg",
+        "public_id": "ki65gaj1qwbrn1lytak5"
+      }
     ],
     "price": 15000,
     "details": {
       "roomTypes": [
         {
-          "name": "Standard Room",
+          "name": "standard",
           "pricePerNight": 15000,
           "capacity": 2,
           "amenities": []
@@ -2249,7 +2844,8 @@
       ],
       "checkInTime": "14:00",
       "checkOutTime": "12:00"
-    }
+    },
+    "description": "GREENDALE LODGE & APARTMENTS - Quality service and excellent facilities."
   },
   {
     "vendorId": "69558890c263664d295678ab",
@@ -2268,14 +2864,20 @@
       "whatsapp": "8076724631"
     },
     "images": [
-      "https://res.cloudinary.com/debpabo0a/image/upload/v1765565457/vqconcy4dqavfyjmobxe.jpg",
-      "https://res.cloudinary.com/debpabo0a/image/upload/v1765565458/u3sdoac5c9r8dhu3dsqa.jpg"
+      {
+        "url": "https://res.cloudinary.com/debpabo0a/image/upload/v1765565457/vqconcy4dqavfyjmobxe.jpg",
+        "public_id": "vqconcy4dqavfyjmobxe"
+      },
+      {
+        "url": "https://res.cloudinary.com/debpabo0a/image/upload/v1765565458/u3sdoac5c9r8dhu3dsqa.jpg",
+        "public_id": "u3sdoac5c9r8dhu3dsqa"
+      }
     ],
     "price": 50000,
     "details": {
       "roomTypes": [
         {
-          "name": "Standard Room",
+          "name": "standard",
           "pricePerNight": 50000,
           "capacity": 2,
           "amenities": []
@@ -2283,7 +2885,8 @@
       ],
       "checkInTime": "14:00",
       "checkOutTime": "12:00"
-    }
+    },
+    "description": "HAIL HENRIETTA HOTEL(TRIPLE H) HOTEL - Quality service and excellent facilities."
   },
   {
     "vendorId": "69558890c263664d295678ab",
@@ -2302,22 +2905,37 @@
       "whatsapp": "9061926219"
     },
     "images": [
-      "https://res.cloudinary.com/debpabo0a/image/upload/v1765565618/yjysfr5g9mifovei3l47.jpg",
-      "https://res.cloudinary.com/debpabo0a/image/upload/v1765565619/ol54tkwn1osvvdd5crpv.jpg",
-      "https://res.cloudinary.com/debpabo0a/image/upload/v1765565619/vqunrw7rcodyizdqkvwc.jpg",
-      "https://res.cloudinary.com/debpabo0a/image/upload/v1765565619/iowvuqfmspj4sd3hecti.jpg"
+      {
+        "url": "https://res.cloudinary.com/debpabo0a/image/upload/v1765565618/yjysfr5g9mifovei3l47.jpg",
+        "public_id": "yjysfr5g9mifovei3l47"
+      },
+      {
+        "url": "https://res.cloudinary.com/debpabo0a/image/upload/v1765565619/ol54tkwn1osvvdd5crpv.jpg",
+        "public_id": "ol54tkwn1osvvdd5crpv"
+      },
+      {
+        "url": "https://res.cloudinary.com/debpabo0a/image/upload/v1765565619/vqunrw7rcodyizdqkvwc.jpg",
+        "public_id": "vqunrw7rcodyizdqkvwc"
+      },
+      {
+        "url": "https://res.cloudinary.com/debpabo0a/image/upload/v1765565619/iowvuqfmspj4sd3hecti.jpg",
+        "public_id": "iowvuqfmspj4sd3hecti"
+      }
     ],
     "details": {
       "roomTypes": [
         {
-          "name": "Standard Room",
+          "name": "standard",
           "capacity": 2,
-          "amenities": []
+          "amenities": [],
+          "pricePerNight": 1000
         }
       ],
       "checkInTime": "14:00",
       "checkOutTime": "12:00"
-    }
+    },
+    "description": "HARMONIUS HAVEN SERVICES - Quality service and excellent facilities.",
+    "price": 1000
   },
   {
     "vendorId": "69558890c263664d295678ab",
@@ -2336,15 +2954,24 @@
       "whatsapp": "8160475663"
     },
     "images": [
-      "https://res.cloudinary.com/debpabo0a/image/upload/v1765565699/leqotlzcvuppwza1koa4.jpg",
-      "https://res.cloudinary.com/debpabo0a/image/upload/v1765565699/zfdblppdeqzzno8yslo6.jpg",
-      "https://res.cloudinary.com/debpabo0a/image/upload/v1765565699/h6o4zobclbx7laxyvfvz.jpg"
+      {
+        "url": "https://res.cloudinary.com/debpabo0a/image/upload/v1765565699/leqotlzcvuppwza1koa4.jpg",
+        "public_id": "leqotlzcvuppwza1koa4"
+      },
+      {
+        "url": "https://res.cloudinary.com/debpabo0a/image/upload/v1765565699/zfdblppdeqzzno8yslo6.jpg",
+        "public_id": "zfdblppdeqzzno8yslo6"
+      },
+      {
+        "url": "https://res.cloudinary.com/debpabo0a/image/upload/v1765565699/h6o4zobclbx7laxyvfvz.jpg",
+        "public_id": "h6o4zobclbx7laxyvfvz"
+      }
     ],
     "price": 35000,
     "details": {
       "roomTypes": [
         {
-          "name": "Standard Room",
+          "name": "standard",
           "pricePerNight": 35000,
           "capacity": 2,
           "amenities": []
@@ -2352,7 +2979,8 @@
       ],
       "checkInTime": "14:00",
       "checkOutTime": "12:00"
-    }
+    },
+    "description": "HARRINGTON INN HOTEL - Quality service and excellent facilities."
   },
   {
     "vendorId": "69558890c263664d295678ab",
@@ -2371,23 +2999,37 @@
       "whatsapp": "8155777776"
     },
     "images": [
-      "https://res.cloudinary.com/debpabo0a/image/upload/v1765565793/plhziig3kxuq3m8fe5va.jpg",
-      "https://res.cloudinary.com/debpabo0a/image/upload/v1765565793/lq3mdbionoewhaqmaenv.jpg",
-      "https://res.cloudinary.com/debpabo0a/image/upload/v1765565793/yvp6e6h3tay5wzfnirr0.jpg",
-      "https://res.cloudinary.com/debpabo0a/image/upload/v1765565794/odx6yvhexou6xxbzurzu.jpg"
+      {
+        "url": "https://res.cloudinary.com/debpabo0a/image/upload/v1765565793/plhziig3kxuq3m8fe5va.jpg",
+        "public_id": "plhziig3kxuq3m8fe5va"
+      },
+      {
+        "url": "https://res.cloudinary.com/debpabo0a/image/upload/v1765565793/lq3mdbionoewhaqmaenv.jpg",
+        "public_id": "lq3mdbionoewhaqmaenv"
+      },
+      {
+        "url": "https://res.cloudinary.com/debpabo0a/image/upload/v1765565793/yvp6e6h3tay5wzfnirr0.jpg",
+        "public_id": "yvp6e6h3tay5wzfnirr0"
+      },
+      {
+        "url": "https://res.cloudinary.com/debpabo0a/image/upload/v1765565794/odx6yvhexou6xxbzurzu.jpg",
+        "public_id": "odx6yvhexou6xxbzurzu"
+      }
     ],
     "price": 20000,
     "details": {
       "eventDate": "2025-12-29T15:13:50.599Z",
       "venue": "Beside First bank U.I Maingate Sango-Ojoo road, Ibadan",
-      "capacity": 50
-    }
+      "capacity": 50,
+      "ticketPrice": 20000
+    },
+    "description": "HAVANA IMPERIAL HOTEL - Quality service and excellent facilities."
   },
   {
     "vendorId": "69558890c263664d295678ab",
     "category": "event",
     "title": "HAVANA ROYALE HALL",
-    "description": "Our Banqueting main Hall is a venue that never fails to impress, it offers plenty to marvel at, from its grand heritage sculptures at the entrance of the hall, to the high ceiling vast “pillarless” interior and delicate opulent grand chandeliers surrounded by myriad of stunning light display.\n\nThe Hall offers a highly adaptable space that can hold events in multiple-format, seating optimum 800 guests banquet style, or up to 1500 guests seated theatre style.\n\nMain Features:\nFully air conditioned\nChivalry chairs\nMoveable staging\n7 beautiful chandeliers\nChanging/Dressing room (air conditioned)\n250Kva new generator and additional standby generator\nIndoor parking space for 400 cars plus additional outdoor parking for 1500 cars\nAir condition toilet\nSecurity\nGated compound",
+    "description": "Our Banqueting main Hall is a venue that never fails to impress, it offers plenty to marvel at, from its grand heritage sculptures at the entrance of the hall, to the high ceiling vast “pillarless” interior and delicate opulent grand chandeliers surrounded by myriad of stunning light display.\n\nThe Hall offers a highly adaptable space that can hold events in multiple-format, seating optimum 800 guests banquet style, or up to 1500 guests seated theatre style.\n\nMain Features:\nFully air condition...",
     "location": {
       "address": "HAVANA ROYALE HALL, U.I ROAD, IBADAN",
       "area": "Agbowo",
@@ -2401,13 +3043,17 @@
       "whatsapp": "2348091888824"
     },
     "images": [
-      "https://res.cloudinary.com/debpabo0a/image/upload/v1761735958/aax8jkcjmcxlislf0tdq.jpg"
+      {
+        "url": "https://res.cloudinary.com/debpabo0a/image/upload/v1761735958/aax8jkcjmcxlislf0tdq.jpg",
+        "public_id": "aax8jkcjmcxlislf0tdq"
+      }
     ],
     "price": 500000,
     "details": {
       "eventDate": "2025-12-29T15:13:50.599Z",
       "venue": "HAVANA ROYALE HALL, U.I ROAD, IBADAN",
-      "capacity": 50
+      "capacity": 50,
+      "ticketPrice": 500000
     }
   },
   {
@@ -2428,7 +3074,10 @@
       "whatsapp": "2348121251485"
     },
     "images": [
-      "https://res.cloudinary.com/debpabo0a/image/upload/v1761828720/utxypzyyc6zd8trys8ei.jpg"
+      {
+        "url": "https://res.cloudinary.com/debpabo0a/image/upload/v1761828720/utxypzyyc6zd8trys8ei.jpg",
+        "public_id": "utxypzyyc6zd8trys8ei"
+      }
     ],
     "price": 123000,
     "details": {
@@ -2454,15 +3103,24 @@
       "whatsapp": "8061488057"
     },
     "images": [
-      "https://res.cloudinary.com/debpabo0a/image/upload/v1765565861/jynskvvpcskuonzedptc.jpg",
-      "https://res.cloudinary.com/debpabo0a/image/upload/v1765565861/gm2w22ywn77ie87kwwrv.jpg",
-      "https://res.cloudinary.com/debpabo0a/image/upload/v1765565861/h567bu6ou5ntgu7a256w.jpg"
+      {
+        "url": "https://res.cloudinary.com/debpabo0a/image/upload/v1765565861/jynskvvpcskuonzedptc.jpg",
+        "public_id": "jynskvvpcskuonzedptc"
+      },
+      {
+        "url": "https://res.cloudinary.com/debpabo0a/image/upload/v1765565861/gm2w22ywn77ie87kwwrv.jpg",
+        "public_id": "gm2w22ywn77ie87kwwrv"
+      },
+      {
+        "url": "https://res.cloudinary.com/debpabo0a/image/upload/v1765565861/h567bu6ou5ntgu7a256w.jpg",
+        "public_id": "h567bu6ou5ntgu7a256w"
+      }
     ],
     "price": 35000,
     "details": {
       "roomTypes": [
         {
-          "name": "Standard Room",
+          "name": "standard",
           "pricePerNight": 35000,
           "capacity": 2,
           "amenities": []
@@ -2470,7 +3128,8 @@
       ],
       "checkInTime": "14:00",
       "checkOutTime": "12:00"
-    }
+    },
+    "description": "HEXAGON HOTEL - Quality service and excellent facilities."
   },
   {
     "vendorId": "69558890c263664d295678ab",
@@ -2489,14 +3148,20 @@
       "whatsapp": "8059474862"
     },
     "images": [
-      "https://res.cloudinary.com/debpabo0a/image/upload/v1765565923/dmhli9j7diydtd4ajyo1.jpg",
-      "https://res.cloudinary.com/debpabo0a/image/upload/v1765565953/v0sjq0jvfxwwctkj2c4x.jpg"
+      {
+        "url": "https://res.cloudinary.com/debpabo0a/image/upload/v1765565923/dmhli9j7diydtd4ajyo1.jpg",
+        "public_id": "dmhli9j7diydtd4ajyo1"
+      },
+      {
+        "url": "https://res.cloudinary.com/debpabo0a/image/upload/v1765565953/v0sjq0jvfxwwctkj2c4x.jpg",
+        "public_id": "v0sjq0jvfxwwctkj2c4x"
+      }
     ],
     "price": 9500,
     "details": {
       "roomTypes": [
         {
-          "name": "Standard Room",
+          "name": "standard",
           "pricePerNight": 9500,
           "capacity": 2,
           "amenities": []
@@ -2504,7 +3169,8 @@
       ],
       "checkInTime": "14:00",
       "checkOutTime": "12:00"
-    }
+    },
+    "description": "HILL TOP TAVERN HOTEL - Quality service and excellent facilities."
   },
   {
     "vendorId": "69558890c263664d295678ab",
@@ -2523,14 +3189,20 @@
       "whatsapp": "8073741083"
     },
     "images": [
-      "https://res.cloudinary.com/debpabo0a/image/upload/v1765566019/nockbcczbx6ih5ub9f8t.jpg",
-      "https://res.cloudinary.com/debpabo0a/image/upload/v1765566020/c1bpypuwv5m74j1tm7rq.jpg"
+      {
+        "url": "https://res.cloudinary.com/debpabo0a/image/upload/v1765566019/nockbcczbx6ih5ub9f8t.jpg",
+        "public_id": "nockbcczbx6ih5ub9f8t"
+      },
+      {
+        "url": "https://res.cloudinary.com/debpabo0a/image/upload/v1765566020/c1bpypuwv5m74j1tm7rq.jpg",
+        "public_id": "c1bpypuwv5m74j1tm7rq"
+      }
     ],
     "price": 8000,
     "details": {
       "roomTypes": [
         {
-          "name": "Standard Room",
+          "name": "standard",
           "pricePerNight": 8000,
           "capacity": 2,
           "amenities": []
@@ -2538,7 +3210,8 @@
       ],
       "checkInTime": "14:00",
       "checkOutTime": "12:00"
-    }
+    },
+    "description": "HOTEL MAXIMA - Quality service and excellent facilities."
   },
   {
     "vendorId": "69558890c263664d295678ab",
@@ -2558,7 +3231,10 @@
       "whatsapp": "2347055550000"
     },
     "images": [
-      "https://res.cloudinary.com/debpabo0a/image/upload/v1761053998/xf8xy2lin034xnft6eie.jpg"
+      {
+        "url": "https://res.cloudinary.com/debpabo0a/image/upload/v1761053998/xf8xy2lin034xnft6eie.jpg",
+        "public_id": "xf8xy2lin034xnft6eie"
+      }
     ],
     "price": 2000,
     "details": {
@@ -2572,7 +3248,7 @@
     "vendorId": "69558890c263664d295678ab",
     "category": "event",
     "title": "Ibadan Civic Centre",
-    "description": "Ibadan Civic Centre serves as a prominent event venue located in the heart of Ibadan. This multifunctional space is often used for conferences, weddings, and cultural events, making it a hub for social gatherings in the region. Surrounded by landscaped gardens, it offers a serene environment suitable for various occasions. The centre is designed to accommodate large groups and features modern facilities, ensuring comfort and convenience for both host and guests. Its central location makes it accessible to visitors exploring the cultural and historical significance of Ibadan.",
+    "description": "Ibadan Civic Centre serves as a prominent event venue located in the heart of Ibadan. This multifunctional space is often used for conferences, weddings, and cultural events, making it a hub for social gatherings in the region. Surrounded by landscaped gardens, it offers a serene environment suitable for various occasions. The centre is designed to accommodate large groups and features modern facilities, ensuring comfort and convenience for both host and guests. Its central location makes it ...",
     "location": {
       "address": "IDI APE, IWO ROAD, IBADAN",
       "area": "Agodi",
@@ -2586,13 +3262,17 @@
       "whatsapp": "2349124681211"
     },
     "images": [
-      "https://res.cloudinary.com/debpabo0a/image/upload/v1761736792/zb2mcwvgrlxqkmjjq0vk.jpg"
+      {
+        "url": "https://res.cloudinary.com/debpabo0a/image/upload/v1761736792/zb2mcwvgrlxqkmjjq0vk.jpg",
+        "public_id": "zb2mcwvgrlxqkmjjq0vk"
+      }
     ],
     "price": 600000,
     "details": {
       "eventDate": "2025-12-29T15:13:50.599Z",
       "venue": "IDI APE, IWO ROAD, IBADAN",
-      "capacity": 50
+      "capacity": 50,
+      "ticketPrice": 600000
     }
   },
   {
@@ -2612,16 +3292,28 @@
       "whatsapp": "8081474009"
     },
     "images": [
-      "https://res.cloudinary.com/debpabo0a/image/upload/v1765566105/siyvulrgq9ix9rgiaown.jpg",
-      "https://res.cloudinary.com/debpabo0a/image/upload/v1765566104/qu2y91xzgyiddo2dgxuo.jpg",
-      "https://res.cloudinary.com/debpabo0a/image/upload/v1765566104/kxvvsp8lyonmohzlefrb.jpg",
-      "https://res.cloudinary.com/debpabo0a/image/upload/v1765566105/dwborlnz22n1plp6x3bl.jpg"
+      {
+        "url": "https://res.cloudinary.com/debpabo0a/image/upload/v1765566105/siyvulrgq9ix9rgiaown.jpg",
+        "public_id": "siyvulrgq9ix9rgiaown"
+      },
+      {
+        "url": "https://res.cloudinary.com/debpabo0a/image/upload/v1765566104/qu2y91xzgyiddo2dgxuo.jpg",
+        "public_id": "qu2y91xzgyiddo2dgxuo"
+      },
+      {
+        "url": "https://res.cloudinary.com/debpabo0a/image/upload/v1765566104/kxvvsp8lyonmohzlefrb.jpg",
+        "public_id": "kxvvsp8lyonmohzlefrb"
+      },
+      {
+        "url": "https://res.cloudinary.com/debpabo0a/image/upload/v1765566105/dwborlnz22n1plp6x3bl.jpg",
+        "public_id": "dwborlnz22n1plp6x3bl"
+      }
     ],
     "price": 30000,
     "details": {
       "roomTypes": [
         {
-          "name": "Standard Room",
+          "name": "standard",
           "pricePerNight": 30000,
           "capacity": 2,
           "amenities": []
@@ -2629,13 +3321,14 @@
       ],
       "checkInTime": "14:00",
       "checkOutTime": "12:00"
-    }
+    },
+    "description": "IRISHGOLD SUITE - Quality service and excellent facilities."
   },
   {
     "vendorId": "69558890c263664d295678ab",
     "category": "hotel",
     "title": "Jogor Hotel",
-    "description": "Hotel located in the Ibadan city center, with luxuriously furnished rooms, orthopedic, semi-orthopedic & spring mattresses. The hotel has facilities for your comfort: wifi, gym, clean pool, restaurant, bar/lounge, sports bar, children's play room, smart android TVs that allows you watch Netflix, Prime Video, Youtube etc. The restaurant sits a large number of guests for buffet & al ar carte dining. Unique cocktails are served in the bar & the sports bar is available for sports lovers to enjoy up to five different lives matches streamed live on large screens. Guests security & privacy means a lot to us in Jogor Hotel, to ensure this, the following facilities & measures are put in place: electronic keycard controlled elevators, stairways access & doors; electronic safes in every room, door latches for double locking while in the room, peeping whole on all doors etc",
+    "description": "Hotel located in the Ibadan city center, with luxuriously furnished rooms, orthopedic, semi-orthopedic & spring mattresses. The hotel has facilities for your comfort: wifi, gym, clean pool, restaurant, bar/lounge, sports bar, children's play room, smart android TVs that allows you watch Netflix, Prime Video, Youtube etc. The restaurant sits a large number of guests for buffet & al ar carte dining. Unique cocktails are served in the bar & the sports bar is available for sports lovers to enjoy ...",
     "location": {
       "address": "1 Harvesters' Drive Off Liberty Stadium Road, Off MKO Abiola Way, Ibadan",
       "area": "Ring Road",
@@ -2649,17 +3342,28 @@
       "whatsapp": "8032341728"
     },
     "images": [
-      "https://res.cloudinary.com/debpabo0a/image/upload/v1761049315/sdbssw6rph5e4d7sm67o.jpg",
-      "https://res.cloudinary.com/debpabo0a/image/upload/v1765566222/dnnftfd757bhfy2hx8k5.jpg",
-      "https://res.cloudinary.com/debpabo0a/image/upload/v1765566221/o0nrz7ga68teta4k9wpo.jpg",
-      "https://res.cloudinary.com/debpabo0a/image/upload/v1765566222/vcxawnlnw3eagpya2nwl.jpg",
-      "https://res.cloudinary.com/debpabo0a/image/upload/v1765566221/dymzzybotpvll5yqeilv.jpg"
+      {
+        "url": "https://res.cloudinary.com/debpabo0a/image/upload/v1761049315/sdbssw6rph5e4d7sm67o.jpg",
+        "public_id": "sdbssw6rph5e4d7sm67o"
+      },
+      {
+        "url": "https://res.cloudinary.com/debpabo0a/image/upload/v1765566222/dnnftfd757bhfy2hx8k5.jpg",
+        "public_id": "dnnftfd757bhfy2hx8k5"
+      },
+      {
+        "url": "https://res.cloudinary.com/debpabo0a/image/upload/v1765566221/o0nrz7ga68teta4k9wpo.jpg",
+        "public_id": "o0nrz7ga68teta4k9wpo"
+      },
+      {
+        "url": "https://res.cloudinary.com/debpabo0a/image/upload/v1765566222/vcxawnlnw3eagpya2nwl.jpg",
+        "public_id": "vcxawnlnw3eagpya2nwl"
+      }
     ],
     "price": 90000,
     "details": {
       "roomTypes": [
         {
-          "name": "Standard Room",
+          "name": "standard",
           "pricePerNight": 90000,
           "capacity": 2,
           "amenities": []
@@ -2687,7 +3391,10 @@
       "whatsapp": "2348073664768"
     },
     "images": [
-      "https://res.cloudinary.com/debpabo0a/image/upload/v1761133271/zfytemhgsrnk4b1ogfqr.jpg"
+      {
+        "url": "https://res.cloudinary.com/debpabo0a/image/upload/v1761133271/zfytemhgsrnk4b1ogfqr.jpg",
+        "public_id": "zfytemhgsrnk4b1ogfqr"
+      }
     ],
     "price": 1200,
     "details": {
@@ -2714,16 +3421,28 @@
       "whatsapp": "7008808800"
     },
     "images": [
-      "https://res.cloudinary.com/debpabo0a/image/upload/v1765566300/ekkn2pmodrcvcpgforfu.jpg",
-      "https://res.cloudinary.com/debpabo0a/image/upload/v1765566299/hlpcykrektzsjtvkxuma.jpg",
-      "https://res.cloudinary.com/debpabo0a/image/upload/v1765566302/hmmlwyjejshztoojdigp.jpg",
-      "https://res.cloudinary.com/debpabo0a/image/upload/v1765566299/ceeqx29fufmpuaa9g3j2.jpg"
+      {
+        "url": "https://res.cloudinary.com/debpabo0a/image/upload/v1765566300/ekkn2pmodrcvcpgforfu.jpg",
+        "public_id": "ekkn2pmodrcvcpgforfu"
+      },
+      {
+        "url": "https://res.cloudinary.com/debpabo0a/image/upload/v1765566299/hlpcykrektzsjtvkxuma.jpg",
+        "public_id": "hlpcykrektzsjtvkxuma"
+      },
+      {
+        "url": "https://res.cloudinary.com/debpabo0a/image/upload/v1765566302/hmmlwyjejshztoojdigp.jpg",
+        "public_id": "hmmlwyjejshztoojdigp"
+      },
+      {
+        "url": "https://res.cloudinary.com/debpabo0a/image/upload/v1765566299/ceeqx29fufmpuaa9g3j2.jpg",
+        "public_id": "ceeqx29fufmpuaa9g3j2"
+      }
     ],
     "price": 15000,
     "details": {
       "roomTypes": [
         {
-          "name": "Standard Room",
+          "name": "standard",
           "pricePerNight": 15000,
           "capacity": 2,
           "amenities": []
@@ -2731,12 +3450,13 @@
       ],
       "checkInTime": "14:00",
       "checkOutTime": "12:00"
-    }
+    },
+    "description": "JOSIAH INN HOTEL - Quality service and excellent facilities."
   },
   {
     "vendorId": "69558890c263664d295678ab",
     "category": "hotel",
-    "title": "Kakanfo Inn",
+    "title": "Kakanfo Inn Hotel",
     "description": "Kakanfo Inn is a prestigious hotel and conference centre offering excellent comfort and first class facilities. We are located in Ibadan, approximately 90 minutes drive from Lagos; the financial capital of Nigeria. We have been providing top quality service since 1988. The hotel has 97 rooms and suites . You have an option of 4 categories of rooms designed and equipped to suit your needs.",
     "location": {
       "address": "Joyce' B, Ringroad, Ibadan",
@@ -2751,15 +3471,24 @@
       "whatsapp": "2347055828309"
     },
     "images": [
-      "https://res.cloudinary.com/debpabo0a/image/upload/v1760624162/tafqieofeyzvrzsq8hqe.jpg",
-      " https://res.cloudinary.com/debpabo0a/image/upload/v1760704725/ceelkdwjbvczfbib0pcl.jpg",
-      " https://res.cloudinary.com/debpabo0a/image/upload/v1760706477/jz91tiermvp28g6lwtfq.jpg"
+      {
+        "url": "https://res.cloudinary.com/debpabo0a/image/upload/v1760624162/tafqieofeyzvrzsq8hqe.jpg",
+        "public_id": "tafqieofeyzvrzsq8hqe"
+      },
+      {
+        "url": " https://res.cloudinary.com/debpabo0a/image/upload/v1760704725/ceelkdwjbvczfbib0pcl.jpg",
+        "public_id": "ceelkdwjbvczfbib0pcl"
+      },
+      {
+        "url": " https://res.cloudinary.com/debpabo0a/image/upload/v1760706477/jz91tiermvp28g6lwtfq.jpg",
+        "public_id": "jz91tiermvp28g6lwtfq"
+      }
     ],
     "price": 75000,
     "details": {
       "roomTypes": [
         {
-          "name": "Standard Room",
+          "name": "standard",
           "pricePerNight": 75000,
           "capacity": 2,
           "amenities": []
@@ -2786,16 +3515,28 @@
       "whatsapp": "7055828309"
     },
     "images": [
-      "https://res.cloudinary.com/debpabo0a/image/upload/v1765566404/x1trhkcovlknf8y98pwm.jpg",
-      "https://res.cloudinary.com/debpabo0a/image/upload/v1765566404/se8knnynglcjcwgusvlg.jpg",
-      "https://res.cloudinary.com/debpabo0a/image/upload/v1765566404/pvlyor7fsodbpfd1tqak.jpg",
-      "https://res.cloudinary.com/debpabo0a/image/upload/v1765566420/fymsppcafx47x4jpl40b.jpg"
+      {
+        "url": "https://res.cloudinary.com/debpabo0a/image/upload/v1765566404/x1trhkcovlknf8y98pwm.jpg",
+        "public_id": "x1trhkcovlknf8y98pwm"
+      },
+      {
+        "url": "https://res.cloudinary.com/debpabo0a/image/upload/v1765566404/se8knnynglcjcwgusvlg.jpg",
+        "public_id": "se8knnynglcjcwgusvlg"
+      },
+      {
+        "url": "https://res.cloudinary.com/debpabo0a/image/upload/v1765566404/pvlyor7fsodbpfd1tqak.jpg",
+        "public_id": "pvlyor7fsodbpfd1tqak"
+      },
+      {
+        "url": "https://res.cloudinary.com/debpabo0a/image/upload/v1765566420/fymsppcafx47x4jpl40b.jpg",
+        "public_id": "fymsppcafx47x4jpl40b"
+      }
     ],
     "price": 75000,
     "details": {
       "roomTypes": [
         {
-          "name": "Standard Room",
+          "name": "standard",
           "pricePerNight": 75000,
           "capacity": 2,
           "amenities": []
@@ -2803,7 +3544,8 @@
       ],
       "checkInTime": "14:00",
       "checkOutTime": "12:00"
-    }
+    },
+    "description": "KAKANFO INN AND CONFERENCE CENTRE - Quality service and excellent facilities."
   },
   {
     "vendorId": "69558890c263664d295678ab",
@@ -2821,12 +3563,17 @@
       "phone": "9160003295",
       "whatsapp": "9160003295"
     },
-    "images": [],
+    "images": [
+      {
+        "url": "https://res.cloudinary.com/debpabo0a/image/upload/v1761828191/wzpfaj1eijplrfcgnsof.jpg",
+        "public_id": "wzpfaj1eijplrfcgnsof"
+      }
+    ],
     "price": 25000,
     "details": {
       "roomTypes": [
         {
-          "name": "Standard Room",
+          "name": "standard",
           "pricePerNight": 25000,
           "capacity": 2,
           "amenities": []
@@ -2834,7 +3581,8 @@
       ],
       "checkInTime": "14:00",
       "checkOutTime": "12:00"
-    }
+    },
+    "description": "KD HOTELS & APARTMENT - Quality service and excellent facilities."
   },
   {
     "vendorId": "69558890c263664d295678ab",
@@ -2853,14 +3601,26 @@
       "whatsapp": "9160003295"
     },
     "images": [
-      "https://res.cloudinary.com/debpabo0a/image/upload/v1765566530/s0jzyjg0kxrnusicqxnh.jpg",
-      "https://res.cloudinary.com/debpabo0a/image/upload/v1765566530/ny2kak3cbn1lhlp4ur39.jpg",
-      "https://res.cloudinary.com/debpabo0a/image/upload/v1765566531/h0ymbmnrmf0whcz6i8ug.jpg"
+      {
+        "url": "https://res.cloudinary.com/debpabo0a/image/upload/v1765566530/s0jzyjg0kxrnusicqxnh.jpg",
+        "public_id": "s0jzyjg0kxrnusicqxnh"
+      },
+      {
+        "url": "https://res.cloudinary.com/debpabo0a/image/upload/v1765566530/ny2kak3cbn1lhlp4ur39.jpg",
+        "public_id": "ny2kak3cbn1lhlp4ur39"
+      },
+      {
+        "url": "https://res.cloudinary.com/debpabo0a/image/upload/v1765566531/h0ymbmnrmf0whcz6i8ug.jpg",
+        "public_id": "h0ymbmnrmf0whcz6i8ug"
+      }
     ],
     "details": {
       "maxGuests": 2,
-      "amenities": []
-    }
+      "amenities": [],
+      "pricePerNight": 1000
+    },
+    "description": "KDHOTEL AND APARTMENT - Quality service and excellent facilities.",
+    "price": 1000
   },
   {
     "vendorId": "69558890c263664d295678ab",
@@ -2879,15 +3639,24 @@
       "whatsapp": "8033586695"
     },
     "images": [
-      "https://res.cloudinary.com/debpabo0a/image/upload/v1765566636/kohdfwjeaqgsgdpq9ioj.jpg",
-      "https://res.cloudinary.com/debpabo0a/image/upload/v1765566636/bm4pwbiorh1jxnz8lcj2.jpg",
-      "https://res.cloudinary.com/debpabo0a/image/upload/v1765566636/pi3mfimnaemgp6ajwkf8.jpg"
+      {
+        "url": "https://res.cloudinary.com/debpabo0a/image/upload/v1765566636/kohdfwjeaqgsgdpq9ioj.jpg",
+        "public_id": "kohdfwjeaqgsgdpq9ioj"
+      },
+      {
+        "url": "https://res.cloudinary.com/debpabo0a/image/upload/v1765566636/bm4pwbiorh1jxnz8lcj2.jpg",
+        "public_id": "bm4pwbiorh1jxnz8lcj2"
+      },
+      {
+        "url": "https://res.cloudinary.com/debpabo0a/image/upload/v1765566636/pi3mfimnaemgp6ajwkf8.jpg",
+        "public_id": "pi3mfimnaemgp6ajwkf8"
+      }
     ],
     "price": 15000,
     "details": {
       "roomTypes": [
         {
-          "name": "Standard Room",
+          "name": "standard",
           "pricePerNight": 15000,
           "capacity": 2,
           "amenities": []
@@ -2895,13 +3664,14 @@
       ],
       "checkInTime": "14:00",
       "checkOutTime": "12:00"
-    }
+    },
+    "description": "KDREAMS HOTEL - Quality service and excellent facilities."
   },
   {
     "vendorId": "69558890c263664d295678ab",
     "category": "restaurant",
     "title": "Kokodome Plus",
-    "description": "Kokodome is an hospitality, recreational and tourism brand located in Dugbe, the heart of the Ibadan Central Business District in Oyo State, South West Nigeria. Established in 1964, It is an integral part of the historic and pace setting 25 Storey Cocoa House Edifice which is the first skyscraper in Nigeria.\nIts unique dome shaped restaurant with a breath taking view of the pristine clean big sized swimming pool, see though glass elite lounge and pool side and terrace bars confer on Kokodome a unique configuration of the classic and the contemporary in a warm blend of choice spots to the delight of its clientele.",
+    "description": "Kokodome is an hospitality, recreational and tourism brand located in Dugbe, the heart of the Ibadan Central Business District in Oyo State, South West Nigeria. Established in 1964, It is an integral part of the historic and pace setting 25 Storey Cocoa House Edifice which is the first skyscraper in Nigeria.\nIts unique dome shaped restaurant with a breath taking view of the pristine clean big sized swimming pool, see though glass elite lounge and pool side and terrace bars confer on Kokodome ...",
     "location": {
       "address": "Cocoa House Premises Opposite Ibadan Post Office Dugbe, Ibadan",
       "area": "Dugbe",
@@ -2915,7 +3685,10 @@
       "whatsapp": "2348181819999"
     },
     "images": [
-      "https://res.cloudinary.com/debpabo0a/image/upload/v1761052616/okt4b7i9zdggsnubtku1.webp"
+      {
+        "url": "https://res.cloudinary.com/debpabo0a/image/upload/v1761052616/okt4b7i9zdggsnubtku1.webp",
+        "public_id": "okt4b7i9zdggsnubtku1"
+      }
     ],
     "price": 2000,
     "details": {
@@ -2942,16 +3715,28 @@
       "whatsapp": "8033529580"
     },
     "images": [
-      "https://res.cloudinary.com/debpabo0a/image/upload/v1765566806/jfledrevj7gstpkcapgv.jpg",
-      "https://res.cloudinary.com/debpabo0a/image/upload/v1765566806/mix1f36smteehgjmzlm6.jpg",
-      "https://res.cloudinary.com/debpabo0a/image/upload/v1765566806/gy9d700og86kzztubj4m.jpg",
-      "https://res.cloudinary.com/debpabo0a/image/upload/v1765566806/zsbj5vin6m92hdavvj5k.jpg"
+      {
+        "url": "https://res.cloudinary.com/debpabo0a/image/upload/v1765566806/jfledrevj7gstpkcapgv.jpg",
+        "public_id": "jfledrevj7gstpkcapgv"
+      },
+      {
+        "url": "https://res.cloudinary.com/debpabo0a/image/upload/v1765566806/mix1f36smteehgjmzlm6.jpg",
+        "public_id": "mix1f36smteehgjmzlm6"
+      },
+      {
+        "url": "https://res.cloudinary.com/debpabo0a/image/upload/v1765566806/gy9d700og86kzztubj4m.jpg",
+        "public_id": "gy9d700og86kzztubj4m"
+      },
+      {
+        "url": "https://res.cloudinary.com/debpabo0a/image/upload/v1765566806/zsbj5vin6m92hdavvj5k.jpg",
+        "public_id": "zsbj5vin6m92hdavvj5k"
+      }
     ],
     "price": 25000,
     "details": {
       "roomTypes": [
         {
-          "name": "Standard Room",
+          "name": "standard",
           "pricePerNight": 25000,
           "capacity": 2,
           "amenities": []
@@ -2959,7 +3744,8 @@
       ],
       "checkInTime": "14:00",
       "checkOutTime": "12:00"
-    }
+    },
+    "description": "KOLTOL GUESTHOUSE - Quality service and excellent facilities."
   },
   {
     "vendorId": "69558890c263664d295678ab",
@@ -2977,12 +3763,17 @@
       "phone": "8155529999",
       "whatsapp": "8155529999"
     },
-    "images": [],
+    "images": [
+      {
+        "url": "https://res.cloudinary.com/debpabo0a/image/upload/v1761828191/wzpfaj1eijplrfcgnsof.jpg",
+        "public_id": "wzpfaj1eijplrfcgnsof"
+      }
+    ],
     "price": 32000,
     "details": {
       "roomTypes": [
         {
-          "name": "Standard Room",
+          "name": "standard",
           "pricePerNight": 32000,
           "capacity": 2,
           "amenities": []
@@ -2990,7 +3781,8 @@
       ],
       "checkInTime": "14:00",
       "checkOutTime": "12:00"
-    }
+    },
+    "description": "KOLTOL HOTEL ANNEXE - Quality service and excellent facilities."
   },
   {
     "vendorId": "69558890c263664d295678ab",
@@ -3008,12 +3800,17 @@
       "phone": "8101650666",
       "whatsapp": "8101650666"
     },
-    "images": [],
+    "images": [
+      {
+        "url": "https://res.cloudinary.com/debpabo0a/image/upload/v1761828191/wzpfaj1eijplrfcgnsof.jpg",
+        "public_id": "wzpfaj1eijplrfcgnsof"
+      }
+    ],
     "price": 32000,
     "details": {
       "roomTypes": [
         {
-          "name": "Standard Room",
+          "name": "standard",
           "pricePerNight": 32000,
           "capacity": 2,
           "amenities": []
@@ -3021,7 +3818,8 @@
       ],
       "checkInTime": "14:00",
       "checkOutTime": "12:00"
-    }
+    },
+    "description": "KOLTOL HOTELS - Quality service and excellent facilities."
   },
   {
     "vendorId": "69558890c263664d295678ab",
@@ -3039,12 +3837,17 @@
       "phone": "8160684669",
       "whatsapp": "8160684669"
     },
-    "images": [],
+    "images": [
+      {
+        "url": "https://res.cloudinary.com/debpabo0a/image/upload/v1761828191/wzpfaj1eijplrfcgnsof.jpg",
+        "public_id": "wzpfaj1eijplrfcgnsof"
+      }
+    ],
     "price": 32000,
     "details": {
       "roomTypes": [
         {
-          "name": "Standard Room",
+          "name": "standard",
           "pricePerNight": 32000,
           "capacity": 2,
           "amenities": []
@@ -3052,7 +3855,8 @@
       ],
       "checkInTime": "14:00",
       "checkOutTime": "12:00"
-    }
+    },
+    "description": "LA MAISON HOTEL & SUITES - Quality service and excellent facilities."
   },
   {
     "vendorId": "69558890c263664d295678ab",
@@ -3071,16 +3875,28 @@
       "whatsapp": "8160684669"
     },
     "images": [
-      "https://res.cloudinary.com/debpabo0a/image/upload/v1765567177/fbbdw3143eci3yivnuhs.jpg",
-      "https://res.cloudinary.com/debpabo0a/image/upload/v1765567176/r8ct997f2gtmg79yct9v.jpg",
-      "https://res.cloudinary.com/debpabo0a/image/upload/v1765567176/aspa6clx0jfcfkg7tpqy.jpg",
-      "https://res.cloudinary.com/debpabo0a/image/upload/v1765567176/yava2inpnkdmcrjjauba.jpg"
+      {
+        "url": "https://res.cloudinary.com/debpabo0a/image/upload/v1765567177/fbbdw3143eci3yivnuhs.jpg",
+        "public_id": "fbbdw3143eci3yivnuhs"
+      },
+      {
+        "url": "https://res.cloudinary.com/debpabo0a/image/upload/v1765567176/r8ct997f2gtmg79yct9v.jpg",
+        "public_id": "r8ct997f2gtmg79yct9v"
+      },
+      {
+        "url": "https://res.cloudinary.com/debpabo0a/image/upload/v1765567176/aspa6clx0jfcfkg7tpqy.jpg",
+        "public_id": "aspa6clx0jfcfkg7tpqy"
+      },
+      {
+        "url": "https://res.cloudinary.com/debpabo0a/image/upload/v1765567176/yava2inpnkdmcrjjauba.jpg",
+        "public_id": "yava2inpnkdmcrjjauba"
+      }
     ],
     "price": 32500,
     "details": {
       "roomTypes": [
         {
-          "name": "Standard Room",
+          "name": "standard",
           "pricePerNight": 32500,
           "capacity": 2,
           "amenities": []
@@ -3088,7 +3904,8 @@
       ],
       "checkInTime": "14:00",
       "checkOutTime": "12:00"
-    }
+    },
+    "description": "La Maison Hotel & Suites - Quality service and excellent facilities."
   },
   {
     "vendorId": "69558890c263664d295678ab",
@@ -3107,13 +3924,16 @@
       "whatsapp": "8057844015"
     },
     "images": [
-      "https://res.cloudinary.com/debpabo0a/image/upload/v1765567257/pcffyikg2ls2lndrz5gq.jpg"
+      {
+        "url": "https://res.cloudinary.com/debpabo0a/image/upload/v1765567257/pcffyikg2ls2lndrz5gq.jpg",
+        "public_id": "pcffyikg2ls2lndrz5gq"
+      }
     ],
     "price": 18000,
     "details": {
       "roomTypes": [
         {
-          "name": "Standard Room",
+          "name": "standard",
           "pricePerNight": 18000,
           "capacity": 2,
           "amenities": []
@@ -3121,7 +3941,8 @@
       ],
       "checkInTime": "14:00",
       "checkOutTime": "12:00"
-    }
+    },
+    "description": "LA'BOTHA HOTEL AND SUITES - Quality service and excellent facilities."
   },
   {
     "vendorId": "69558890c263664d295678ab",
@@ -3140,16 +3961,28 @@
       "whatsapp": "8148808800"
     },
     "images": [
-      "https://res.cloudinary.com/debpabo0a/image/upload/v1765567312/podkcedeywdobffnbvbj.jpg",
-      "https://res.cloudinary.com/debpabo0a/image/upload/v1765567312/by6r1vm0kpwfy5ycyfvb.jpg",
-      "https://res.cloudinary.com/debpabo0a/image/upload/v1765567312/f0wnsw1xiwtpdgpu7u9a.jpg",
-      "https://res.cloudinary.com/debpabo0a/image/upload/v1765567313/wq7avcwanbmvu8uxrw3n.jpg"
+      {
+        "url": "https://res.cloudinary.com/debpabo0a/image/upload/v1765567312/podkcedeywdobffnbvbj.jpg",
+        "public_id": "podkcedeywdobffnbvbj"
+      },
+      {
+        "url": "https://res.cloudinary.com/debpabo0a/image/upload/v1765567312/by6r1vm0kpwfy5ycyfvb.jpg",
+        "public_id": "by6r1vm0kpwfy5ycyfvb"
+      },
+      {
+        "url": "https://res.cloudinary.com/debpabo0a/image/upload/v1765567312/f0wnsw1xiwtpdgpu7u9a.jpg",
+        "public_id": "f0wnsw1xiwtpdgpu7u9a"
+      },
+      {
+        "url": "https://res.cloudinary.com/debpabo0a/image/upload/v1765567313/wq7avcwanbmvu8uxrw3n.jpg",
+        "public_id": "wq7avcwanbmvu8uxrw3n"
+      }
     ],
     "price": 20000,
     "details": {
       "roomTypes": [
         {
-          "name": "Standard Room",
+          "name": "standard",
           "pricePerNight": 20000,
           "capacity": 2,
           "amenities": []
@@ -3157,7 +3990,8 @@
       ],
       "checkInTime": "14:00",
       "checkOutTime": "12:00"
-    }
+    },
+    "description": "LABOD HOTEL - Quality service and excellent facilities."
   },
   {
     "vendorId": "69558890c263664d295678ab",
@@ -3177,13 +4011,17 @@
       "whatsapp": "2349040107064"
     },
     "images": [
-      "https://res.cloudinary.com/debpabo0a/image/upload/v1761737445/ter4eibpjbclsv0eix6j.jpg"
+      {
+        "url": "https://res.cloudinary.com/debpabo0a/image/upload/v1761737445/ter4eibpjbclsv0eix6j.jpg",
+        "public_id": "ter4eibpjbclsv0eix6j"
+      }
     ],
     "price": 400000,
     "details": {
       "eventDate": "2025-12-29T15:13:50.599Z",
       "venue": "43a Awolowo Ave, Old Bodija, Ibadan",
-      "capacity": 50
+      "capacity": 50,
+      "ticketPrice": 400000
     }
   },
   {
@@ -3202,12 +4040,17 @@
       "phone": "2349056370655",
       "whatsapp": "2349056370655"
     },
-    "images": [],
+    "images": [
+      {
+        "url": "https://res.cloudinary.com/debpabo0a/image/upload/v1761828191/wzpfaj1eijplrfcgnsof.jpg",
+        "public_id": "wzpfaj1eijplrfcgnsof"
+      }
+    ],
     "price": 70000,
     "details": {
       "roomTypes": [
         {
-          "name": "Standard Room",
+          "name": "standard",
           "pricePerNight": 70000,
           "capacity": 2,
           "amenities": []
@@ -3215,13 +4058,14 @@
       ],
       "checkInTime": "14:00",
       "checkOutTime": "12:00"
-    }
+    },
+    "description": "MAHOGANY HOTEL & SUITES - Quality service and excellent facilities."
   },
   {
     "vendorId": "69558890c263664d295678ab",
     "category": "event",
     "title": "Manhattan Hall",
-    "description": "Manhattan Hall is a spacious event venue situated in the serene Jericho area of Ibadan, Nigeria. It offers ample parking space and a well-maintained environment suitable for various events. The hall is equipped with modern facilities, including air conditioning and adjoining changing rooms for clients. An added feature is the Cruzer Lounge located at the back of the hall, providing a comfortable space for relaxation and socializing. The venue has hosted events such as the 'Love Feast' on Valentine's Day, showcasing its versatility in accommodating diverse gatherings.",
+    "description": "Manhattan Hall is a spacious event venue situated in the serene Jericho area of Ibadan, Nigeria. It offers ample parking space and a well-maintained environment suitable for various events. The hall is equipped with modern facilities, including air conditioning and adjoining changing rooms for clients. An added feature is the Cruzer Lounge located at the back of the hall, providing a comfortable space for relaxation and socializing. The venue has hosted events such as the 'Love Feast' on Vale...",
     "location": {
       "address": "Eleyele Road, Jericho, Ibadan",
       "area": "Jericho",
@@ -3235,13 +4079,17 @@
       "whatsapp": "2349131040110"
     },
     "images": [
-      "https://res.cloudinary.com/debpabo0a/image/upload/v1761737787/n9asrtmwowv5gz6f0dlt.jpg"
+      {
+        "url": "https://res.cloudinary.com/debpabo0a/image/upload/v1761737787/n9asrtmwowv5gz6f0dlt.jpg",
+        "public_id": "n9asrtmwowv5gz6f0dlt"
+      }
     ],
     "price": 750000,
     "details": {
       "eventDate": "2025-12-29T15:13:50.599Z",
       "venue": "Eleyele Road, Jericho, Ibadan",
-      "capacity": 50
+      "capacity": 50,
+      "ticketPrice": 750000
     }
   },
   {
@@ -3262,13 +4110,16 @@
       "whatsapp": "2348122176433"
     },
     "images": [
-      "https://res.cloudinary.com/debpabo0a/image/upload/v1760705358/rnol1l5ty5jtdnxapdhk.jpg"
+      {
+        "url": "https://res.cloudinary.com/debpabo0a/image/upload/v1760705358/rnol1l5ty5jtdnxapdhk.jpg",
+        "public_id": "rnol1l5ty5jtdnxapdhk"
+      }
     ],
     "price": 60000,
     "details": {
       "roomTypes": [
         {
-          "name": "Standard Room",
+          "name": "standard",
           "pricePerNight": 60000,
           "capacity": 2,
           "amenities": []
@@ -3295,15 +4146,24 @@
       "whatsapp": "09110016995"
     },
     "images": [
-      "https://res.cloudinary.com/debpabo0a/image/upload/v1765567406/kymka2lku89m5maabz6v.jpg",
-      "https://res.cloudinary.com/debpabo0a/image/upload/v1765567407/r4fjxddrseuu6a77ssjy.jpg",
-      "https://res.cloudinary.com/debpabo0a/image/upload/v1765567425/mqernvwbu3qprkzykhv8.jpg"
+      {
+        "url": "https://res.cloudinary.com/debpabo0a/image/upload/v1765567406/kymka2lku89m5maabz6v.jpg",
+        "public_id": "kymka2lku89m5maabz6v"
+      },
+      {
+        "url": "https://res.cloudinary.com/debpabo0a/image/upload/v1765567407/r4fjxddrseuu6a77ssjy.jpg",
+        "public_id": "r4fjxddrseuu6a77ssjy"
+      },
+      {
+        "url": "https://res.cloudinary.com/debpabo0a/image/upload/v1765567425/mqernvwbu3qprkzykhv8.jpg",
+        "public_id": "mqernvwbu3qprkzykhv8"
+      }
     ],
     "price": 50000,
     "details": {
       "roomTypes": [
         {
-          "name": "Standard Room",
+          "name": "standard",
           "pricePerNight": 50000,
           "capacity": 2,
           "amenities": []
@@ -3311,7 +4171,8 @@
       ],
       "checkInTime": "14:00",
       "checkOutTime": "12:00"
-    }
+    },
+    "description": "MARCHFORTE HOTEL & SUITES - Quality service and excellent facilities."
   },
   {
     "vendorId": "69558890c263664d295678ab",
@@ -3331,7 +4192,10 @@
       "whatsapp": "2348034241370"
     },
     "images": [
-      "https://res.cloudinary.com/debpabo0a/image/upload/v1761051723/szdhtxvi5hlddg2ukq9v.jpg"
+      {
+        "url": "https://res.cloudinary.com/debpabo0a/image/upload/v1761051723/szdhtxvi5hlddg2ukq9v.jpg",
+        "public_id": "szdhtxvi5hlddg2ukq9v"
+      }
     ],
     "price": 5000,
     "details": {
@@ -3358,14 +4222,20 @@
       "whatsapp": "8088406199"
     },
     "images": [
-      "https://res.cloudinary.com/debpabo0a/image/upload/v1765567503/zii18f0v0xacxwqxmkuv.jpg",
-      "https://res.cloudinary.com/debpabo0a/image/upload/v1765567503/lowlpfxztewi9w4ohjbl.jpg"
+      {
+        "url": "https://res.cloudinary.com/debpabo0a/image/upload/v1765567503/zii18f0v0xacxwqxmkuv.jpg",
+        "public_id": "zii18f0v0xacxwqxmkuv"
+      },
+      {
+        "url": "https://res.cloudinary.com/debpabo0a/image/upload/v1765567503/lowlpfxztewi9w4ohjbl.jpg",
+        "public_id": "lowlpfxztewi9w4ohjbl"
+      }
     ],
     "price": 30000,
     "details": {
       "roomTypes": [
         {
-          "name": "Standard Room",
+          "name": "standard",
           "pricePerNight": 30000,
           "capacity": 2,
           "amenities": []
@@ -3373,13 +4243,14 @@
       ],
       "checkInTime": "14:00",
       "checkOutTime": "12:00"
-    }
+    },
+    "description": "MASFORM LODGE - Quality service and excellent facilities."
   },
   {
     "vendorId": "69558890c263664d295678ab",
     "category": "hotel",
     "title": "Mikagn Hotel And Suites",
-    "description": "Mikagn Hotel And Suites is a small hotel offering a minibar in the rooms, and it is easy to stay connected during your stay as free wifi is offered to guests.\n\nThe small hotel features a concierge. Plus, guests can enjoy a pool and an on-site restaurant, which have made this a popular choice among travelers visiting Ibadan.\n\nWhile you’re here, be sure to check out some of the Chinese restaurants, including Ibachi and Zen Restaurant, all of which are a short distance from Mikagn Hotel And Suites.\n\nIbadan is also home to Agodi Gardens, a popular garden that is not too far from Mikagn Hotel And Suites.",
+    "description": "Mikagn Hotel And Suites is a small hotel offering a minibar in the rooms, and it is easy to stay connected during your stay as free wifi is offered to guests.\n\nThe small hotel features a concierge. Plus, guests can enjoy a pool and an on-site restaurant, which have made this a popular choice among travelers visiting Ibadan.\n\nWhile you’re here, be sure to check out some of the Chinese restaurants, including Ibachi and Zen Restaurant, all of which are a short distance from Mikagn Hotel And Suit...",
     "location": {
       "address": "15-17 Mikagn Street Tose Area, Moniya, Ibadan",
       "area": "Moniya",
@@ -3393,14 +4264,20 @@
       "whatsapp": "2347052192233"
     },
     "images": [
-      "https://res.cloudinary.com/debpabo0a/image/upload/v1761049980/znaqr6yjmeykg27oxnoi.jpg",
-      "https://res.cloudinary.com/debpabo0a/image/upload/v1765567721/nxtrfdtonl1v6kpfmfhg.jpg"
+      {
+        "url": "https://res.cloudinary.com/debpabo0a/image/upload/v1761049980/znaqr6yjmeykg27oxnoi.jpg",
+        "public_id": "znaqr6yjmeykg27oxnoi"
+      },
+      {
+        "url": "https://res.cloudinary.com/debpabo0a/image/upload/v1765567721/nxtrfdtonl1v6kpfmfhg.jpg",
+        "public_id": "nxtrfdtonl1v6kpfmfhg"
+      }
     ],
     "price": 20000,
     "details": {
       "roomTypes": [
         {
-          "name": "Standard Room",
+          "name": "standard",
           "pricePerNight": 20000,
           "capacity": 2,
           "amenities": []
@@ -3427,21 +4304,33 @@
       "whatsapp": "8156222644"
     },
     "images": [
-      "https://res.cloudinary.com/debpabo0a/image/upload/v1765567785/nz5ypiyosy63s7vk1pmn.jpg",
-      "https://res.cloudinary.com/debpabo0a/image/upload/v1765567785/m7hplqc5iucu2ttwm1fw.jpg",
-      "https://res.cloudinary.com/debpabo0a/image/upload/v1765567786/egrk2lqxpadccpjfvjt3.jpg"
+      {
+        "url": "https://res.cloudinary.com/debpabo0a/image/upload/v1765567785/nz5ypiyosy63s7vk1pmn.jpg",
+        "public_id": "nz5ypiyosy63s7vk1pmn"
+      },
+      {
+        "url": "https://res.cloudinary.com/debpabo0a/image/upload/v1765567785/m7hplqc5iucu2ttwm1fw.jpg",
+        "public_id": "m7hplqc5iucu2ttwm1fw"
+      },
+      {
+        "url": "https://res.cloudinary.com/debpabo0a/image/upload/v1765567786/egrk2lqxpadccpjfvjt3.jpg",
+        "public_id": "egrk2lqxpadccpjfvjt3"
+      }
     ],
     "details": {
       "roomTypes": [
         {
-          "name": "Standard Room",
+          "name": "standard",
           "capacity": 2,
-          "amenities": []
+          "amenities": [],
+          "pricePerNight": 1000
         }
       ],
       "checkInTime": "14:00",
       "checkOutTime": "12:00"
-    }
+    },
+    "description": "NEST SPA HOTEL AND SUITES - Quality service and excellent facilities.",
+    "price": 1000
   },
   {
     "vendorId": "69558890c263664d295678ab",
@@ -3460,16 +4349,28 @@
       "whatsapp": "8089875595"
     },
     "images": [
-      "https://res.cloudinary.com/debpabo0a/image/upload/v1765568049/ystzqyx8uxllq0mkqs1n.jpg",
-      "https://res.cloudinary.com/debpabo0a/image/upload/v1765568053/v6ljlxztcq3sx8s8gdft.jpg",
-      "https://res.cloudinary.com/debpabo0a/image/upload/v1765568086/td8v0iqybwu4gb3u8ehs.jpg",
-      "https://res.cloudinary.com/debpabo0a/image/upload/v1765568086/ilpvtqfbl5vzcfzr2wed.jpg"
+      {
+        "url": "https://res.cloudinary.com/debpabo0a/image/upload/v1765568049/ystzqyx8uxllq0mkqs1n.jpg",
+        "public_id": "ystzqyx8uxllq0mkqs1n"
+      },
+      {
+        "url": "https://res.cloudinary.com/debpabo0a/image/upload/v1765568053/v6ljlxztcq3sx8s8gdft.jpg",
+        "public_id": "v6ljlxztcq3sx8s8gdft"
+      },
+      {
+        "url": "https://res.cloudinary.com/debpabo0a/image/upload/v1765568086/td8v0iqybwu4gb3u8ehs.jpg",
+        "public_id": "td8v0iqybwu4gb3u8ehs"
+      },
+      {
+        "url": "https://res.cloudinary.com/debpabo0a/image/upload/v1765568086/ilpvtqfbl5vzcfzr2wed.jpg",
+        "public_id": "ilpvtqfbl5vzcfzr2wed"
+      }
     ],
     "price": 45000,
     "details": {
       "roomTypes": [
         {
-          "name": "Standard Room",
+          "name": "standard",
           "pricePerNight": 45000,
           "capacity": 2,
           "amenities": []
@@ -3477,7 +4378,8 @@
       ],
       "checkInTime": "14:00",
       "checkOutTime": "12:00"
-    }
+    },
+    "description": "NITAFI LUXURY HOTEL - Quality service and excellent facilities."
   },
   {
     "vendorId": "69558890c263664d295678ab",
@@ -3496,21 +4398,33 @@
       "whatsapp": "9139052671"
     },
     "images": [
-      "https://res.cloudinary.com/debpabo0a/image/upload/v1765568173/wrykfaskxniroocthcwk.jpg",
-      "https://res.cloudinary.com/debpabo0a/image/upload/v1765568173/kdvlwr0kazmdv3xqlftz.jpg",
-      "https://res.cloudinary.com/debpabo0a/image/upload/v1765568173/hqusmvawzieorwq7z3dg.jpg"
+      {
+        "url": "https://res.cloudinary.com/debpabo0a/image/upload/v1765568173/wrykfaskxniroocthcwk.jpg",
+        "public_id": "wrykfaskxniroocthcwk"
+      },
+      {
+        "url": "https://res.cloudinary.com/debpabo0a/image/upload/v1765568173/kdvlwr0kazmdv3xqlftz.jpg",
+        "public_id": "kdvlwr0kazmdv3xqlftz"
+      },
+      {
+        "url": "https://res.cloudinary.com/debpabo0a/image/upload/v1765568173/hqusmvawzieorwq7z3dg.jpg",
+        "public_id": "hqusmvawzieorwq7z3dg"
+      }
     ],
     "details": {
       "roomTypes": [
         {
-          "name": "Standard Room",
+          "name": "standard",
           "capacity": 2,
-          "amenities": []
+          "amenities": [],
+          "pricePerNight": 1000
         }
       ],
       "checkInTime": "14:00",
       "checkOutTime": "12:00"
-    }
+    },
+    "description": "OLYMPUS HOTEL AND SUITES - Quality service and excellent facilities.",
+    "price": 1000
   },
   {
     "vendorId": "69558890c263664d295678ab",
@@ -3529,15 +4443,24 @@
       "whatsapp": "9035749811"
     },
     "images": [
-      "https://res.cloudinary.com/debpabo0a/image/upload/v1765568299/lmc3dmhl9zcnirawyxwf.jpg",
-      "https://res.cloudinary.com/debpabo0a/image/upload/v1765568299/sxtcdp2hbz0bqcqjxweh.jpg",
-      "https://res.cloudinary.com/debpabo0a/image/upload/v1765568299/z89xpuz46bbzilnfwmys.jpg"
+      {
+        "url": "https://res.cloudinary.com/debpabo0a/image/upload/v1765568299/lmc3dmhl9zcnirawyxwf.jpg",
+        "public_id": "lmc3dmhl9zcnirawyxwf"
+      },
+      {
+        "url": "https://res.cloudinary.com/debpabo0a/image/upload/v1765568299/sxtcdp2hbz0bqcqjxweh.jpg",
+        "public_id": "sxtcdp2hbz0bqcqjxweh"
+      },
+      {
+        "url": "https://res.cloudinary.com/debpabo0a/image/upload/v1765568299/z89xpuz46bbzilnfwmys.jpg",
+        "public_id": "z89xpuz46bbzilnfwmys"
+      }
     ],
     "price": 37000,
     "details": {
       "roomTypes": [
         {
-          "name": "Standard Room",
+          "name": "standard",
           "pricePerNight": 37000,
           "capacity": 2,
           "amenities": []
@@ -3545,7 +4468,8 @@
       ],
       "checkInTime": "14:00",
       "checkOutTime": "12:00"
-    }
+    },
+    "description": "ORLLAR INTERNATIONAL HOTEL AND\n SUITES - Quality service and excellent facilities."
   },
   {
     "vendorId": "69558890c263664d295678ab",
@@ -3564,15 +4488,24 @@
       "whatsapp": "8161705405"
     },
     "images": [
-      "https://res.cloudinary.com/debpabo0a/image/upload/v1765568387/m6n20oe87ovkup9lmlxn.jpg",
-      "https://res.cloudinary.com/debpabo0a/image/upload/v1765568387/rriydxovddmy6zhm6rdc.jpg",
-      "https://res.cloudinary.com/debpabo0a/image/upload/v1765568387/dpgmu7imdvv9pom9k2im.jpg"
+      {
+        "url": "https://res.cloudinary.com/debpabo0a/image/upload/v1765568387/m6n20oe87ovkup9lmlxn.jpg",
+        "public_id": "m6n20oe87ovkup9lmlxn"
+      },
+      {
+        "url": "https://res.cloudinary.com/debpabo0a/image/upload/v1765568387/rriydxovddmy6zhm6rdc.jpg",
+        "public_id": "rriydxovddmy6zhm6rdc"
+      },
+      {
+        "url": "https://res.cloudinary.com/debpabo0a/image/upload/v1765568387/dpgmu7imdvv9pom9k2im.jpg",
+        "public_id": "dpgmu7imdvv9pom9k2im"
+      }
     ],
     "price": 20000,
     "details": {
       "roomTypes": [
         {
-          "name": "Standard Room",
+          "name": "standard",
           "pricePerNight": 20000,
           "capacity": 2,
           "amenities": []
@@ -3580,7 +4513,8 @@
       ],
       "checkInTime": "14:00",
       "checkOutTime": "12:00"
-    }
+    },
+    "description": "OSMAK HOTEL AND SUITES - Quality service and excellent facilities."
   },
   {
     "vendorId": "69558890c263664d295678ab",
@@ -3600,13 +4534,16 @@
       "whatsapp": "2347072446495"
     },
     "images": [
-      "https://res.cloudinary.com/debpabo0a/image/upload/v1760707204/wl9a2duiwyxv6j7waofu.jpg"
+      {
+        "url": "https://res.cloudinary.com/debpabo0a/image/upload/v1760707204/wl9a2duiwyxv6j7waofu.jpg",
+        "public_id": "wl9a2duiwyxv6j7waofu"
+      }
     ],
     "price": 45000,
     "details": {
       "roomTypes": [
         {
-          "name": "Standard Room",
+          "name": "standard",
           "pricePerNight": 45000,
           "capacity": 2,
           "amenities": []
@@ -3633,15 +4570,24 @@
       "whatsapp": "8166002419"
     },
     "images": [
-      "https://res.cloudinary.com/debpabo0a/image/upload/v1765568463/ym3wxdptvslvy7xczgpy.jpg",
-      "https://res.cloudinary.com/debpabo0a/image/upload/v1765568463/lsrdn8vhfgy7dhc1ycze.jpg",
-      "https://res.cloudinary.com/debpabo0a/image/upload/v1765568463/jafhyodfnvoc1rbl6roi.jpg"
+      {
+        "url": "https://res.cloudinary.com/debpabo0a/image/upload/v1765568463/ym3wxdptvslvy7xczgpy.jpg",
+        "public_id": "ym3wxdptvslvy7xczgpy"
+      },
+      {
+        "url": "https://res.cloudinary.com/debpabo0a/image/upload/v1765568463/lsrdn8vhfgy7dhc1ycze.jpg",
+        "public_id": "lsrdn8vhfgy7dhc1ycze"
+      },
+      {
+        "url": "https://res.cloudinary.com/debpabo0a/image/upload/v1765568463/jafhyodfnvoc1rbl6roi.jpg",
+        "public_id": "jafhyodfnvoc1rbl6roi"
+      }
     ],
     "price": 10000,
     "details": {
       "roomTypes": [
         {
-          "name": "Standard Room",
+          "name": "standard",
           "pricePerNight": 10000,
           "capacity": 2,
           "amenities": []
@@ -3649,7 +4595,8 @@
       ],
       "checkInTime": "14:00",
       "checkOutTime": "12:00"
-    }
+    },
+    "description": "PARKWAY HOTEL - Quality service and excellent facilities."
   },
   {
     "vendorId": "69558890c263664d295678ab",
@@ -3663,25 +4610,31 @@
         "lng": null
       }
     },
-    "contactInformation": {
-      "phone": null,
-      "whatsapp": null
-    },
+    "contactInformation": {},
     "images": [
-      "https://res.cloudinary.com/debpabo0a/image/upload/v1765568591/pz1tkgtwhmr3ig2rj8e2.jpg",
-      "https://res.cloudinary.com/debpabo0a/image/upload/v1765568591/eb35egwdj8emath4kbu2.jpg"
+      {
+        "url": "https://res.cloudinary.com/debpabo0a/image/upload/v1765568591/pz1tkgtwhmr3ig2rj8e2.jpg",
+        "public_id": "pz1tkgtwhmr3ig2rj8e2"
+      },
+      {
+        "url": "https://res.cloudinary.com/debpabo0a/image/upload/v1765568591/eb35egwdj8emath4kbu2.jpg",
+        "public_id": "eb35egwdj8emath4kbu2"
+      }
     ],
     "details": {
       "roomTypes": [
         {
-          "name": "Standard Room",
+          "name": "standard",
           "capacity": 2,
-          "amenities": []
+          "amenities": [],
+          "pricePerNight": 1000
         }
       ],
       "checkInTime": "14:00",
       "checkOutTime": "12:00"
-    }
+    },
+    "description": "POA GUESTHOUSE - Quality service and excellent facilities.",
+    "price": 1000
   },
   {
     "vendorId": "69558890c263664d295678ab",
@@ -3701,8 +4654,14 @@
       "whatsapp": "2349031988823"
     },
     "images": [
-      "https://res.cloudinary.com/debpabo0a/image/upload/v1761751207/zvytc628c8lzhrin6vdl.png",
-      "https://res.cloudinary.com/debpabo0a/image/upload/v1765569089/lmgwbf4tt5sgkzxewas8.png"
+      {
+        "url": "https://res.cloudinary.com/debpabo0a/image/upload/v1761751207/zvytc628c8lzhrin6vdl.png",
+        "public_id": "zvytc628c8lzhrin6vdl"
+      },
+      {
+        "url": "https://res.cloudinary.com/debpabo0a/image/upload/v1765569089/lmgwbf4tt5sgkzxewas8.png",
+        "public_id": "lmgwbf4tt5sgkzxewas8"
+      }
     ],
     "price": 40000,
     "details": {
@@ -3728,22 +4687,37 @@
       "whatsapp": "7074704413"
     },
     "images": [
-      "https://res.cloudinary.com/debpabo0a/image/upload/v1765569240/eelzp5fx2i9dnuocltv9.jpg",
-      "https://res.cloudinary.com/debpabo0a/image/upload/v1765569241/dazk4jukbbbdsabddoew.jpg",
-      "https://res.cloudinary.com/debpabo0a/image/upload/v1765569241/mhze88brmdafou1dqrof.jpg",
-      "https://res.cloudinary.com/debpabo0a/image/upload/v1765569242/svmisfwfctlkeuu0zjm6.jpg"
+      {
+        "url": "https://res.cloudinary.com/debpabo0a/image/upload/v1765569240/eelzp5fx2i9dnuocltv9.jpg",
+        "public_id": "eelzp5fx2i9dnuocltv9"
+      },
+      {
+        "url": "https://res.cloudinary.com/debpabo0a/image/upload/v1765569241/dazk4jukbbbdsabddoew.jpg",
+        "public_id": "dazk4jukbbbdsabddoew"
+      },
+      {
+        "url": "https://res.cloudinary.com/debpabo0a/image/upload/v1765569241/mhze88brmdafou1dqrof.jpg",
+        "public_id": "mhze88brmdafou1dqrof"
+      },
+      {
+        "url": "https://res.cloudinary.com/debpabo0a/image/upload/v1765569242/svmisfwfctlkeuu0zjm6.jpg",
+        "public_id": "svmisfwfctlkeuu0zjm6"
+      }
     ],
     "details": {
       "roomTypes": [
         {
-          "name": "Standard Room",
+          "name": "standard",
           "capacity": 2,
-          "amenities": []
+          "amenities": [],
+          "pricePerNight": 1000
         }
       ],
       "checkInTime": "14:00",
       "checkOutTime": "12:00"
-    }
+    },
+    "description": "QUZTAN SUITES - Quality service and excellent facilities.",
+    "price": 1000
   },
   {
     "vendorId": "69558890c263664d295678ab",
@@ -3762,16 +4736,26 @@
       "whatsapp": "9167499130"
     },
     "images": [
-      "https://res.cloudinary.com/debpabo0a/image/upload/v1765569335/g2eurjx2hpmrig539p27.jpg",
-      "https://res.cloudinary.com/debpabo0a/image/upload/v1765569336/qv6zl4a522nzgi0mnsga.jpg",
-      "https://res.cloudinary.com/debpabo0a/image/upload/v1765569336/wfmfxtksqw78cbmiecrz.jpg"
+      {
+        "url": "https://res.cloudinary.com/debpabo0a/image/upload/v1765569335/g2eurjx2hpmrig539p27.jpg",
+        "public_id": "g2eurjx2hpmrig539p27"
+      },
+      {
+        "url": "https://res.cloudinary.com/debpabo0a/image/upload/v1765569336/qv6zl4a522nzgi0mnsga.jpg",
+        "public_id": "qv6zl4a522nzgi0mnsga"
+      },
+      {
+        "url": "https://res.cloudinary.com/debpabo0a/image/upload/v1765569336/wfmfxtksqw78cbmiecrz.jpg",
+        "public_id": "wfmfxtksqw78cbmiecrz"
+      }
     ],
     "price": 55000,
     "details": {
       "pricePerNight": 55000,
       "maxGuests": 2,
       "amenities": []
-    }
+    },
+    "description": "READYHOMES APARTMENT - Quality service and excellent facilities."
   },
   {
     "vendorId": "69558890c263664d295678ab",
@@ -3790,21 +4774,33 @@
       "whatsapp": "8023339585"
     },
     "images": [
-      "https://res.cloudinary.com/debpabo0a/image/upload/v1765569406/bwkdhbqsrbylqxypurx9.jpg",
-      "https://res.cloudinary.com/debpabo0a/image/upload/v1765569406/gv6czxhkawgwdu7kczjn.jpg",
-      "https://res.cloudinary.com/debpabo0a/image/upload/v1765569407/jba4xqm71ew0dfuueiqd.jpg"
+      {
+        "url": "https://res.cloudinary.com/debpabo0a/image/upload/v1765569406/bwkdhbqsrbylqxypurx9.jpg",
+        "public_id": "bwkdhbqsrbylqxypurx9"
+      },
+      {
+        "url": "https://res.cloudinary.com/debpabo0a/image/upload/v1765569406/gv6czxhkawgwdu7kczjn.jpg",
+        "public_id": "gv6czxhkawgwdu7kczjn"
+      },
+      {
+        "url": "https://res.cloudinary.com/debpabo0a/image/upload/v1765569407/jba4xqm71ew0dfuueiqd.jpg",
+        "public_id": "jba4xqm71ew0dfuueiqd"
+      }
     ],
     "details": {
       "roomTypes": [
         {
-          "name": "Standard Room",
+          "name": "standard",
           "capacity": 2,
-          "amenities": []
+          "amenities": [],
+          "pricePerNight": 1000
         }
       ],
       "checkInTime": "14:00",
       "checkOutTime": "12:00"
-    }
+    },
+    "description": "REAL CHOICE HOTEL - Quality service and excellent facilities.",
+    "price": 1000
   },
   {
     "vendorId": "69558890c263664d295678ab",
@@ -3823,20 +4819,29 @@
       "whatsapp": "8085729293"
     },
     "images": [
-      "https://res.cloudinary.com/debpabo0a/image/upload/v1765569471/cmll36vorrwcr12uuqus.jpg",
-      "https://res.cloudinary.com/debpabo0a/image/upload/v1765569471/gxyceiccnysoyybrdoom.jpg"
+      {
+        "url": "https://res.cloudinary.com/debpabo0a/image/upload/v1765569471/cmll36vorrwcr12uuqus.jpg",
+        "public_id": "cmll36vorrwcr12uuqus"
+      },
+      {
+        "url": "https://res.cloudinary.com/debpabo0a/image/upload/v1765569471/gxyceiccnysoyybrdoom.jpg",
+        "public_id": "gxyceiccnysoyybrdoom"
+      }
     ],
     "details": {
       "roomTypes": [
         {
-          "name": "Standard Room",
+          "name": "standard",
           "capacity": 2,
-          "amenities": []
+          "amenities": [],
+          "pricePerNight": 1000
         }
       ],
       "checkInTime": "14:00",
       "checkOutTime": "12:00"
-    }
+    },
+    "description": "REAL DIAMOND HOTEL - Quality service and excellent facilities.",
+    "price": 1000
   },
   {
     "vendorId": "69558890c263664d295678ab",
@@ -3851,19 +4856,22 @@
         "lng": 7.4762
       }
     },
-    "contactInformation": {
-      "phone": null,
-      "whatsapp": null
-    },
+    "contactInformation": {},
     "images": [
-      "https://res.cloudinary.com/debpabo0a/image/upload/v1761042344/vjva30vedmbbll6snqph.webp",
-      "https://res.cloudinary.com/debpabo0a/image/upload/v1765569577/kzw5n81ti7d1na7ywztx.webp"
+      {
+        "url": "https://res.cloudinary.com/debpabo0a/image/upload/v1761042344/vjva30vedmbbll6snqph.webp",
+        "public_id": "vjva30vedmbbll6snqph"
+      },
+      {
+        "url": "https://res.cloudinary.com/debpabo0a/image/upload/v1765569577/kzw5n81ti7d1na7ywztx.webp",
+        "public_id": "kzw5n81ti7d1na7ywztx"
+      }
     ],
     "price": 27000,
     "details": {
       "roomTypes": [
         {
-          "name": "Standard Room",
+          "name": "standard",
           "pricePerNight": 27000,
           "capacity": 2,
           "amenities": []
@@ -3890,15 +4898,24 @@
       "whatsapp": "8034644248"
     },
     "images": [
-      "https://res.cloudinary.com/debpabo0a/image/upload/v1765569736/slmgis1nm36c1l7aryyf.jpg",
-      "https://res.cloudinary.com/debpabo0a/image/upload/v1765569735/phlepgi1hzhvcmglyggn.jpg",
-      "https://res.cloudinary.com/debpabo0a/image/upload/v1765569770/ugqqqv7txfqumswqgwck.jpg"
+      {
+        "url": "https://res.cloudinary.com/debpabo0a/image/upload/v1765569736/slmgis1nm36c1l7aryyf.jpg",
+        "public_id": "slmgis1nm36c1l7aryyf"
+      },
+      {
+        "url": "https://res.cloudinary.com/debpabo0a/image/upload/v1765569735/phlepgi1hzhvcmglyggn.jpg",
+        "public_id": "phlepgi1hzhvcmglyggn"
+      },
+      {
+        "url": "https://res.cloudinary.com/debpabo0a/image/upload/v1765569770/ugqqqv7txfqumswqgwck.jpg",
+        "public_id": "ugqqqv7txfqumswqgwck"
+      }
     ],
     "price": 50000,
     "details": {
       "roomTypes": [
         {
-          "name": "Standard Room",
+          "name": "standard",
           "pricePerNight": 50000,
           "capacity": 2,
           "amenities": []
@@ -3906,7 +4923,8 @@
       ],
       "checkInTime": "14:00",
       "checkOutTime": "12:00"
-    }
+    },
+    "description": "ROFEL HOTEL - Quality service and excellent facilities."
   },
   {
     "vendorId": "69558890c263664d295678ab",
@@ -3920,22 +4938,27 @@
         "lng": null
       }
     },
-    "contactInformation": {
-      "phone": null,
-      "whatsapp": null
-    },
-    "images": [],
+    "contactInformation": {},
+    "images": [
+      {
+        "url": "https://res.cloudinary.com/debpabo0a/image/upload/v1761828191/wzpfaj1eijplrfcgnsof.jpg",
+        "public_id": "wzpfaj1eijplrfcgnsof"
+      }
+    ],
     "details": {
       "roomTypes": [
         {
-          "name": "Standard Room",
+          "name": "standard",
           "capacity": 2,
-          "amenities": []
+          "amenities": [],
+          "pricePerNight": 1000
         }
       ],
       "checkInTime": "14:00",
       "checkOutTime": "12:00"
-    }
+    },
+    "description": "ROYAL B HOTEL - Quality service and excellent facilities.",
+    "price": 1000
   },
   {
     "vendorId": "69558890c263664d295678ab",
@@ -3953,12 +4976,17 @@
       "phone": "8035634300",
       "whatsapp": "8035634300"
     },
-    "images": [],
+    "images": [
+      {
+        "url": "https://res.cloudinary.com/debpabo0a/image/upload/v1761828191/wzpfaj1eijplrfcgnsof.jpg",
+        "public_id": "wzpfaj1eijplrfcgnsof"
+      }
+    ],
     "price": 22000,
     "details": {
       "roomTypes": [
         {
-          "name": "Standard Room",
+          "name": "standard",
           "pricePerNight": 22000,
           "capacity": 2,
           "amenities": []
@@ -3966,7 +4994,8 @@
       ],
       "checkInTime": "14:00",
       "checkOutTime": "12:00"
-    }
+    },
+    "description": "ROYAL CEDAR HOTEL AND APARTMENTS - Quality service and excellent facilities."
   },
   {
     "vendorId": "69558890c263664d295678ab",
@@ -3984,12 +5013,17 @@
       "phone": "8137172397",
       "whatsapp": "8137172397"
     },
-    "images": [],
+    "images": [
+      {
+        "url": "https://res.cloudinary.com/debpabo0a/image/upload/v1761828191/wzpfaj1eijplrfcgnsof.jpg",
+        "public_id": "wzpfaj1eijplrfcgnsof"
+      }
+    ],
     "price": 15000,
     "details": {
       "roomTypes": [
         {
-          "name": "Standard Room",
+          "name": "standard",
           "pricePerNight": 15000,
           "capacity": 2,
           "amenities": []
@@ -3997,7 +5031,8 @@
       ],
       "checkInTime": "14:00",
       "checkOutTime": "12:00"
-    }
+    },
+    "description": "ROYAL HOTELS - Quality service and excellent facilities."
   },
   {
     "vendorId": "69558890c263664d295678ab",
@@ -4015,12 +5050,17 @@
       "phone": "9015525389",
       "whatsapp": "9015525389"
     },
-    "images": [],
+    "images": [
+      {
+        "url": "https://res.cloudinary.com/debpabo0a/image/upload/v1761828191/wzpfaj1eijplrfcgnsof.jpg",
+        "public_id": "wzpfaj1eijplrfcgnsof"
+      }
+    ],
     "price": 25000,
     "details": {
       "roomTypes": [
         {
-          "name": "Standard Room",
+          "name": "standard",
           "pricePerNight": 25000,
           "capacity": 2,
           "amenities": []
@@ -4028,7 +5068,8 @@
       ],
       "checkInTime": "14:00",
       "checkOutTime": "12:00"
-    }
+    },
+    "description": "ROYAL PALACE HOTEL - Quality service and excellent facilities."
   },
   {
     "vendorId": "69558890c263664d295678ab",
@@ -4046,18 +5087,26 @@
       "phone": "7030703400",
       "whatsapp": "7030703400"
     },
-    "images": [],
+    "images": [
+      {
+        "url": "https://res.cloudinary.com/debpabo0a/image/upload/v1761828191/wzpfaj1eijplrfcgnsof.jpg",
+        "public_id": "wzpfaj1eijplrfcgnsof"
+      }
+    ],
     "details": {
       "roomTypes": [
         {
-          "name": "Standard Room",
+          "name": "standard",
           "capacity": 2,
-          "amenities": []
+          "amenities": [],
+          "pricePerNight": 1000
         }
       ],
       "checkInTime": "14:00",
       "checkOutTime": "12:00"
-    }
+    },
+    "description": "ROYAL RESORT IBADAN - Quality service and excellent facilities.",
+    "price": 1000
   },
   {
     "vendorId": "69558890c263664d295678ab",
@@ -4075,12 +5124,17 @@
       "phone": "7030703400",
       "whatsapp": "7030703400"
     },
-    "images": [],
+    "images": [
+      {
+        "url": "https://res.cloudinary.com/debpabo0a/image/upload/v1761828191/wzpfaj1eijplrfcgnsof.jpg",
+        "public_id": "wzpfaj1eijplrfcgnsof"
+      }
+    ],
     "price": 35000,
     "details": {
       "roomTypes": [
         {
-          "name": "Standard Room",
+          "name": "standard",
           "pricePerNight": 35000,
           "capacity": 2,
           "amenities": []
@@ -4088,7 +5142,8 @@
       ],
       "checkInTime": "14:00",
       "checkOutTime": "12:00"
-    }
+    },
+    "description": "ROYAL RESORTS IYAGANKU GRA - Quality service and excellent facilities."
   },
   {
     "vendorId": "69558890c263664d295678ab",
@@ -4106,12 +5161,17 @@
       "phone": "8164265137",
       "whatsapp": "8164265137"
     },
-    "images": [],
+    "images": [
+      {
+        "url": "https://res.cloudinary.com/debpabo0a/image/upload/v1761828191/wzpfaj1eijplrfcgnsof.jpg",
+        "public_id": "wzpfaj1eijplrfcgnsof"
+      }
+    ],
     "price": 17500,
     "details": {
       "roomTypes": [
         {
-          "name": "Standard Room",
+          "name": "standard",
           "pricePerNight": 17500,
           "capacity": 2,
           "amenities": []
@@ -4119,7 +5179,8 @@
       ],
       "checkInTime": "14:00",
       "checkOutTime": "12:00"
-    }
+    },
+    "description": "ROYAL SIGNATURE HOTEL & SUITES - Quality service and excellent facilities."
   },
   {
     "vendorId": "69558890c263664d295678ab",
@@ -4138,15 +5199,24 @@
       "whatsapp": "7008808800"
     },
     "images": [
-      "https://res.cloudinary.com/debpabo0a/image/upload/v1765569870/oi1d5qbopcgob0mpvtex.jpg",
-      "https://res.cloudinary.com/debpabo0a/image/upload/v1765569869/njl6kcbcblybhubkotqs.jpg",
-      "https://res.cloudinary.com/debpabo0a/image/upload/v1765569870/gij5fzzkg7a89l0ky4gf.jpg"
+      {
+        "url": "https://res.cloudinary.com/debpabo0a/image/upload/v1765569870/oi1d5qbopcgob0mpvtex.jpg",
+        "public_id": "oi1d5qbopcgob0mpvtex"
+      },
+      {
+        "url": "https://res.cloudinary.com/debpabo0a/image/upload/v1765569869/njl6kcbcblybhubkotqs.jpg",
+        "public_id": "njl6kcbcblybhubkotqs"
+      },
+      {
+        "url": "https://res.cloudinary.com/debpabo0a/image/upload/v1765569870/gij5fzzkg7a89l0ky4gf.jpg",
+        "public_id": "gij5fzzkg7a89l0ky4gf"
+      }
     ],
     "price": 25000,
     "details": {
       "roomTypes": [
         {
-          "name": "Standard Room",
+          "name": "standard",
           "pricePerNight": 25000,
           "capacity": 2,
           "amenities": []
@@ -4154,7 +5224,8 @@
       ],
       "checkInTime": "14:00",
       "checkOutTime": "12:00"
-    }
+    },
+    "description": "SADIM GUEST HOUSE - Quality service and excellent facilities."
   },
   {
     "vendorId": "69558890c263664d295678ab",
@@ -4173,16 +5244,28 @@
       "whatsapp": "7025005640"
     },
     "images": [
-      "https://res.cloudinary.com/debpabo0a/image/upload/v1765569938/iyrwqus9jykg2ije4cmv.jpg",
-      "https://res.cloudinary.com/debpabo0a/image/upload/v1765569939/f1oqxlvfslltsnjzsjyu.jpg",
-      "https://res.cloudinary.com/debpabo0a/image/upload/v1765569939/j5quoocfjww9mt9gvyo0.jpg",
-      "https://res.cloudinary.com/debpabo0a/image/upload/v1765569939/rtcstugbwmukcdrui2dp.jpg"
+      {
+        "url": "https://res.cloudinary.com/debpabo0a/image/upload/v1765569938/iyrwqus9jykg2ije4cmv.jpg",
+        "public_id": "iyrwqus9jykg2ije4cmv"
+      },
+      {
+        "url": "https://res.cloudinary.com/debpabo0a/image/upload/v1765569939/f1oqxlvfslltsnjzsjyu.jpg",
+        "public_id": "f1oqxlvfslltsnjzsjyu"
+      },
+      {
+        "url": "https://res.cloudinary.com/debpabo0a/image/upload/v1765569939/j5quoocfjww9mt9gvyo0.jpg",
+        "public_id": "j5quoocfjww9mt9gvyo0"
+      },
+      {
+        "url": "https://res.cloudinary.com/debpabo0a/image/upload/v1765569939/rtcstugbwmukcdrui2dp.jpg",
+        "public_id": "rtcstugbwmukcdrui2dp"
+      }
     ],
     "price": 28000,
     "details": {
       "roomTypes": [
         {
-          "name": "Standard Room",
+          "name": "standard",
           "pricePerNight": 28000,
           "capacity": 2,
           "amenities": []
@@ -4190,12 +5273,13 @@
       ],
       "checkInTime": "14:00",
       "checkOutTime": "12:00"
-    }
+    },
+    "description": "SAIRE HOTEL - Quality service and excellent facilities."
   },
   {
     "vendorId": "69558890c263664d295678ab",
     "category": "hotel",
-    "title": "SCROLAB EXECUTIVE HOTELS",
+    "title": "SCROLAB EXECUTIVE HOTELS Oke Ado",
     "location": {
       "address": "Imalealafia street, Oke Ado Ibadan",
       "area": "Oke Ado",
@@ -4208,12 +5292,17 @@
       "phone": "8032225235",
       "whatsapp": "8032225235"
     },
-    "images": [],
+    "images": [
+      {
+        "url": "https://res.cloudinary.com/debpabo0a/image/upload/v1761828191/wzpfaj1eijplrfcgnsof.jpg",
+        "public_id": "wzpfaj1eijplrfcgnsof"
+      }
+    ],
     "price": 25000,
     "details": {
       "roomTypes": [
         {
-          "name": "Standard Room",
+          "name": "standard",
           "pricePerNight": 25000,
           "capacity": 2,
           "amenities": []
@@ -4221,12 +5310,13 @@
       ],
       "checkInTime": "14:00",
       "checkOutTime": "12:00"
-    }
+    },
+    "description": "SCROLAB EXECUTIVE HOTELS - Quality service and excellent facilities."
   },
   {
     "vendorId": "69558890c263664d295678ab",
     "category": "hotel",
-    "title": "SCROLAB EXECUTIVE HOTELS",
+    "title": "SCROLAB EXECUTIVE HOTELS Felele",
     "location": {
       "address": "FELELE, IBADAN",
       "area": "Felele",
@@ -4240,16 +5330,28 @@
       "whatsapp": "8032501176"
     },
     "images": [
-      "https://res.cloudinary.com/debpabo0a/image/upload/v1765570017/pnej7ydaez5826davtpo.jpg",
-      "https://res.cloudinary.com/debpabo0a/image/upload/v1765570017/c0d6h0nmnx3jozzjixrb.jpg",
-      "https://res.cloudinary.com/debpabo0a/image/upload/v1765570017/e4gb3epwt4ln5xldig1f.jpg",
-      "https://res.cloudinary.com/debpabo0a/image/upload/v1765570017/n4u7dn6s0q6cjojm3bhh.jpg"
+      {
+        "url": "https://res.cloudinary.com/debpabo0a/image/upload/v1765570017/pnej7ydaez5826davtpo.jpg",
+        "public_id": "pnej7ydaez5826davtpo"
+      },
+      {
+        "url": "https://res.cloudinary.com/debpabo0a/image/upload/v1765570017/c0d6h0nmnx3jozzjixrb.jpg",
+        "public_id": "c0d6h0nmnx3jozzjixrb"
+      },
+      {
+        "url": "https://res.cloudinary.com/debpabo0a/image/upload/v1765570017/e4gb3epwt4ln5xldig1f.jpg",
+        "public_id": "e4gb3epwt4ln5xldig1f"
+      },
+      {
+        "url": "https://res.cloudinary.com/debpabo0a/image/upload/v1765570017/n4u7dn6s0q6cjojm3bhh.jpg",
+        "public_id": "n4u7dn6s0q6cjojm3bhh"
+      }
     ],
     "price": 25000,
     "details": {
       "roomTypes": [
         {
-          "name": "Standard Room",
+          "name": "standard",
           "pricePerNight": 25000,
           "capacity": 2,
           "amenities": []
@@ -4257,7 +5359,8 @@
       ],
       "checkInTime": "14:00",
       "checkOutTime": "12:00"
-    }
+    },
+    "description": "SCROLAB EXECUTIVE HOTELS - Quality service and excellent facilities."
   },
   {
     "vendorId": "69558890c263664d295678ab",
@@ -4277,7 +5380,10 @@
       "whatsapp": "2348143789707"
     },
     "images": [
-      "https://res.cloudinary.com/debpabo0a/image/upload/v1761827139/e9m9d6wpwbhslggx6utq.jpg"
+      {
+        "url": "https://res.cloudinary.com/debpabo0a/image/upload/v1761827139/e9m9d6wpwbhslggx6utq.jpg",
+        "public_id": "e9m9d6wpwbhslggx6utq"
+      }
     ],
     "price": 65000,
     "details": {
@@ -4303,16 +5409,28 @@
       "whatsapp": "7061276981"
     },
     "images": [
-      "https://res.cloudinary.com/debpabo0a/image/upload/v1765570079/yajt7pvti9pouxtio9ta.jpg",
-      "https://res.cloudinary.com/debpabo0a/image/upload/v1765570079/lnkeikgygv8lylgwl1yg.jpg",
-      "https://res.cloudinary.com/debpabo0a/image/upload/v1765570079/hviefgpdzlespnvn92ky.jpg",
-      "https://res.cloudinary.com/debpabo0a/image/upload/v1765570095/t435cjonm08xmkxeiwor.jpg"
+      {
+        "url": "https://res.cloudinary.com/debpabo0a/image/upload/v1765570079/yajt7pvti9pouxtio9ta.jpg",
+        "public_id": "yajt7pvti9pouxtio9ta"
+      },
+      {
+        "url": "https://res.cloudinary.com/debpabo0a/image/upload/v1765570079/lnkeikgygv8lylgwl1yg.jpg",
+        "public_id": "lnkeikgygv8lylgwl1yg"
+      },
+      {
+        "url": "https://res.cloudinary.com/debpabo0a/image/upload/v1765570079/hviefgpdzlespnvn92ky.jpg",
+        "public_id": "hviefgpdzlespnvn92ky"
+      },
+      {
+        "url": "https://res.cloudinary.com/debpabo0a/image/upload/v1765570095/t435cjonm08xmkxeiwor.jpg",
+        "public_id": "t435cjonm08xmkxeiwor"
+      }
     ],
     "price": 35000,
     "details": {
       "roomTypes": [
         {
-          "name": "Standard Room",
+          "name": "standard",
           "pricePerNight": 35000,
           "capacity": 2,
           "amenities": []
@@ -4320,7 +5438,8 @@
       ],
       "checkInTime": "14:00",
       "checkOutTime": "12:00"
-    }
+    },
+    "description": "SHUGALAND HOTEL - Quality service and excellent facilities."
   },
   {
     "vendorId": "69558890c263664d295678ab",
@@ -4339,16 +5458,28 @@
       "whatsapp": "8140132719"
     },
     "images": [
-      "https://res.cloudinary.com/debpabo0a/image/upload/v1765570189/fvylutiizkkrqfvlz7xf.jpg",
-      "https://res.cloudinary.com/debpabo0a/image/upload/v1765570189/whfxaoakowedlsbe0run.jpg",
-      "https://res.cloudinary.com/debpabo0a/image/upload/v1765570189/eieh1dj6drsyqzmcawwe.jpg",
-      "https://res.cloudinary.com/debpabo0a/image/upload/v1765570190/xgk0yho8ih8duqyw2mbd.jpg"
+      {
+        "url": "https://res.cloudinary.com/debpabo0a/image/upload/v1765570189/fvylutiizkkrqfvlz7xf.jpg",
+        "public_id": "fvylutiizkkrqfvlz7xf"
+      },
+      {
+        "url": "https://res.cloudinary.com/debpabo0a/image/upload/v1765570189/whfxaoakowedlsbe0run.jpg",
+        "public_id": "whfxaoakowedlsbe0run"
+      },
+      {
+        "url": "https://res.cloudinary.com/debpabo0a/image/upload/v1765570189/eieh1dj6drsyqzmcawwe.jpg",
+        "public_id": "eieh1dj6drsyqzmcawwe"
+      },
+      {
+        "url": "https://res.cloudinary.com/debpabo0a/image/upload/v1765570190/xgk0yho8ih8duqyw2mbd.jpg",
+        "public_id": "xgk0yho8ih8duqyw2mbd"
+      }
     ],
     "price": 30000,
     "details": {
       "roomTypes": [
         {
-          "name": "Standard Room",
+          "name": "standard",
           "pricePerNight": 30000,
           "capacity": 2,
           "amenities": []
@@ -4356,7 +5487,8 @@
       ],
       "checkInTime": "14:00",
       "checkOutTime": "12:00"
-    }
+    },
+    "description": "SL HOTEL AND SUITES - Quality service and excellent facilities."
   },
   {
     "vendorId": "69558890c263664d295678ab",
@@ -4375,25 +5507,31 @@
       "whatsapp": "8134735536"
     },
     "images": [
-      "https://res.cloudinary.com/debpabo0a/image/upload/v1765570277/gxsybvmqiktrn63kflwz.jpg"
+      {
+        "url": "https://res.cloudinary.com/debpabo0a/image/upload/v1765570277/gxsybvmqiktrn63kflwz.jpg",
+        "public_id": "gxsybvmqiktrn63kflwz"
+      }
     ],
     "details": {
       "roomTypes": [
         {
-          "name": "Standard Room",
+          "name": "standard",
           "capacity": 2,
-          "amenities": []
+          "amenities": [],
+          "pricePerNight": 1000
         }
       ],
       "checkInTime": "14:00",
       "checkOutTime": "12:00"
-    }
+    },
+    "description": "SOLAM HOTEL - Quality service and excellent facilities.",
+    "price": 1000
   },
   {
     "vendorId": "69558890c263664d295678ab",
     "category": "services",
     "title": "Speed Touch",
-    "description": "At SpeedTouch Cleaning and Hygiene Service, we believe that a clean space is a healthy space. We're committed to delivering top-tier cleaning solutions that not only refresh your environment but also promote well-being and peace of mind.\n\nWith a passion for excellence and a keen eye for detail, our team is trained to handle residential, commercial, and specialized cleaning services — from deep-cleaning and disinfection to routine maintenance and hygiene care. We use eco-friendly products and modern tools to ensure every corner shines without compromise.",
+    "description": "At SpeedTouch Cleaning and Hygiene Service, we believe that a clean space is a healthy space. We're committed to delivering top-tier cleaning solutions that not only refresh your environment but also promote well-being and peace of mind.\n\nWith a passion for excellence and a keen eye for detail, our team is trained to handle residential, commercial, and specialized cleaning services — from deep-cleaning and disinfection to routine maintenance and hygiene care. We use eco-friendly products and ...",
     "location": {
       "address": "7, Oluyoro Street, Bodija",
       "area": "Bodija",
@@ -4407,7 +5545,10 @@
       "whatsapp": "2348085428181"
     },
     "images": [
-      "https://res.cloudinary.com/debpabo0a/image/upload/v1760708869/fvdjdedh6pq24ew8ukcw.jpg"
+      {
+        "url": "https://res.cloudinary.com/debpabo0a/image/upload/v1760708869/fvdjdedh6pq24ew8ukcw.jpg",
+        "public_id": "fvdjdedh6pq24ew8ukcw"
+      }
     ],
     "price": 1000,
     "details": {
@@ -4433,15 +5574,22 @@
       "whatsapp": "7053911237"
     },
     "images": [
-      "https://res.cloudinary.com/debpabo0a/image/upload/v1765570364/ly5uebzhiqqk3rhhch7r.jpg",
-      "https://res.cloudinary.com/debpabo0a/image/upload/v1765570364/jte0d1mwfygpjrtmz2md.jpg"
+      {
+        "url": "https://res.cloudinary.com/debpabo0a/image/upload/v1765570364/ly5uebzhiqqk3rhhch7r.jpg",
+        "public_id": "ly5uebzhiqqk3rhhch7r"
+      },
+      {
+        "url": "https://res.cloudinary.com/debpabo0a/image/upload/v1765570364/jte0d1mwfygpjrtmz2md.jpg",
+        "public_id": "jte0d1mwfygpjrtmz2md"
+      }
     ],
     "price": 30000,
     "details": {
       "pricePerNight": 30000,
       "maxGuests": 2,
       "amenities": []
-    }
+    },
+    "description": "STELLA HOLIDAY INN- APARTMENTS & HOTELS - Quality service and excellent facilities."
   },
   {
     "vendorId": "69558890c263664d295678ab",
@@ -4461,13 +5609,16 @@
       "whatsapp": "2349048218600"
     },
     "images": [
-      "https://res.cloudinary.com/debpabo0a/image/upload/v1761733748/dyhrehxkjztsmcbdcdbv.png"
+      {
+        "url": "https://res.cloudinary.com/debpabo0a/image/upload/v1761733748/dyhrehxkjztsmcbdcdbv.png",
+        "public_id": "dyhrehxkjztsmcbdcdbv"
+      }
     ],
     "price": 25000,
     "details": {
       "roomTypes": [
         {
-          "name": "Standard Room",
+          "name": "standard",
           "pricePerNight": 25000,
           "capacity": 2,
           "amenities": []
@@ -4494,22 +5645,37 @@
       "whatsapp": "8163127579"
     },
     "images": [
-      "https://res.cloudinary.com/debpabo0a/image/upload/v1765570460/e4yljjqnfhno44hxfavf.jpg",
-      "https://res.cloudinary.com/debpabo0a/image/upload/v1765570460/cm4uormtvnekpwmd71jk.jpg",
-      "https://res.cloudinary.com/debpabo0a/image/upload/v1765570461/h2ktjzrejhitlmpk2xg6.jpg",
-      "https://res.cloudinary.com/debpabo0a/image/upload/v1765570478/mughhc9fzzav6nob6k5z.jpg"
+      {
+        "url": "https://res.cloudinary.com/debpabo0a/image/upload/v1765570460/e4yljjqnfhno44hxfavf.jpg",
+        "public_id": "e4yljjqnfhno44hxfavf"
+      },
+      {
+        "url": "https://res.cloudinary.com/debpabo0a/image/upload/v1765570460/cm4uormtvnekpwmd71jk.jpg",
+        "public_id": "cm4uormtvnekpwmd71jk"
+      },
+      {
+        "url": "https://res.cloudinary.com/debpabo0a/image/upload/v1765570461/h2ktjzrejhitlmpk2xg6.jpg",
+        "public_id": "h2ktjzrejhitlmpk2xg6"
+      },
+      {
+        "url": "https://res.cloudinary.com/debpabo0a/image/upload/v1765570478/mughhc9fzzav6nob6k5z.jpg",
+        "public_id": "mughhc9fzzav6nob6k5z"
+      }
     ],
     "details": {
       "roomTypes": [
         {
-          "name": "Standard Room",
+          "name": "standard",
           "capacity": 2,
-          "amenities": []
+          "amenities": [],
+          "pricePerNight": 1000
         }
       ],
       "checkInTime": "14:00",
       "checkOutTime": "12:00"
-    }
+    },
+    "description": "SUGAR HOUSE SUITES & LOUNGE - Quality service and excellent facilities.",
+    "price": 1000
   },
   {
     "vendorId": "69558890c263664d295678ab",
@@ -4527,12 +5693,17 @@
       "phone": "7066171300",
       "whatsapp": "7066171300"
     },
-    "images": [],
+    "images": [
+      {
+        "url": "https://res.cloudinary.com/debpabo0a/image/upload/v1761828191/wzpfaj1eijplrfcgnsof.jpg",
+        "public_id": "wzpfaj1eijplrfcgnsof"
+      }
+    ],
     "price": 22000,
     "details": {
       "roomTypes": [
         {
-          "name": "Standard Room",
+          "name": "standard",
           "pricePerNight": 22000,
           "capacity": 2,
           "amenities": []
@@ -4540,7 +5711,8 @@
       ],
       "checkInTime": "14:00",
       "checkOutTime": "12:00"
-    }
+    },
+    "description": "SUPREME HOTELS - Quality service and excellent facilities."
   },
   {
     "vendorId": "69558890c263664d295678ab",
@@ -4558,12 +5730,17 @@
       "phone": "08076609976",
       "whatsapp": "08076609976"
     },
-    "images": [],
+    "images": [
+      {
+        "url": "https://res.cloudinary.com/debpabo0a/image/upload/v1761828191/wzpfaj1eijplrfcgnsof.jpg",
+        "public_id": "wzpfaj1eijplrfcgnsof"
+      }
+    ],
     "price": 15000,
     "details": {
       "roomTypes": [
         {
-          "name": "Standard Room",
+          "name": "standard",
           "pricePerNight": 15000,
           "capacity": 2,
           "amenities": []
@@ -4571,7 +5748,8 @@
       ],
       "checkInTime": "14:00",
       "checkOutTime": "12:00"
-    }
+    },
+    "description": "SYLVIA'S PLACE HOTEL - Quality service and excellent facilities."
   },
   {
     "vendorId": "69558890c263664d295678ab",
@@ -4591,7 +5769,10 @@
       "whatsapp": "2348075590939"
     },
     "images": [
-      "https://res.cloudinary.com/debpabo0a/image/upload/v1761054338/w73820nnajpse5yxtjev.webp"
+      {
+        "url": "https://res.cloudinary.com/debpabo0a/image/upload/v1761054338/w73820nnajpse5yxtjev.webp",
+        "public_id": "w73820nnajpse5yxtjev"
+      }
     ],
     "price": 2000,
     "details": {
@@ -4618,13 +5799,16 @@
       "whatsapp": "9160003690"
     },
     "images": [
-      "https://res.cloudinary.com/debpabo0a/image/upload/v1765570534/s5n0nkzpfuinrxsrtsik.jpg"
+      {
+        "url": "https://res.cloudinary.com/debpabo0a/image/upload/v1765570534/s5n0nkzpfuinrxsrtsik.jpg",
+        "public_id": "s5n0nkzpfuinrxsrtsik"
+      }
     ],
     "price": 90000,
     "details": {
       "roomTypes": [
         {
-          "name": "Standard Room",
+          "name": "standard",
           "pricePerNight": 90000,
           "capacity": 2,
           "amenities": []
@@ -4632,13 +5816,14 @@
       ],
       "checkInTime": "14:00",
       "checkOutTime": "12:00"
-    }
+    },
+    "description": "THE BRIDGE HOTEL - Quality service and excellent facilities."
   },
   {
     "vendorId": "69558890c263664d295678ab",
     "category": "hotel",
     "title": "The Carlton Gate Hotel",
-    "description": "Located in Ibadan, The Carlton Gate Hotel is within a 5-minute drive of Agodi Gardens and Ventura Mall. This hotel is 2.9 mi (4.7 km) from Adamasingba Stadium and 3 mi (4.8 km) from Bower's Tower.\nThis hotel offers designated smoking areas.\nAt The Carlton Gate Hotel, enjoy a satisfying meal at the restaurant. Wrap up your day with a drink at the bar/lounge. A complimentary local cuisine breakfast is served daily from 7:00 AM to 10:00 AM.\nFeatured amenities include dry cleaning/laundry services, a 24-hour front desk, and laundry facilities. Free self parking is available onsite.\nMake yourself at home in one of the 33 air-conditioned rooms featuring flat-screen televisions. Complimentary wireless internet access keeps you connected, and satellite programming is available for your entertainment. Bathrooms have showers and complimentary toiletries. Conveniences include safes, and housekeeping is provided daily.",
+    "description": "Located in Ibadan, The Carlton Gate Hotel is within a 5-minute drive of Agodi Gardens and Ventura Mall. This hotel is 2.9 mi (4.7 km) from Adamasingba Stadium and 3 mi (4.8 km) from Bower's Tower.\nThis hotel offers designated smoking areas.\nAt The Carlton Gate Hotel, enjoy a satisfying meal at the restaurant. Wrap up your day with a drink at the bar/lounge. A complimentary local cuisine breakfast is served daily from 7:00 AM to 10:00 AM.\nFeatured amenities include dry cleaning/laundry service...",
     "location": {
       "address": "29 Idi Ape Rd, Agodi, Ibadan",
       "area": "Agodi",
@@ -4652,13 +5837,16 @@
       "whatsapp": "2348030830123"
     },
     "images": [
-      "https://res.cloudinary.com/debpabo0a/image/upload/v1761734846/xxa6qgsyqepmzlyg9shr.jpg"
+      {
+        "url": "https://res.cloudinary.com/debpabo0a/image/upload/v1761734846/xxa6qgsyqepmzlyg9shr.jpg",
+        "public_id": "xxa6qgsyqepmzlyg9shr"
+      }
     ],
     "price": 45000,
     "details": {
       "roomTypes": [
         {
-          "name": "Standard Room",
+          "name": "standard",
           "pricePerNight": 45000,
           "capacity": 2,
           "amenities": []
@@ -4685,15 +5873,24 @@
       "whatsapp": "09134445907"
     },
     "images": [
-      "https://res.cloudinary.com/debpabo0a/image/upload/v1765570620/zlktirhxji6gctllkvm4.jpg",
-      "https://res.cloudinary.com/debpabo0a/image/upload/v1765570620/nfxuvpex4n9uyscoz2ku.jpg",
-      "https://res.cloudinary.com/debpabo0a/image/upload/v1765570620/hmy8gqf0pl3cp00jo2sf.jpg"
+      {
+        "url": "https://res.cloudinary.com/debpabo0a/image/upload/v1765570620/zlktirhxji6gctllkvm4.jpg",
+        "public_id": "zlktirhxji6gctllkvm4"
+      },
+      {
+        "url": "https://res.cloudinary.com/debpabo0a/image/upload/v1765570620/nfxuvpex4n9uyscoz2ku.jpg",
+        "public_id": "nfxuvpex4n9uyscoz2ku"
+      },
+      {
+        "url": "https://res.cloudinary.com/debpabo0a/image/upload/v1765570620/hmy8gqf0pl3cp00jo2sf.jpg",
+        "public_id": "hmy8gqf0pl3cp00jo2sf"
+      }
     ],
     "price": 25000,
     "details": {
       "roomTypes": [
         {
-          "name": "Standard Room",
+          "name": "standard",
           "pricePerNight": 25000,
           "capacity": 2,
           "amenities": []
@@ -4701,7 +5898,8 @@
       ],
       "checkInTime": "14:00",
       "checkOutTime": "12:00"
-    }
+    },
+    "description": "THE CITRON HOTEL - Quality service and excellent facilities."
   },
   {
     "vendorId": "69558890c263664d295678ab",
@@ -4720,15 +5918,24 @@
       "whatsapp": "9134446531"
     },
     "images": [
-      "https://res.cloudinary.com/debpabo0a/image/upload/v1765570701/rjnz3vwhbygicteshuhm.jpg",
-      "https://res.cloudinary.com/debpabo0a/image/upload/v1765570701/jo7eptqfd3zadup55sfj.jpg",
-      "https://res.cloudinary.com/debpabo0a/image/upload/v1765570701/lnhddbrvdqdsimn56mwp.jpg"
+      {
+        "url": "https://res.cloudinary.com/debpabo0a/image/upload/v1765570701/rjnz3vwhbygicteshuhm.jpg",
+        "public_id": "rjnz3vwhbygicteshuhm"
+      },
+      {
+        "url": "https://res.cloudinary.com/debpabo0a/image/upload/v1765570701/jo7eptqfd3zadup55sfj.jpg",
+        "public_id": "jo7eptqfd3zadup55sfj"
+      },
+      {
+        "url": "https://res.cloudinary.com/debpabo0a/image/upload/v1765570701/lnhddbrvdqdsimn56mwp.jpg",
+        "public_id": "lnhddbrvdqdsimn56mwp"
+      }
     ],
     "price": 60000,
     "details": {
       "roomTypes": [
         {
-          "name": "Standard Room",
+          "name": "standard",
           "pricePerNight": 60000,
           "capacity": 2,
           "amenities": []
@@ -4736,7 +5943,8 @@
       ],
       "checkInTime": "14:00",
       "checkOutTime": "12:00"
-    }
+    },
+    "description": "THE HAVEN BY NHS GLOBAL - Quality service and excellent facilities."
   },
   {
     "vendorId": "69558890c263664d295678ab",
@@ -4755,16 +5963,28 @@
       "whatsapp": "9055748552"
     },
     "images": [
-      "https://res.cloudinary.com/debpabo0a/image/upload/v1765570795/r6yqop9jkhpyrvecnjcg.jpg",
-      "https://res.cloudinary.com/debpabo0a/image/upload/v1765570795/omux7kvi2mmsd7foujlq.jpg",
-      "https://res.cloudinary.com/debpabo0a/image/upload/v1765570816/dyrwsxnrsyvavdbpzjcn.jpg",
-      "https://res.cloudinary.com/debpabo0a/image/upload/v1765570816/akypw6lh1iintohjjxts.jpg"
+      {
+        "url": "https://res.cloudinary.com/debpabo0a/image/upload/v1765570795/r6yqop9jkhpyrvecnjcg.jpg",
+        "public_id": "r6yqop9jkhpyrvecnjcg"
+      },
+      {
+        "url": "https://res.cloudinary.com/debpabo0a/image/upload/v1765570795/omux7kvi2mmsd7foujlq.jpg",
+        "public_id": "omux7kvi2mmsd7foujlq"
+      },
+      {
+        "url": "https://res.cloudinary.com/debpabo0a/image/upload/v1765570816/dyrwsxnrsyvavdbpzjcn.jpg",
+        "public_id": "dyrwsxnrsyvavdbpzjcn"
+      },
+      {
+        "url": "https://res.cloudinary.com/debpabo0a/image/upload/v1765570816/akypw6lh1iintohjjxts.jpg",
+        "public_id": "akypw6lh1iintohjjxts"
+      }
     ],
     "price": 135000,
     "details": {
       "roomTypes": [
         {
-          "name": "Standard Room",
+          "name": "standard",
           "pricePerNight": 135000,
           "capacity": 2,
           "amenities": []
@@ -4772,13 +5992,14 @@
       ],
       "checkInTime": "14:00",
       "checkOutTime": "12:00"
-    }
+    },
+    "description": "THE JAGZ HOTEL - Quality service and excellent facilities."
   },
   {
     "vendorId": "69558890c263664d295678ab",
     "category": "hotel",
     "title": "The Mathos Court",
-    "description": "The Mathos Court Ibadan is a boutique hotel that blends elegance with comfort, offering modern facilities in a serene environment. Located along Ologuneru–Eleyele axis, it provides easy access to iconic landmarks such as the University of Ibadan, Cocoa House, Agodi Gardens, Mapo Hall, and Ibadan Golf Club. The hotel features stylish rooms with air-conditioning, WiFi, flat-screen TVs, and balconies overlooking the city. Guests enjoy 24-hour front desk service, restaurant, bar, room service, and\n\nsecure parking. With its warm hospitality and calm ambiance, The Mathos Court is ideal for business travellers, leisure seekers, and families visiting the historic city of Ibadan.",
+    "description": "The Mathos Court Ibadan is a boutique hotel that blends elegance with comfort, offering modern facilities in a serene environment. Located along Ologuneru–Eleyele axis, it provides easy access to iconic landmarks such as the University of Ibadan, Cocoa House, Agodi Gardens, Mapo Hall, and Ibadan Golf Club. The hotel features stylish rooms with air-conditioning, WiFi, flat-screen TVs, and balconies overlooking the city. Guests enjoy 24-hour front desk service, restaurant, bar, room service, an...",
     "location": {
       "address": "15, Eruwa road, Ibadan",
       "area": "Ologuneru",
@@ -4792,14 +6013,20 @@
       "whatsapp": "2348063115253"
     },
     "images": [
-      "https://res.cloudinary.com/debpabo0a/image/upload/v1761312521/nrrlvtcfqijzz3mvvfkb.jpg",
-      "https://res.cloudinary.com/debpabo0a/image/upload/v1765567674/lbaiiucu0ojt1ao8nfkr.jpg"
+      {
+        "url": "https://res.cloudinary.com/debpabo0a/image/upload/v1761312521/nrrlvtcfqijzz3mvvfkb.jpg",
+        "public_id": "nrrlvtcfqijzz3mvvfkb"
+      },
+      {
+        "url": "https://res.cloudinary.com/debpabo0a/image/upload/v1765567674/lbaiiucu0ojt1ao8nfkr.jpg",
+        "public_id": "lbaiiucu0ojt1ao8nfkr"
+      }
     ],
     "price": 40000,
     "details": {
       "roomTypes": [
         {
-          "name": "Standard Room",
+          "name": "standard",
           "pricePerNight": 40000,
           "capacity": 2,
           "amenities": []
@@ -4813,7 +6040,7 @@
     "vendorId": "69558890c263664d295678ab",
     "category": "restaurant",
     "title": "The Patio",
-    "description": "The Patio Ibadan Restaurant, Lounge & Nightlife Experience Welcome to The Patio, Ibadan’s ultimate destination for fine dining, premium cocktails, and electrifying nightlife. Whether you're looking for the best restaurants in Ibadan, a stylish lounge in Ibadan for relaxed vibes, or an energetic club in Ibadan to dance the night away, we offer it all under one roof. When the weekend hits, The Patio becomes one of the best spot in Ibadan, featuring pulsating Afrobeat, Amapiano, and Hip-Hop from top DJs, a spacious dance floor and high-energy atmosphere, exclusive bottle service and VIP tables, and themed party nights with special performances.",
+    "description": "The Patio Ibadan Restaurant, Lounge & Nightlife Experience Welcome to The Patio, Ibadan’s ultimate destination for fine dining, premium cocktails, and electrifying nightlife. Whether you're looking for the best restaurants in Ibadan, a stylish lounge in Ibadan for relaxed vibes, or an energetic club in Ibadan to dance the night away, we offer it all under one roof. When the weekend hits, The Patio becomes one of the best spot in Ibadan, featuring pulsating Afrobeat, Amapiano, and Hip-Hop from...",
     "location": {
       "address": "Along BCOS, Ile Akede, Bashorun, Ibadan",
       "area": "Bashorun",
@@ -4827,7 +6054,10 @@
       "whatsapp": "2349115465458"
     },
     "images": [
-      "https://res.cloudinary.com/debpabo0a/image/upload/v1761134790/sr6z5rpqwo7rfj4lcdvf.jpg"
+      {
+        "url": "https://res.cloudinary.com/debpabo0a/image/upload/v1761134790/sr6z5rpqwo7rfj4lcdvf.jpg",
+        "public_id": "sr6z5rpqwo7rfj4lcdvf"
+      }
     ],
     "price": 1000,
     "details": {
@@ -4855,7 +6085,10 @@
       "whatsapp": "2349110228947"
     },
     "images": [
-      "https://res.cloudinary.com/debpabo0a/image/upload/v1761750747/bagpsdg8h1uwrn0u1anm.png"
+      {
+        "url": "https://res.cloudinary.com/debpabo0a/image/upload/v1761750747/bagpsdg8h1uwrn0u1anm.png",
+        "public_id": "bagpsdg8h1uwrn0u1anm"
+      }
     ],
     "price": 30000,
     "details": {
@@ -4881,15 +6114,24 @@
       "whatsapp": "8115633636"
     },
     "images": [
-      "https://res.cloudinary.com/debpabo0a/image/upload/v1765570951/fhgghmcsbxoecw0xcx6a.jpg",
-      "https://res.cloudinary.com/debpabo0a/image/upload/v1765570951/onvvbfonxwg4ebzyhorz.jpg",
-      "https://res.cloudinary.com/debpabo0a/image/upload/v1765570951/x5dzv4ylifga9wih9ecp.jpg"
+      {
+        "url": "https://res.cloudinary.com/debpabo0a/image/upload/v1765570951/fhgghmcsbxoecw0xcx6a.jpg",
+        "public_id": "fhgghmcsbxoecw0xcx6a"
+      },
+      {
+        "url": "https://res.cloudinary.com/debpabo0a/image/upload/v1765570951/onvvbfonxwg4ebzyhorz.jpg",
+        "public_id": "onvvbfonxwg4ebzyhorz"
+      },
+      {
+        "url": "https://res.cloudinary.com/debpabo0a/image/upload/v1765570951/x5dzv4ylifga9wih9ecp.jpg",
+        "public_id": "x5dzv4ylifga9wih9ecp"
+      }
     ],
     "price": 15000,
     "details": {
       "roomTypes": [
         {
-          "name": "Standard Room",
+          "name": "standard",
           "pricePerNight": 15000,
           "capacity": 2,
           "amenities": []
@@ -4897,7 +6139,8 @@
       ],
       "checkInTime": "14:00",
       "checkOutTime": "12:00"
-    }
+    },
+    "description": "TM ROYAL HOTEL - Quality service and excellent facilities."
   },
   {
     "vendorId": "69558890c263664d295678ab",
@@ -4916,16 +6159,28 @@
       "whatsapp": "9139375467"
     },
     "images": [
-      "https://res.cloudinary.com/debpabo0a/image/upload/v1765571047/qqk18k88jqsujoal4zsa.jpg",
-      "https://res.cloudinary.com/debpabo0a/image/upload/v1765571047/fv7upukw8134uazktre1.jpg",
-      "https://res.cloudinary.com/debpabo0a/image/upload/v1765571047/rqy5hpmjg7lsrtmn8goc.jpg",
-      "https://res.cloudinary.com/debpabo0a/image/upload/v1765571047/wwtjkhk4wfilsfhxonz3.jpg"
+      {
+        "url": "https://res.cloudinary.com/debpabo0a/image/upload/v1765571047/qqk18k88jqsujoal4zsa.jpg",
+        "public_id": "qqk18k88jqsujoal4zsa"
+      },
+      {
+        "url": "https://res.cloudinary.com/debpabo0a/image/upload/v1765571047/fv7upukw8134uazktre1.jpg",
+        "public_id": "fv7upukw8134uazktre1"
+      },
+      {
+        "url": "https://res.cloudinary.com/debpabo0a/image/upload/v1765571047/rqy5hpmjg7lsrtmn8goc.jpg",
+        "public_id": "rqy5hpmjg7lsrtmn8goc"
+      },
+      {
+        "url": "https://res.cloudinary.com/debpabo0a/image/upload/v1765571047/wwtjkhk4wfilsfhxonz3.jpg",
+        "public_id": "wwtjkhk4wfilsfhxonz3"
+      }
     ],
     "price": 25000,
     "details": {
       "roomTypes": [
         {
-          "name": "Standard Room",
+          "name": "standard",
           "pricePerNight": 25000,
           "capacity": 2,
           "amenities": []
@@ -4933,7 +6188,8 @@
       ],
       "checkInTime": "14:00",
       "checkOutTime": "12:00"
-    }
+    },
+    "description": "TRAVEL HOUSE HOTEL, IBADAN - Quality service and excellent facilities."
   },
   {
     "vendorId": "69558890c263664d295678ab",
@@ -4952,14 +6208,20 @@
       "whatsapp": "09069892915"
     },
     "images": [
-      "https://res.cloudinary.com/debpabo0a/image/upload/v1765571102/jglm4urczwdfttameue9.jpg",
-      "https://res.cloudinary.com/debpabo0a/image/upload/v1765571117/tmvrn24oxoepi4xcuyvg.jpg"
+      {
+        "url": "https://res.cloudinary.com/debpabo0a/image/upload/v1765571102/jglm4urczwdfttameue9.jpg",
+        "public_id": "jglm4urczwdfttameue9"
+      },
+      {
+        "url": "https://res.cloudinary.com/debpabo0a/image/upload/v1765571117/tmvrn24oxoepi4xcuyvg.jpg",
+        "public_id": "tmvrn24oxoepi4xcuyvg"
+      }
     ],
     "price": 10000,
     "details": {
       "roomTypes": [
         {
-          "name": "Standard Room",
+          "name": "standard",
           "pricePerNight": 10000,
           "capacity": 2,
           "amenities": []
@@ -4967,7 +6229,8 @@
       ],
       "checkInTime": "14:00",
       "checkOutTime": "12:00"
-    }
+    },
+    "description": "TRAVELLERS MISSION GUEST HOUSE - Quality service and excellent facilities."
   },
   {
     "vendorId": "69558890c263664d295678ab",
@@ -4986,15 +6249,24 @@
       "whatsapp": "8101591843"
     },
     "images": [
-      "https://res.cloudinary.com/debpabo0a/image/upload/v1765571205/xbhxydbl5teb940hmd6d.jpg",
-      "https://res.cloudinary.com/debpabo0a/image/upload/v1765571204/g6eawcchg9ojn8aybqrw.jpg",
-      "https://res.cloudinary.com/debpabo0a/image/upload/v1765571205/zjcv3ibyskyyusyrwfsj.jpg"
+      {
+        "url": "https://res.cloudinary.com/debpabo0a/image/upload/v1765571205/xbhxydbl5teb940hmd6d.jpg",
+        "public_id": "xbhxydbl5teb940hmd6d"
+      },
+      {
+        "url": "https://res.cloudinary.com/debpabo0a/image/upload/v1765571204/g6eawcchg9ojn8aybqrw.jpg",
+        "public_id": "g6eawcchg9ojn8aybqrw"
+      },
+      {
+        "url": "https://res.cloudinary.com/debpabo0a/image/upload/v1765571205/zjcv3ibyskyyusyrwfsj.jpg",
+        "public_id": "zjcv3ibyskyyusyrwfsj"
+      }
     ],
     "price": 35000,
     "details": {
       "roomTypes": [
         {
-          "name": "Standard Room",
+          "name": "standard",
           "pricePerNight": 35000,
           "capacity": 2,
           "amenities": []
@@ -5002,13 +6274,14 @@
       ],
       "checkInTime": "14:00",
       "checkOutTime": "12:00"
-    }
+    },
+    "description": "TRINICH HOTEL AND SUITES - Quality service and excellent facilities."
   },
   {
     "vendorId": "69558890c263664d295678ab",
     "category": "hotel",
     "title": "Trois Ore Residences",
-    "description": "Situated in Ibadan, 16 km from IITA Forest Reserve, Trois Ore Residences & Green Earth Bistro features accommodation with a garden, free private parking, a shared lounge and a terrace. Among the facilities of this property are a restaurant, room service and a 24-hour front desk, along with free WiFi throughout the property. The accommodation provides a hot tub, evening entertainment and family rooms. The rooms at the hotel come with air conditioning, a seating area, a flat-screen TV with cable channels, a safety deposit box and a private bathroom with a shower, free toiletries and a hairdryer. Rooms have a coffee machine, while certain rooms are fitted with a balcony and others also boast garden views. All rooms will provide guests with a desk and a kettle. A continental, vegetarian or vegan breakfast is available at the property. Ibadan Airport is 14 km from the property.",
+    "description": "Situated in Ibadan, 16 km from IITA Forest Reserve, Trois Ore Residences & Green Earth Bistro features accommodation with a garden, free private parking, a shared lounge and a terrace. Among the facilities of this property are a restaurant, room service and a 24-hour front desk, along with free WiFi throughout the property. The accommodation provides a hot tub, evening entertainment and family rooms. The rooms at the hotel come with air conditioning, a seating area, a flat-screen TV with cabl...",
     "location": {
       "address": "Oba Akenzua Crescent Plot 7, Commercial Subdivision - Onireke Gra, Ibadan",
       "area": "Jericho",
@@ -5022,16 +6295,28 @@
       "whatsapp": "2347054212060"
     },
     "images": [
-      "https://res.cloudinary.com/debpabo0a/image/upload/v1761045198/lx5hwmv7zai9bvyduao9.jpg",
-      "https://res.cloudinary.com/debpabo0a/image/upload/v1765571295/tmaexknnmat6gyx6bjhg.jpg",
-      "https://res.cloudinary.com/debpabo0a/image/upload/v1765571295/ux2vvknacpgjqgka6s9g.jpg",
-      "https://res.cloudinary.com/debpabo0a/image/upload/v1765571296/h0xpxrzvwxzmpskpoue3.jpg"
+      {
+        "url": "https://res.cloudinary.com/debpabo0a/image/upload/v1761045198/lx5hwmv7zai9bvyduao9.jpg",
+        "public_id": "lx5hwmv7zai9bvyduao9"
+      },
+      {
+        "url": "https://res.cloudinary.com/debpabo0a/image/upload/v1765571295/tmaexknnmat6gyx6bjhg.jpg",
+        "public_id": "tmaexknnmat6gyx6bjhg"
+      },
+      {
+        "url": "https://res.cloudinary.com/debpabo0a/image/upload/v1765571295/ux2vvknacpgjqgka6s9g.jpg",
+        "public_id": "ux2vvknacpgjqgka6s9g"
+      },
+      {
+        "url": "https://res.cloudinary.com/debpabo0a/image/upload/v1765571296/h0xpxrzvwxzmpskpoue3.jpg",
+        "public_id": "h0xpxrzvwxzmpskpoue3"
+      }
     ],
     "price": 75000,
     "details": {
       "roomTypes": [
         {
-          "name": "Standard Room",
+          "name": "standard",
           "pricePerNight": 75000,
           "capacity": 2,
           "amenities": []
@@ -5059,7 +6344,10 @@
       "whatsapp": "2349167499130"
     },
     "images": [
-      "https://res.cloudinary.com/debpabo0a/image/upload/v1761829492/rmjrl4crtai3ksdw7oxw.jpg"
+      {
+        "url": "https://res.cloudinary.com/debpabo0a/image/upload/v1761829492/rmjrl4crtai3ksdw7oxw.jpg",
+        "public_id": "rmjrl4crtai3ksdw7oxw"
+      }
     ],
     "price": 110000,
     "details": {
@@ -5085,16 +6373,28 @@
       "whatsapp": "07084000002"
     },
     "images": [
-      "https://res.cloudinary.com/debpabo0a/image/upload/v1765571410/dgmhsleqddg6mn5kudqy.jpg",
-      "https://res.cloudinary.com/debpabo0a/image/upload/v1765571411/kicxza6dqzfsu5zwgb6p.jpg",
-      "https://res.cloudinary.com/debpabo0a/image/upload/v1765571411/df700lf9a5oylmv6y4el.jpg",
-      "https://res.cloudinary.com/debpabo0a/image/upload/v1765571411/ns74n4axx5e5ocyrla28.jpg"
+      {
+        "url": "https://res.cloudinary.com/debpabo0a/image/upload/v1765571410/dgmhsleqddg6mn5kudqy.jpg",
+        "public_id": "dgmhsleqddg6mn5kudqy"
+      },
+      {
+        "url": "https://res.cloudinary.com/debpabo0a/image/upload/v1765571411/kicxza6dqzfsu5zwgb6p.jpg",
+        "public_id": "kicxza6dqzfsu5zwgb6p"
+      },
+      {
+        "url": "https://res.cloudinary.com/debpabo0a/image/upload/v1765571411/df700lf9a5oylmv6y4el.jpg",
+        "public_id": "df700lf9a5oylmv6y4el"
+      },
+      {
+        "url": "https://res.cloudinary.com/debpabo0a/image/upload/v1765571411/ns74n4axx5e5ocyrla28.jpg",
+        "public_id": "ns74n4axx5e5ocyrla28"
+      }
     ],
     "price": 25000,
     "details": {
       "roomTypes": [
         {
-          "name": "Standard Room",
+          "name": "standard",
           "pricePerNight": 25000,
           "capacity": 2,
           "amenities": []
@@ -5102,13 +6402,14 @@
       ],
       "checkInTime": "14:00",
       "checkOutTime": "12:00"
-    }
+    },
+    "description": "U.I HOTEL - Quality service and excellent facilities."
   },
   {
     "vendorId": "69558890c263664d295678ab",
     "category": "event",
     "title": "UI International Conference Centre",
-    "description": "The Centre The UIEF International Conference Centre (UICC) is expected to provide an ideal location for exciting small and large events. Ideal for, large receptions or goals and other special events, concerts, consumer and trade shows of local and international standards\nNo doubt, the centre would play host to several international, Regional and National, Social, Cultural, Economic and Religious conferences, summits, meetings, seminars, ceremonies and programmes.\nThe ICC has five halls together and their capacities are as follows:\n1. Professor Oristsejolomi Thomas Hall - 5000 sitting capacity\n2. Dr Micheal O. Omolayole Hall - 600 sitting capacity\n3. Dr gamaliel Onosode Hall - 500 sitting capacity\n4. Dr Olabode Ogunlana - 300 sitting capacity\n5. Dr Olusegun Aganga Hall - 300 sitting capacity",
+    "description": "The Centre The UIEF International Conference Centre (UICC) is expected to provide an ideal location for exciting small and large events. Ideal for, large receptions or goals and other special events, concerts, consumer and trade shows of local and international standards\nNo doubt, the centre would play host to several international, Regional and National, Social, Cultural, Economic and Religious conferences, summits, meetings, seminars, ceremonies and programmes.\nThe ICC has five halls togeth...",
     "location": {
       "address": "University of Ibadan, 2nd gate",
       "area": "Agbowo",
@@ -5122,13 +6423,17 @@
       "whatsapp": "2349030021777"
     },
     "images": [
-      "https://res.cloudinary.com/debpabo0a/image/upload/v1761736199/obpwf07bzzvihueuoy8z.jpg"
+      {
+        "url": "https://res.cloudinary.com/debpabo0a/image/upload/v1761736199/obpwf07bzzvihueuoy8z.jpg",
+        "public_id": "obpwf07bzzvihueuoy8z"
+      }
     ],
     "price": 400000,
     "details": {
       "eventDate": "2025-12-29T15:13:50.600Z",
       "venue": "University of Ibadan, 2nd gate",
-      "capacity": 50
+      "capacity": 50,
+      "ticketPrice": 400000
     }
   },
   {
@@ -5149,7 +6454,10 @@
       "whatsapp": "2348034227575"
     },
     "images": [
-      "https://res.cloudinary.com/debpabo0a/image/upload/v1761052274/h8dewxarz378qtrz28l6.jpg"
+      {
+        "url": "https://res.cloudinary.com/debpabo0a/image/upload/v1761052274/h8dewxarz378qtrz28l6.jpg",
+        "public_id": "h8dewxarz378qtrz28l6"
+      }
     ],
     "price": 2000,
     "details": {
@@ -5176,16 +6484,28 @@
       "whatsapp": "9038245760"
     },
     "images": [
-      "https://res.cloudinary.com/debpabo0a/image/upload/v1765571520/y3ztivvkk2yk9waobm1v.jpg",
-      "https://res.cloudinary.com/debpabo0a/image/upload/v1765571521/ffyuipmx7dpl7oijamxp.jpg",
-      "https://res.cloudinary.com/debpabo0a/image/upload/v1765571520/qi37qrnnx1zaifgbxopv.jpg",
-      "https://res.cloudinary.com/debpabo0a/image/upload/v1765571521/oowunhy2ddro1qkkqvb8.jpg"
+      {
+        "url": "https://res.cloudinary.com/debpabo0a/image/upload/v1765571520/y3ztivvkk2yk9waobm1v.jpg",
+        "public_id": "y3ztivvkk2yk9waobm1v"
+      },
+      {
+        "url": "https://res.cloudinary.com/debpabo0a/image/upload/v1765571521/ffyuipmx7dpl7oijamxp.jpg",
+        "public_id": "ffyuipmx7dpl7oijamxp"
+      },
+      {
+        "url": "https://res.cloudinary.com/debpabo0a/image/upload/v1765571520/qi37qrnnx1zaifgbxopv.jpg",
+        "public_id": "qi37qrnnx1zaifgbxopv"
+      },
+      {
+        "url": "https://res.cloudinary.com/debpabo0a/image/upload/v1765571521/oowunhy2ddro1qkkqvb8.jpg",
+        "public_id": "oowunhy2ddro1qkkqvb8"
+      }
     ],
     "price": 15000,
     "details": {
       "roomTypes": [
         {
-          "name": "Standard Room",
+          "name": "standard",
           "pricePerNight": 15000,
           "capacity": 2,
           "amenities": []
@@ -5193,7 +6513,8 @@
       ],
       "checkInTime": "14:00",
       "checkOutTime": "12:00"
-    }
+    },
+    "description": "WAVELENGTH HOTEL AND SUITES - Quality service and excellent facilities."
   },
   {
     "vendorId": "69558890c263664d295678ab",
@@ -5211,12 +6532,17 @@
       "phone": "8101435921",
       "whatsapp": "8101435921"
     },
-    "images": [],
+    "images": [
+      {
+        "url": "https://res.cloudinary.com/debpabo0a/image/upload/v1761828191/wzpfaj1eijplrfcgnsof.jpg",
+        "public_id": "wzpfaj1eijplrfcgnsof"
+      }
+    ],
     "price": 22400,
     "details": {
       "roomTypes": [
         {
-          "name": "Standard Room",
+          "name": "standard",
           "pricePerNight": 22400,
           "capacity": 2,
           "amenities": []
@@ -5224,7 +6550,8 @@
       ],
       "checkInTime": "14:00",
       "checkOutTime": "12:00"
-    }
+    },
+    "description": "WETLAND HOTELS - Quality service and excellent facilities."
   },
   {
     "vendorId": "69558890c263664d295678ab",
@@ -5244,7 +6571,10 @@
       "whatsapp": "2348143789707"
     },
     "images": [
-      "https://res.cloudinary.com/debpabo0a/image/upload/v1761828128/zjqb6wzwhq2nouwa9ejv.jpg"
+      {
+        "url": "https://res.cloudinary.com/debpabo0a/image/upload/v1761828128/zjqb6wzwhq2nouwa9ejv.jpg",
+        "public_id": "zjqb6wzwhq2nouwa9ejv"
+      }
     ],
     "price": 75000,
     "details": {

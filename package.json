@@ -6,7 +6,10 @@
   "type": "module",
   "scripts": {
     "dev": "nodemon",
-    "test": "jest"
+    "test": "jest",
+    "add-vendor-id": "node utils/add-vendor-id.js",
+    "upload-listings": "node utils/upload-listings.js",
+    "migrate-images": "node utils/migrate-images.js"
   },
   "keywords": [],
   "author": "",
@@ -14,6 +17,7 @@
   "dependencies": {
     "@supabase/supabase-js": "^2.87.1",
     "bcryptjs": "^3.0.3",
+    "cloudinary": "^2.8.0",
     "cors": "^2.8.5",
     "dotenv": "^17.2.3",
     "express": "^5.2.1",
@@ -25,6 +29,8 @@
     "jsonwebtoken": "^9.0.3",
     "mongoose": "^9.0.1",
     "morgan": "^1.10.1",
+    "multer": "^2.0.2",
+    "multer-storage-cloudinary": "^4.0.0",
     "nodemailer": "^7.0.11",
     "resend": "^6.6.0",
     "supertest": "^7.1.4",

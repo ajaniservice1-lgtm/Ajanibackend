@@ -48,6 +48,11 @@ FRONTEND_URL=http://localhost:3000
 # Email (Gmail)
 GOOGLE_EMAIL=your_email@gmail.com
 GOOGLE_APP_PASSWORD=your_app_password
+
+# Cloudinary (for image uploads)
+CLOUDINARY_NAME=your_cloudinary_cloud_name
+CLOUDINARY_KEY=your_cloudinary_api_key
+CLOUDINARY_SECRET=your_cloudinary_api_secret
 ```
 
 **⚠️ Important:** Never commit your `.env.local` file to GitHub! It contains sensitive information.
