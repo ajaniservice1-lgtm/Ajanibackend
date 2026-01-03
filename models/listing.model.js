@@ -215,7 +215,7 @@ const listingSchema = new mongoose.Schema(
 
     status: {
       type: String,
-      enum: ["active", "inactive", "pending", "rejected", "approved"],
+      enum: ["pending", "rejected", "approved"],
       default: "pending",
     },
 

@@ -4,6 +4,7 @@ import catchAsync from "../utils/catchAsync.js";
 import AppError from "../utils/errorHandler.js";
 import cloudinary from "../config/cloudinary.js";
 import { deleteImageFromCloudinary, normalizeImages } from "../utils/imageHelpers.js";
+import APIFeatures from "../utils/apiFeatures.js";
 
 // CREATE LISTING
 const createListing = catchAsync(async (req, res, next) => {
@@ -57,14 +58,21 @@ const getListings = catchAsync(async (req, res) => {
   const queryString = JSON.stringify(queryObj);
   const query = JSON.parse(queryString);
 
-  const listings = await Listing.find(query).sort("-createdAt").populate("vendorId");
+  const features = new APIFeatures(Listing.find(query), req.query)
+    .filter()
+    .sort()
+    .limitFields()
+    .paginate();
 
-  const totalListings = await Listing.countDocuments();
+  const listings = await features.query.populate("vendorId");
 
   res.status(200).json({
+    status: "success",
     message: "Listings retrieved successfully",
-    results: totalListings,
-    data: listings,
+    results: listings.length,
+    data: {
+      listings,
+    },
   });
 });
 
