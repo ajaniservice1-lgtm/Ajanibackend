@@ -117,6 +117,7 @@ const userSchema = new mongoose.Schema(
   { timestamps: true }
 );
 
+// Email already has unique: true which creates an index automatically
 userSchema.index({ role: 1 });
 userSchema.index({ "vendor.approvalStatus": 1 });
 

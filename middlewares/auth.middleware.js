@@ -13,7 +13,7 @@ export const protect = catchAsync(async (req, res, next) => {
 
   // Check if token exist
   if (!token) {
-    return next(new AppError("Your are not logged in! Please login to get access", 401));
+    return next(new AppError(401, "Your are not logged in! Please login to get access"));
   }
 
   // 2) Verifying the token
@@ -26,8 +26,8 @@ export const protect = catchAsync(async (req, res, next) => {
   if (!freshUser) {
     return next(
       new AppError(
-        "The user belonging to this token does not longer exist! Please login to get access",
-        401
+        401,
+        "The user belonging to this token does not longer exist! Please login to get access"
       )
     );
   }

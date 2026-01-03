@@ -3,6 +3,7 @@ import User from "../models/user.model.js";
 import catchAsync from "../utils/catchAsync.js";
 import AppError from "../utils/errorHandler.js";
 import crypto from "crypto";
+import bcrypt from "bcryptjs";
 import sendEmailResend from "../utils/resend.js";
 import {
   userRegistrationEmailTemplate,
@@ -67,20 +68,23 @@ export const login = catchAsync(async (req, res, next) => {
   if (!email || !password) throw new AppError(400, "All fields are required");
 
   // Check if user exists and include password field (which is normally excluded)
-  const user = await User.findOne({ email }).select("+password");
+  // Use lean() for faster queries - returns plain object instead of Mongoose document
+  const user = await User.findOne({ email }).select("+password").lean();
 
-  if (!user || !(await user.correctPassword(password, user.password)))
-    return next(new AppError("Incorrect email or password", 400));
+  if (!user) return next(new AppError(400, "Incorrect email or password"));
+
+  const isPasswordCorrect = await bcrypt.compare(password, user.password);
+  if (!isPasswordCorrect) return next(new AppError(400, "Incorrect email or password"));
 
   // Generate token - When everything is correct
   const token = generateToken(user);
 
-  // Remove password from output
-  user.password = undefined;
-  user.verificationToken = undefined;
-  user.verificationTokenExpires = undefined;
-  user.resetToken = undefined;
-  user.resetTokenExpires = undefined;
+  // Remove password and sensitive fields from output
+  delete user.password;
+  delete user.verificationToken;
+  delete user.verificationTokenExpires;
+  delete user.resetToken;
+  delete user.resetTokenExpires;
 
   res.status(200).json({ message: "Login successful! Welcome to Ajani.", data: user, token });
 });
