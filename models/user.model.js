@@ -127,15 +127,15 @@ userSchema.pre("save", async function () {
   this.password = await bcrypt.hash(this.password, 12);
 });
 
-// Validate vendor categories before saving
+// Validate vendor category before saving
 userSchema.pre("save", async function () {
   if (this.role === "vendor") {
-    if (!this.vendor || !this.vendor.categories || this.vendor.categories.length === 0) {
+    if (!this.vendor || !this.vendor.category || this.vendor.category.length === 0) {
       throw new AppError(400, "At least one category is required for vendor accounts");
     }
-    // Normalize categories: trim and lowercase each category
-    if (this.vendor.categories && Array.isArray(this.vendor.categories)) {
-      this.vendor.categories = this.vendor.categories.map(cat => cat.trim().toLowerCase());
+    // Normalize category: trim and lowercase each category
+    if (this.vendor.category && Array.isArray(this.vendor.category)) {
+      this.vendor.category = this.vendor.category.map(cat => cat.trim().toLowerCase());
     }
   }
 });
