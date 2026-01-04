@@ -6,7 +6,7 @@ import AppError from "../utils/errorHandler.js";
 // Vendor Schema (for vendors - needs admin approval)
 const vendorSchema = new mongoose.Schema(
   {
-    categories: {
+    category: {
       type: [String],
       enum: ["hotel", "restaurant", "shortlet", "services", "event"],
       required: [true, "At least one category is required"],
