@@ -232,32 +232,6 @@ const listingSchema = new mongoose.Schema(
   { timestamps: true }
 );
 
-// listingSchema.pre("validate", function (next) {
-//   const categorySchemas = {
-//     hotel: HotelDetailsSchema,
-//     shortlet: ShortletDetailsSchema,
-//     restaurant: RestaurantDetailsSchema,
-//     service: ServiceDetailsSchema,
-//     event: EventDetailsSchema,
-//   };
-
-//   const schema = categorySchemas[this.category];
-
-//   if (!schema) {
-//     return next(new Error("Invalid listing category"));
-//   }
-
-//   const isValid = mongoose.Document.prototype.validateSync.call(
-//     new mongoose.Document(this.details, schema)
-//   );
-
-//   if (isValid) {
-//     return next(new Error(`Invalid details for category: ${this.category}`));
-//   }
-
-//   next();
-// });
-
 // Normalize images to new format (objects with url and public_id) before saving
 listingSchema.pre("save", function () {
   if (this.images && Array.isArray(this.images)) {

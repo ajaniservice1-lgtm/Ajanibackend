@@ -188,6 +188,7 @@ const deleteListing = catchAsync(async (req, res, next) => {
   res.status(200).json({ status: "success", message: "Listing deleted successfully" });
 });
 
+
 export {
   createListing,
   getListings,

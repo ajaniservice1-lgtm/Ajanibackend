@@ -9,7 +9,8 @@
     "test": "jest",
     "add-vendor-id": "node utils/add-vendor-id.js",
     "upload-listings": "node utils/upload-listings.js",
-    "migrate-images": "node utils/migrate-images.js"
+    "migrate-images": "node utils/migrate-images.js",
+    "approve-listings": "node utils/approve-listings.js"
   },
   "keywords": [],
   "author": "",
